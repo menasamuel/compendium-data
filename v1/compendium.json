@@ -1,0 +1,1349 @@
+{
+  "schemaVersion": 1,
+  "version": "99b5340e20aa",
+  "topics": [
+    {
+      "id": "af",
+      "name": "Atrial Fibrillation",
+      "speciality": "Cardiology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Atrial Fibrillation",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=atrial%20fibrillation",
+            "description": "Quick reference for AF workup, anticoagulation thresholds, rate vs rhythm control, and ongoing management."
+          },
+          {
+            "name": "Australian AF Guideline (Heart Foundation / CSANZ)",
+            "url": "https://www.heartfoundation.org.au/for-professionals/fp-atrial-fibrillation-clinical-resources",
+            "description": "Full Australian consensus guideline for AF screening, stroke prevention, rhythm control, and referral decisions."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Atrial Fibrillation",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=atrial%20fibrillation",
+            "description": "Dosing, contraindications, renal adjustment, interactions, and comparative prescribing guidance for anticoagulants and AF medications."
+          },
+          {
+            "name": "Australian Medicines Handbook (AMH) – AF / Anticoagulants",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=class%20anticoagulants",
+            "description": "Dosing, contraindications, renal adjustment, interactions, and comparative prescribing information for anticoagulants and AF medications."
+          }
+        ],
+        "tools": [
+          {
+            "name": "CHA₂DS₂-VASc Calculator (MDCalc)",
+            "url": "https://www.mdcalc.com/calc/801/cha2ds2-vasc-score-atrial-fibrillation-stroke-risk",
+            "description": "Stroke risk stratification to guide anticoagulation discussions and prescribing."
+          },
+          {
+            "name": "HAS-BLED Calculator (MDCalc)",
+            "url": "https://www.mdcalc.com/calc/807/has-bled-score-major-bleeding-risk",
+            "description": "Bleeding risk estimation during anticoagulation assessment and counselling."
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "Heart Foundation – Atrial Fibrillation Patient Information",
+            "url": "https://www.heartfoundation.org.au/your-heart/atrial-fibrillation",
+            "description": "High-quality Australian patient handout suitable for post-consult counselling and education."
+          },
+          {
+            "name": "Healthdirect – Atrial Fibrillation",
+            "url": "https://www.healthdirect.gov.au/atrial-fibrillation",
+            "description": "Simple patient-facing explanation of AF symptoms, risks, investigations, and treatment."
+          },
+          {
+            "name": "Better Health Channel – Atrial Fibrillation",
+            "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/heart-conditions-atrial-fibrillation",
+            "description": "Readable consumer resource useful for reinforcing lifestyle and treatment advice."
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Cardiology Associates (Miranda/Engadine)",
+          "details": "Consultant cardiologists • Diagnostics and ongoing care",
+          "url": "https://cardiologyassociates.com.au/",
+          "sponsored": false
+        },
+        {
+          "name": "The Shire Heart Clinic (Miranda)",
+          "details": "Cardiology rooms • Sutherland Shire",
+          "url": "https://www.shireheart.com.au/",
+          "sponsored": false
+        },
+        {
+          "name": "Miranda Cardiology (Miranda)",
+          "details": "Cardiology practice • Sutherland Shire",
+          "url": "https://www.mirandacardiology.com.au/",
+          "sponsored": false
+        }
+      ],
+      "cpd": [
+        {
+          "name": "RACGP events (search: Atrial Fibrillation)",
+          "details": "Webinar, on-demand and in-person • CPD hours listed",
+          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=Atrial%20Fibrillation",
+          "sponsored": false
+        },
+        {
+          "name": "ThinkGP education (catalogue)",
+          "details": "Accredited learning • Filter by category/topic",
+          "url": "https://www.thinkgp.com.au/education",
+          "sponsored": false
+        }
+      ],
+      "events": [
+        {
+          "title": "Healthed seminars (Sydney + major cities)",
+          "details": "Face-to-face education • CPD accredited • Check dates on site",
+          "tags": [
+            "CPD",
+            "Australia"
+          ],
+          "url": "https://www.healthed.com.au/seminars/",
+          "sponsored": false
+        },
+        {
+          "title": "GPCE Sydney (conference)",
+          "details": "Primary care conference • Accredited sessions • Check dates on site",
+          "tags": [
+            "Conference",
+            "CPD"
+          ],
+          "url": "https://www.gpce.com.au/sydney/en-gb.html",
+          "sponsored": false
+        }
+      ],
+      "pharma": [
+        {
+          "company": "Bristol Myers Squibb / Pfizer",
+          "product": "Eliquis® (apixaban)",
+          "url": "https://www.eliquis.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Bayer",
+          "product": "Xarelto® (rivaroxaban)",
+          "url": "https://www.xarelto.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Boehringer Ingelheim",
+          "product": "Pradaxa® (dabigatran)",
+          "url": "https://www.boehringer-ingelheim.com/au",
+          "orderSamples": true,
+          "sponsored": false
+        }
+      ]
+    },
+    {
+      "id": "t2dm",
+      "name": "Type 2 Diabetes Mellitus",
+      "speciality": "Endocrinology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Type 2 Diabetes Mellitus",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=type%202%20diabetes%20mellitus",
+            "description": "Quick reference for diagnosis, glycaemic targets, pharmacotherapy escalation, and complication management."
+          },
+          {
+            "name": "Australian Diabetes Society – Type 2 Diabetes Guidelines",
+            "url": "https://diabetessociety.com.au/guidelines.asp",
+            "description": "Evidence-based Australian guidance for T2DM management and escalation pathways."
+          },
+          {
+            "name": "RACGP – Management of Type 2 Diabetes",
+            "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/management-of-type-2-diabetes/introduction",
+            "description": "Australian general practice guideline covering diagnosis, glycaemic targets, lifestyle management, pharmacotherapy, and complication screening in T2DM."
+          },
+          {
+            "name": "RACGP – Emergency Management of Hyperglycaemia",
+            "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/emergency-management-of-hyperglycaemia",
+            "description": "Australian general practice guideline covering assessment and initial management of severe hyperglycaemia, DKA, and hyperosmolar states in primary care."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Type 2 Diabetes Mellitus",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=type%202%20diabetes%20mellitus",
+            "description": "Dosing, contraindications, renal adjustment, PBS considerations, and comparison of diabetes medications."
+          },
+          {
+            "name": "Diabetes Australia – Medication Resources",
+            "url": "https://www.diabetesaustralia.com.au",
+            "description": "Patient-friendly and clinician-supported medication and insulin education resources."
+          }
+        ],
+        "tools": [
+          {
+            "name": "AUSDRISK Calculator",
+            "url": "https://www.health.gov.au/resources/apps-and-tools/the-australian-type-2-diabetes-risk-assessment-tool-ausdrisk",
+            "description": "Validated Australian diabetes risk assessment tool for screening and prevention."
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "National Diabetes Services Scheme (NDSS) – Type 2 Diabetes Factsheets",
+            "url": "https://www.ndss.com.au/about-diabetes/type-2-diabetes",
+            "description": "High-quality Australian patient handouts covering diagnosis, diet, monitoring, and medications."
+          },
+          {
+            "name": "Healthdirect – Type 2 Diabetes",
+            "url": "https://www.healthdirect.gov.au/type-2-diabetes",
+            "description": "Simple patient-facing overview of T2DM symptoms, diagnosis, treatment, and prevention."
+          },
+          {
+            "name": "Diabetes Australia – Type 2 Diabetes Information",
+            "url": "https://www.diabetesaustralia.com.au/about-diabetes/what-is-diabetes/",
+            "description": "Consumer-friendly education resource suitable for reinforcing lifestyle and medication counselling."
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Southern Endocrine (Sutherland)",
+          "details": "Diabetes + endocrinology • Includes allied health support",
+          "url": "https://www.southernendocrine.com.au/",
+          "sponsored": true
+        },
+        {
+          "name": "South Sydney Medical Specialists (Miranda/Kogarah)",
+          "details": "Endocrinology + diabetes • Multiple endocrinologists",
+          "url": "https://www.southsydneymedicalspecialists.com.au/",
+          "sponsored": true
+        },
+        {
+          "name": "Sutherland Hospital — Endocrine & Diabetes Outpatient Clinic",
+          "details": "Public outpatient clinic (referral required)",
+          "url": "https://www.seslhd.health.nsw.gov.au/sutherland-hospital/endocrine-and-diabetes-outpatient-clinic",
+          "sponsored": false
+        }
+      ],
+      "cpd": [
+        {
+          "name": "RACGP events (search: diabetes)",
+          "details": "Webinar, on-demand and in-person • CPD hours listed",
+          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=diabetes",
+          "sponsored": true
+        },
+        {
+          "name": "ThinkGP education (catalogue)",
+          "details": "Accredited learning • Filter by category/topic",
+          "url": "https://www.thinkgp.com.au/education",
+          "sponsored": false
+        }
+      ],
+      "events": [
+        {
+          "title": "Healthed seminars (Sydney + major cities)",
+          "details": "Face-to-face education • CPD accredited • Check dates on site",
+          "tags": [
+            "CPD",
+            "Australia"
+          ],
+          "url": "https://www.healthed.com.au/seminars/",
+          "sponsored": false
+        },
+        {
+          "title": "GPCE Sydney (conference)",
+          "details": "Primary care conference • Accredited sessions • Check dates on site",
+          "tags": [
+            "Conference",
+            "CPD"
+          ],
+          "url": "https://www.gpce.com.au/sydney/en-gb.html",
+          "sponsored": false
+        }
+      ],
+      "pharma": [
+        {
+          "company": "Novo Nordisk",
+          "product": "Ozempic® (semaglutide)",
+          "url": "https://www.novonordisk.com.au/",
+          "orderSamples": true,
+          "sponsored": true
+        },
+        {
+          "company": "Eli Lilly",
+          "product": "Mounjaro® (tirzepatide)",
+          "url": "https://au.lilly.com/",
+          "orderSamples": true,
+          "sponsored": true
+        },
+        {
+          "company": "AstraZeneca",
+          "product": "Forxiga® (dapagliflozin)",
+          "url": "https://www.astrazeneca.com.au/",
+          "orderSamples": false,
+          "sponsored": false
+        },
+        {
+          "company": "Boehringer Ingelheim",
+          "product": "Jardiance® (empagliflozin)",
+          "url": "https://www.boehringer-ingelheim.com/au",
+          "orderSamples": false,
+          "sponsored": false
+        },
+        {
+          "company": "Sanofi",
+          "product": "Basal insulin portfolio",
+          "url": "https://www.sanofi.com.au/",
+          "orderSamples": false,
+          "sponsored": false
+        }
+      ]
+    },
+    {
+      "id": "dyslipidaemia",
+      "name": "Hyperlipidaemia",
+      "speciality": "Cardiology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Hyperlipidaemia",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=hyperlipidaemia",
+            "description": "Quick reference for lipid targets, statin initiation, cardiovascular risk reduction, and escalation therapy."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Statins",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=statins",
+            "description": "Dosing, interactions, adverse effects, and comparison of statins and other lipid-lowering therapies."
+          },
+          {
+            "name": "NPS MedicineWise – Lipid Management",
+            "url": "https://www.nps.org.au/professionals/managing-lipids",
+            "description": "Practical prescribing guidance for statins, ezetimibe, and cardiovascular risk reduction."
+          },
+          {
+            "name": "Heart Foundation – Cholesterol Management Resources",
+            "url": "https://www.heartfoundation.org.au",
+            "description": "Clinician and patient resources for cholesterol lowering and cardiovascular prevention."
+          }
+        ],
+        "tools": [
+          {
+            "name": "Australian Absolute CVD Risk Calculator",
+            "url": "https://www.cvdcheck.org.au/calculator",
+            "description": "Absolute cardiovascular risk assessment tool used to guide lipid-lowering therapy decisions."
+          },
+          {
+            "name": "MDCalc – Framingham Risk Score",
+            "url": "https://www.mdcalc.com/calc/38/framingham-risk-score-hard-coronary-heart-disease",
+            "description": "Fast LDL calculation and lipid interpretation support."
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "Heart Foundation – Healthy Eating",
+            "url": "https://www.heartfoundation.org.au/healthy-living/healthy-eating",
+            "description": "Patient-friendly explanation of cholesterol, cardiovascular risk, and treatment."
+          },
+          {
+            "name": "Healthdirect – Cholesterol",
+            "url": "https://www.healthdirect.gov.au/cholesterol",
+            "description": "Simple patient-facing overview of hyperlipidaemia, risks, and treatment options."
+          },
+          {
+            "name": "Better Health Channel – Cholesterol",
+            "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/cholesterol",
+            "description": "Consumer-friendly resource for lifestyle modification and lipid management."
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Healthdirect — Service finder",
+          "details": "Find local specialists and services by suburb/postcode",
+          "url": "https://www.healthdirect.gov.au/australian-health-services",
+          "sponsored": false
+        },
+        {
+          "name": "Your Health In Mind — Find a psychiatrist (if relevant)",
+          "details": "Directory of psychiatrists (where applicable)",
+          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist",
+          "sponsored": false
+        },
+        {
+          "name": "Healthengine — Specialist search",
+          "details": "Book specialists/allied health (availability varies)",
+          "url": "https://healthengine.com.au/",
+          "sponsored": false
+        }
+      ],
+      "cpd": [
+        {
+          "name": "RACGP events (search: cholesterol)",
+          "details": "Webinar, on-demand and in-person • CPD hours listed",
+          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=cholesterol",
+          "sponsored": false
+        },
+        {
+          "name": "ThinkGP education (catalogue)",
+          "details": "Accredited learning • Filter by topic",
+          "url": "https://www.thinkgp.com.au/education",
+          "sponsored": false
+        }
+      ],
+      "events": [
+        {
+          "title": "Healthed seminars (Sydney + major cities)",
+          "details": "Face-to-face education • CPD accredited • Check dates",
+          "tags": [
+            "CPD",
+            "Australia"
+          ],
+          "url": "https://www.healthed.com.au/seminars/",
+          "sponsored": false
+        },
+        {
+          "title": "GPCE Sydney (conference)",
+          "details": "Primary care conference • Accredited sessions • Check dates",
+          "tags": [
+            "Conference",
+            "CPD"
+          ],
+          "url": "https://www.gpce.com.au/sydney/en-gb.html",
+          "sponsored": false
+        }
+      ],
+      "pharma": [
+        {
+          "company": "Pfizer",
+          "product": "Lipitor® (atorvastatin) legacy branding / lipid lowering",
+          "url": "https://www.pfizer.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "AstraZeneca",
+          "product": "Crestor® (rosuvastatin) legacy branding",
+          "url": "https://www.astrazeneca.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Amgen",
+          "product": "Repatha® (evolocumab) PCSK9 inhibitor",
+          "url": "https://www.amgen.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        }
+      ]
+    },
+    {
+      "id": "htn",
+      "name": "Hypertension",
+      "speciality": "Cardiology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Hypertension",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=hypertension",
+            "description": "Quick reference for diagnosis, BP targets, antihypertensive initiation, escalation, and resistant hypertension management."
+          },
+          {
+            "name": "National Heart Foundation – Hypertension Guidelines",
+            "url": "https://www.heartfoundation.org.au/for-professionals/hypertension",
+            "description": "Australian guidance for hypertension diagnosis, cardiovascular risk assessment, and treatment targets."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Antihypertensives",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=antihypertensives",
+            "description": "Dosing, contraindications, interactions, and comparison of antihypertensive medication classes."
+          }
+        ],
+        "tools": [
+          {
+            "name": "Australian Absolute CVD Risk Calculator",
+            "url": "https://www.cvdcheck.org.au/calculator",
+            "description": "Absolute cardiovascular risk assessment tool used alongside BP management decisions."
+          },
+          {
+            "name": "American Heart Association – Blood Pressure Diary",
+            "url": "https://www.heart.org/-/media/files/health-topics/high-blood-pressure/my-blood-pressure-log.pdf",
+            "description": "Printable home blood pressure diary for patient self-monitoring and review."
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "Heart Foundation – High Blood Pressure Factsheet",
+            "url": "https://www.heartfoundation.org.au/heart-health-education/high-blood-pressure",
+            "description": "Patient-friendly explanation of hypertension, risks, and treatment approaches."
+          },
+          {
+            "name": "Healthdirect – High Blood Pressure",
+            "url": "https://www.healthdirect.gov.au/high-blood-pressure-hypertension",
+            "description": "Simple patient-facing overview of hypertension symptoms, monitoring, and treatment."
+          },
+          {
+            "name": "Better Health Channel - Blood pressure (high) - hypertension",
+            "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/blood-pressure-high-hypertension",
+            "description": "Consumer-friendly lifestyle and treatment education resource for hypertension."
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Cardiology Associates (Miranda/Engadine)",
+          "details": "Consultant cardiologists • Diagnostics and ongoing care",
+          "url": "https://cardiologyassociates.com.au/",
+          "sponsored": false
+        },
+        {
+          "name": "The Shire Heart Clinic (Miranda)",
+          "details": "Cardiology rooms • Sutherland Shire",
+          "url": "https://www.shireheart.com.au/",
+          "sponsored": false
+        },
+        {
+          "name": "Miranda Cardiology (Miranda)",
+          "details": "Cardiology practice • Sutherland Shire",
+          "url": "https://www.mirandacardiology.com.au/",
+          "sponsored": false
+        }
+      ],
+      "cpd": [
+        {
+          "name": "RACGP events (search: Hypertension)",
+          "details": "Webinar, on-demand and in-person • CPD hours listed",
+          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=Hypertension",
+          "sponsored": false
+        },
+        {
+          "name": "ThinkGP education (catalogue)",
+          "details": "Accredited learning • Filter by category/topic",
+          "url": "https://www.thinkgp.com.au/education",
+          "sponsored": false
+        }
+      ],
+      "events": [
+        {
+          "title": "Healthed seminars (Sydney + major cities)",
+          "details": "Face-to-face education • CPD accredited • Check dates on site",
+          "tags": [
+            "CPD",
+            "Australia"
+          ],
+          "url": "https://www.healthed.com.au/seminars/",
+          "sponsored": false
+        },
+        {
+          "title": "GPCE Sydney (conference)",
+          "details": "Primary care conference • Accredited sessions • Check dates on site",
+          "tags": [
+            "Conference",
+            "CPD"
+          ],
+          "url": "https://www.gpce.com.au/sydney/en-gb.html",
+          "sponsored": false
+        }
+      ],
+      "pharma": [
+        {
+          "company": "Servier",
+          "product": "Perindopril (ACE inhibitor) portfolio",
+          "url": "https://www.servier.com/en/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Novartis",
+          "product": "ARBs/CCBs portfolio (check AU medicines list)",
+          "url": "https://www.novartis.com/au-en",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Pfizer",
+          "product": "Amlodipine legacy branding (Norvasc®) / CV medicines",
+          "url": "https://www.pfizer.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        }
+      ]
+    },
+    {
+      "id": "asthma",
+      "name": "Asthma",
+      "speciality": "Respiratory",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Asthma",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=asthma",
+            "description": "Quick reference for asthma diagnosis, stepwise therapy, exacerbation management, and preventive care."
+          },
+          {
+            "name": "Australian Asthma Handbook",
+            "url": "https://www.asthmahandbook.org.au",
+            "description": "National evidence-based guidance for asthma diagnosis, treatment escalation, and action plans."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Asthma",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=monograph&q=asthma",
+            "description": "Dosing, inhaler selection, adverse effects, and comparative prescribing information for asthma medications."
+          },
+          {
+            "name": "National Asthma Council – Inhaler Technique Resources",
+            "url": "https://www.nationalasthma.org.au/health-professionals/inhaler-technique",
+            "description": "Practical inhaler device comparison charts and technique education resources."
+          },
+          {
+            "name": "Asthma Australia – Medication Resources",
+            "url": "https://asthma.org.au",
+            "description": "Patient and clinician resources covering preventers, relievers, and asthma self-management."
+          }
+        ],
+        "tools": [
+          {
+            "name": "Asthma Action Plan Generator",
+            "url": "https://www.nationalasthma.org.au/health-professionals/asthma-action-plans/asthma-action-plan-library",
+            "description": "Customisable Australian asthma action plans for patient management."
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "Asthma Australia – Asthma Factsheets",
+            "url": "https://asthma.org.au/about-asthma/resources",
+            "description": "High-quality Australian patient handouts covering triggers, inhalers, and asthma management."
+          },
+          {
+            "name": "National Asthma Council – Inhaler Technique Videos",
+            "url": "https://www.nationalasthma.org.au/living-with-asthma/how-to-videos",
+            "description": "Patient-friendly inhaler technique demonstration videos for common asthma devices."
+          },
+          {
+            "name": "National Asthma Council – Spacer Use Video",
+            "url": "https://www.nationalasthma.org.au/health-professionals/how-to-videos",
+            "description": "Step-by-step spacer technique video suitable for patient education and reinforcement."
+          },
+          {
+            "name": "Healthdirect – Asthma",
+            "url": "https://www.healthdirect.gov.au/asthma",
+            "description": "Simple patient-facing overview of asthma symptoms, triggers, and treatment."
+          },
+          {
+            "name": "Better Health Channel – Asthma",
+            "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/asthma",
+            "description": "Consumer-friendly education resource for asthma symptoms, treatment, and prevention."
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Dr Graham Radford (Respiratory & sleep) — Miranda",
+          "details": "Asthma/COPD • Sleep medicine • Kareena Private listing",
+          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists/kareena-private-hospital/respiratory/100614/dr-graham-radford",
+          "sponsored": false
+        },
+        {
+          "name": "Dr Andrew Ng (Respiratory & sleep) — Miranda",
+          "details": "Respiratory + sleep physician • Kareena Private listing",
+          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists/kareena-private-hospital/respiratory-and-sleep-medicine/100607/dr-andrew-ng",
+          "sponsored": false
+        },
+        {
+          "name": "Kareena Private Hospital — Specialist directory",
+          "details": "Search respiratory/sleep medicine services",
+          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists",
+          "sponsored": false
+        }
+      ],
+      "cpd": [
+        {
+          "name": "RACGP events (search: Asthma)",
+          "details": "Webinar, on-demand and in-person • CPD hours listed",
+          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=Asthma",
+          "sponsored": false
+        },
+        {
+          "name": "ThinkGP education (catalogue)",
+          "details": "Accredited learning • Filter by category/topic",
+          "url": "https://www.thinkgp.com.au/education",
+          "sponsored": false
+        }
+      ],
+      "events": [
+        {
+          "title": "Healthed seminars (Sydney + major cities)",
+          "details": "Face-to-face education • CPD accredited • Check dates on site",
+          "tags": [
+            "CPD",
+            "Australia"
+          ],
+          "url": "https://www.healthed.com.au/seminars/",
+          "sponsored": false
+        },
+        {
+          "title": "GPCE Sydney (conference)",
+          "details": "Primary care conference • Accredited sessions • Check dates on site",
+          "tags": [
+            "Conference",
+            "CPD"
+          ],
+          "url": "https://www.gpce.com.au/sydney/en-gb.html",
+          "sponsored": false
+        }
+      ],
+      "pharma": [
+        {
+          "company": "AstraZeneca",
+          "product": "Symbicort® (budesonide/formoterol)",
+          "url": "https://www.astrazeneca.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "GSK",
+          "product": "Flixotide® / Seretide® (fluticasone +/- salmeterol)",
+          "url": "https://au.gsk.com/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Chiesi",
+          "product": "Fostair® (beclometasone/formoterol)",
+          "url": "https://www.chiesi.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        }
+      ]
+    },
+    {
+      "id": "croup",
+      "name": "Croup",
+      "speciality": "Paediatrics",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Croup",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=croup",
+            "description": "Quick reference for assessment, severity stratification, steroid therapy, and escalation pathways in croup."
+          },
+          {
+            "name": "RCH Clinical Practice Guideline – Croup",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/Croup_Laryngotracheobronchitis/",
+            "description": "Evidence-based paediatric guideline covering diagnosis, severity assessment, dexamethasone dosing, and indications for escalation."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Croup",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=croup",
+            "description": "Dosing, adverse effects, contraindications, and prescribing guidance for corticosteroid therapy in croup."
+          },
+          {
+            "name": "NSW Kids Health – Croup Medicines Information",
+            "url": "https://www.schn.health.nsw.gov.au/croup",
+            "description": "Overview of common medication approaches and supportive management in paediatric croup."
+          }
+        ],
+        "tools": [
+          {
+            "name": "RCH Clinical Practice Guideline – Dehydration",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/dehydration/",
+            "description": "Reference guide for differentiating stridor severity and respiratory distress signs."
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "RCH Kids Health Info – Croup",
+            "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Croup/",
+            "description": "High-quality Australian parent factsheet covering symptoms, home care, and when to seek urgent review."
+          },
+          {
+            "name": "Healthdirect – Croup",
+            "url": "https://www.healthdirect.gov.au/croup",
+            "description": "Simple parent-facing overview of croup symptoms, management, and emergency warning signs."
+          },
+          {
+            "name": "Better Health Channel – Croup",
+            "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/croup",
+            "description": "Consumer-friendly education resource for croup symptoms and treatment."
+          },
+          {
+            "name": "YouTube – Typical Croupy Cough Video",
+            "url": "https://www.youtube.com/results?search_query=croupy+cough+child",
+            "description": "Video examples of the characteristic barking cough useful for parent education."
+          },
+          {
+            "name": "YouTube – Stridor in Children Video",
+            "url": "https://www.youtube.com/results?search_query=stridor+child",
+            "description": "Audio/video examples of inspiratory stridor to assist with recognition and severity discussions."
+          },
+          {
+            "name": "YouTube – Increase Work of Breathing in Children Video",
+            "url": "https://www.youtube.com/results?search_query=increase+work+of+breathing+in+child",
+            "description": "Audio/video examples of inspiratory stridor to assist with recognition and severity discussions."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "otitis_media",
+      "name": "Otitis Media",
+      "speciality": "Paediatrics",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Otitis Media",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=otitis%20media",
+            "description": "Quick reference for diagnosis, analgesia, antibiotic indications, watchful waiting, and recurrent otitis media management."
+          },
+          {
+            "name": "RCH Clinical Practice Guideline – Acute Otitis Media",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_otitis_media/",
+            "description": "Evidence-based paediatric guideline covering diagnosis, red flags, antibiotic indications, and follow-up recommendations."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Ear Infections",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=ear%20infections",
+            "description": "Dosing, adverse effects, and prescribing guidance for first-line otitis media antibiotics."
+          },
+          {
+            "name": "Australian Medicines Handbook (AMH) – Analgaesia in Children",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=analgesics%20children",
+            "description": "Dosing, weight-based prescribing, contraindications, and safety guidance for common paediatric analgesics including paracetamol and ibuprofen."
+          },
+          {
+            "name": "Healthdirect – Ear Infection Medicines Information",
+            "url": "https://www.healthdirect.gov.au/ear-infection",
+            "description": "General information regarding symptom management and appropriate antibiotic use in ear infections."
+          }
+        ],
+        "tools": [
+          {
+            "name": "RCH Clinical Practice Guideline – Dehydration",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/dehydration/",
+            "description": "Reference guide for differentiating stridor severity and respiratory distress signs."
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "RCH Kids Health Info – Ear Infections and Otitis Media",
+            "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Ear_infections_and_otitis_media/",
+            "description": "High-quality Australian parent factsheet explaining symptoms, expected course, and management."
+          },
+          {
+            "name": "Healthdirect – Ear Infection in Children",
+            "url": "https://www.healthdirect.gov.au/ear-infection",
+            "description": "Simple parent-facing overview of ear infections, pain relief, and warning signs."
+          },
+          {
+            "name": "Better Health Channel – Ear Infections",
+            "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/ear-infections",
+            "description": "Consumer-friendly resource covering causes, symptoms, and management of ear infections."
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Shire Family ENT (Miranda)",
+          "details": "ENT + audiology services • Miranda rooms",
+          "url": "https://www.shirefamilyent.com.au/",
+          "sponsored": false
+        },
+        {
+          "name": "Dr Edward Smith (ENT surgeon) — Miranda",
+          "details": "Adult + paediatric ENT",
+          "url": "https://smithent.com.au/",
+          "sponsored": false
+        },
+        {
+          "name": "Sutherland Hospital — Outpatients directory",
+          "details": "Public outpatient specialties (referral required)",
+          "url": "https://www.seslhd.health.nsw.gov.au/sutherland-hospital/services-clinics/directory/outpatients-department",
+          "sponsored": false
+        }
+      ],
+      "cpd": [
+        {
+          "name": "RACGP events (search: Otitis Media)",
+          "details": "Webinar, on-demand and in-person • CPD hours listed",
+          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=Otitis%20Media",
+          "sponsored": false
+        },
+        {
+          "name": "ThinkGP education (catalogue)",
+          "details": "Accredited learning • Filter by category/topic",
+          "url": "https://www.thinkgp.com.au/education",
+          "sponsored": false
+        }
+      ],
+      "events": [
+        {
+          "title": "Healthed seminars (Sydney + major cities)",
+          "details": "Face-to-face education • CPD accredited • Check dates on site",
+          "tags": [
+            "CPD",
+            "Australia"
+          ],
+          "url": "https://www.healthed.com.au/seminars/",
+          "sponsored": false
+        },
+        {
+          "title": "GPCE Sydney (conference)",
+          "details": "Primary care conference • Accredited sessions • Check dates on site",
+          "tags": [
+            "Conference",
+            "CPD"
+          ],
+          "url": "https://www.gpce.com.au/sydney/en-gb.html",
+          "sponsored": false
+        }
+      ],
+      "pharma": [
+        {
+          "company": "Sandoz",
+          "product": "Antibiotics portfolio (generics)",
+          "url": "https://www.sandoz.com/au-en",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Viatris",
+          "product": "Antibiotics portfolio (generics)",
+          "url": "https://www.viatris.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Haleon",
+          "product": "Analgesics (paracetamol/ibuprofen brands vary)",
+          "url": "https://www.haleon.com/",
+          "orderSamples": true,
+          "sponsored": false
+        }
+      ]
+    },
+    {
+      "id": "copd",
+      "name": "COPD",
+      "speciality": "Respiratory",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – COPD",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=copd",
+            "description": "Quick reference for COPD diagnosis, inhaler therapy, exacerbation management, smoking cessation, and long-term care."
+          },
+          {
+            "name": "COPD-X Guidelines",
+            "url": "https://copdx.org.au/copd-x-plan/",
+            "description": "Evidence-based Australian guideline covering diagnosis, spirometry interpretation, pharmacotherapy, pulmonary rehabilitation, and exacerbation management."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – COPD",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=copd",
+            "description": "Dosing, inhaler selection, adverse effects, and comparative prescribing information for COPD therapies."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Lung Foundation Australia – COPD Factsheets",
+            "url": "https://lungfoundation.com.au/patients-carers/living-with-a-lung-disease/copd/resources/",
+            "description": "High-quality Australian patient education resources covering COPD symptoms, inhalers, and self-management."
+          },
+          {
+            "name": "National Asthma Council – Inhaler Technique Videos",
+            "url": "https://www.nationalasthma.org.au/living-with-asthma/how-to-videos",
+            "description": "Patient-friendly inhaler technique videos applicable to COPD inhaler devices."
+          },
+          {
+            "name": "National Asthma Council – Spacer Use Video",
+            "url": "https://www.nationalasthma.org.au/health-professionals/how-to-videos",
+            "description": "Step-by-step spacer technique video suitable for patient education and reinforcement."
+          },
+          {
+            "name": "Healthdirect – COPD",
+            "url": "https://www.healthdirect.gov.au/copd",
+            "description": "Simple patient-facing overview of COPD symptoms, treatment, and prevention."
+          },
+          {
+            "name": "Better Health Channel – COPD",
+            "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/chronic-obstructive-pulmonary-disease-copd",
+            "description": "Consumer-friendly education resource for COPD symptoms, smoking cessation, and treatment."
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Dr Graham Radford (Respiratory & sleep) — Miranda",
+          "details": "Asthma/COPD • Sleep medicine • Kareena Private listing",
+          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists/kareena-private-hospital/respiratory/100614/dr-graham-radford",
+          "sponsored": false
+        },
+        {
+          "name": "Dr Andrew Ng (Respiratory & sleep) — Miranda",
+          "details": "Respiratory + sleep physician • Kareena Private listing",
+          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists/kareena-private-hospital/respiratory-and-sleep-medicine/100607/dr-andrew-ng",
+          "sponsored": false
+        },
+        {
+          "name": "Kareena Private Hospital — Specialist directory",
+          "details": "Search respiratory/sleep medicine services",
+          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists",
+          "sponsored": false
+        }
+      ],
+      "cpd": [
+        {
+          "name": "RACGP events (search: COPD)",
+          "details": "Webinar, on-demand and in-person • CPD hours listed",
+          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=COPD",
+          "sponsored": false
+        },
+        {
+          "name": "ThinkGP education (catalogue)",
+          "details": "Accredited learning • Filter by category/topic",
+          "url": "https://www.thinkgp.com.au/education",
+          "sponsored": false
+        }
+      ],
+      "events": [
+        {
+          "title": "Healthed seminars (Sydney + major cities)",
+          "details": "Face-to-face education • CPD accredited • Check dates on site",
+          "tags": [
+            "CPD",
+            "Australia"
+          ],
+          "url": "https://www.healthed.com.au/seminars/",
+          "sponsored": false
+        },
+        {
+          "title": "GPCE Sydney (conference)",
+          "details": "Primary care conference • Accredited sessions • Check dates on site",
+          "tags": [
+            "Conference",
+            "CPD"
+          ],
+          "url": "https://www.gpce.com.au/sydney/en-gb.html",
+          "sponsored": false
+        }
+      ],
+      "pharma": [
+        {
+          "company": "GSK",
+          "product": "Breo® Ellipta / Anoro® Ellipta (varies by market) • COPD portfolio",
+          "url": "https://au.gsk.com/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "AstraZeneca",
+          "product": "Respiratory portfolio (e.g., Symbicort®)",
+          "url": "https://www.astrazeneca.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Chiesi",
+          "product": "Respiratory portfolio (COPD)",
+          "url": "https://www.chiesi.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        }
+      ]
+    },
+    {
+      "id": "anxiety",
+      "name": "Anxiety",
+      "speciality": "Mental Health",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Anxiety Disorders",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=generalised%20anxiety%20disorder",
+            "description": "Quick reference for assessment, diagnostic approach, psychological therapy, pharmacotherapy, and follow-up of anxiety disorders."
+          },
+          {
+            "name": "RACGP – Anxiety Disorders Guidance",
+            "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/guidelines-for-preventive-activities-in-general-practice/mental-health",
+            "description": "Australian primary care guidance for recognising and managing anxiety disorders in general practice."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Anxiety",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=anxiety",
+            "description": "Dosing, adverse effects, interactions, and comparative prescribing guidance for anxiolytics and antidepressants."
+          },
+          {
+            "name": "Black Dog Institute – Anxiety Treatment Resources",
+            "url": "https://www.blackdoginstitute.org.au/resources-support/anxiety/",
+            "description": "Practical information regarding evidence-based treatment options and medication approaches for anxiety disorders."
+          },
+          {
+            "name": "Beyond Blue – Anxiety Support Resources",
+            "url": "https://www.beyondblue.org.au/the-facts/anxiety",
+            "description": "Patient and clinician resources supporting anxiety recognition, treatment, and self-management."
+          }
+        ],
+        "tools": [
+          {
+            "name": "K10 Psychological Distress Scale",
+            "url": "https://www.health.gov.au/resources/apps-and-tools/k10-calculator",
+            "description": "Validated psychological distress screening tool commonly used in Australian primary care."
+          },
+          {
+            "name": "DASS-21 Questionnaire",
+            "url": "https://www.rap-el.com.au/documents/DASS_21_module.pdf",
+            "description": "Validated depression, anxiety, and stress screening tool commonly used in Australian primary care and mental health assessment."
+          },
+          {
+            "name": "GP Psychiatry Support Line",
+            "url": "https://www.gpsupport.org.au",
+            "description": "Free Australian psychiatrist hotline for GPs providing advice on diagnosis, medications, risk assessment, and mental health management planning."
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "Beyond Blue – Anxiety Factsheets",
+            "url": "https://www.beyondblue.org.au/the-facts/anxiety",
+            "description": "High-quality Australian patient education resources covering anxiety symptoms, treatment, and support options."
+          },
+          {
+            "name": "Black Dog Institute – Anxiety Resources",
+            "url": "https://www.blackdoginstitute.org.au/resources-support/anxiety/",
+            "description": "Consumer-friendly anxiety education and self-management resources."
+          },
+          {
+            "name": "Healthdirect – Anxiety",
+            "url": "https://www.healthdirect.gov.au/anxiety",
+            "description": "Simple patient-facing overview of anxiety symptoms, causes, and treatment options."
+          },
+          {
+            "name": "Better Health Channel – Anxiety Disorders",
+            "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/anxiety-disorders",
+            "description": "Consumer-friendly education resource explaining anxiety disorders and available treatments."
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Miranda Psychology (Miranda Medical Centre)",
+          "details": "Psychology services • In-practice rooms",
+          "url": "https://mirandamedicalcentre.com.au/miranda-psychology/",
+          "sponsored": false
+        },
+        {
+          "name": "Life & Mind Psychology (Caringbah)",
+          "details": "Psychologists & counsellors • Sutherland Shire",
+          "url": "https://lifeandmind.com.au/",
+          "sponsored": false
+        },
+        {
+          "name": "Your Health In Mind — Dr Christopher McDowell (Psychiatrist) — Miranda",
+          "details": "Psychiatrist profile + contact details",
+          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/2712/dr-christopher-mcdowell",
+          "sponsored": false
+        }
+      ],
+      "cpd": [
+        {
+          "name": "RACGP events (search: Anxiety)",
+          "details": "Webinar, on-demand and in-person • CPD hours listed",
+          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=Anxiety",
+          "sponsored": false
+        },
+        {
+          "name": "ThinkGP education (catalogue)",
+          "details": "Accredited learning • Filter by category/topic",
+          "url": "https://www.thinkgp.com.au/education",
+          "sponsored": false
+        }
+      ],
+      "events": [
+        {
+          "title": "Healthed seminars (Sydney + major cities)",
+          "details": "Face-to-face education • CPD accredited • Check dates on site",
+          "tags": [
+            "CPD",
+            "Australia"
+          ],
+          "url": "https://www.healthed.com.au/seminars/",
+          "sponsored": false
+        },
+        {
+          "title": "GPCE Sydney (conference)",
+          "details": "Primary care conference • Accredited sessions • Check dates on site",
+          "tags": [
+            "Conference",
+            "CPD"
+          ],
+          "url": "https://www.gpce.com.au/sydney/en-gb.html",
+          "sponsored": false
+        }
+      ],
+      "pharma": [
+        {
+          "company": "Lundbeck",
+          "product": "SSRIs (e.g., escitalopram) portfolio",
+          "url": "https://www.lundbeck.com/au",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Pfizer",
+          "product": "Sertraline legacy branding / SSRIs",
+          "url": "https://www.pfizer.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Viatris",
+          "product": "Generic SSRIs/SNRIs portfolio",
+          "url": "https://www.viatris.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        }
+      ]
+    },
+    {
+      "id": "uti",
+      "name": "UTI",
+      "speciality": "General Practice",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Urinary Tract Infection",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=urinary%20tract%20infection",
+            "description": "Quick reference for cystitis, pyelonephritis, recurrent UTI, pregnancy-associated UTI, and antibiotic selection."
+          },
+          {
+            "name": "RCH Clinical Practice Guideline – Urinary Tract Infection",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/Urinary_tract_infection/",
+            "description": "Evidence-based paediatric guideline covering diagnosis, investigation, imaging indications, antibiotic therapy, and follow-up for urinary tract infections in children."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Urinary Infections",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=other&q=urinary%20infections",
+            "description": "Dosing, contraindications, interactions, pregnancy considerations, and antibiotic prescribing guidance for urinary tract infections."
+          }
+        ],
+        "tools": [
+          {
+            "name": "Urine Dipstick Interpretation Guide",
+            "url": "https://bpac.org.nz/bt/2013/june/urine-tests.aspx",
+            "description": "Quick interpretation guide for urine dipstick findings in primary care."
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "Better Health Channel – Urinary Tract Infection",
+            "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/urinary-tract-infections-uti",
+            "description": "Consumer-friendly education resource explaining UTI symptoms, causes, and treatment."
+          },
+          {
+            "name": "RCH Kids Health Info – Urinary Tract Infection",
+            "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Urinary_tract_infection_UTI/",
+            "description": "High-quality paediatric parent factsheet covering symptoms, antibiotics, and when to seek review."
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Kareena Private Hospital — Specialist directory",
+          "details": "Search urology services if recurrent/complicated",
+          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists",
+          "sponsored": false
+        },
+        {
+          "name": "Southern Endocrine (Sutherland)",
+          "details": "Useful if UTIs recurrent with diabetes/metabolic issues",
+          "url": "https://www.southernendocrine.com.au/",
+          "sponsored": false
+        },
+        {
+          "name": "Sutherland Hospital — Outpatients directory",
+          "details": "Public outpatient specialties (referral required)",
+          "url": "https://www.seslhd.health.nsw.gov.au/sutherland-hospital/services-clinics/directory/outpatients-department",
+          "sponsored": false
+        }
+      ],
+      "cpd": [
+        {
+          "name": "RACGP events (search: UTI)",
+          "details": "Webinar, on-demand and in-person • CPD hours listed",
+          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=UTI",
+          "sponsored": false
+        },
+        {
+          "name": "ThinkGP education (catalogue)",
+          "details": "Accredited learning • Filter by category/topic",
+          "url": "https://www.thinkgp.com.au/education",
+          "sponsored": false
+        }
+      ],
+      "events": [
+        {
+          "title": "Healthed seminars (Sydney + major cities)",
+          "details": "Face-to-face education • CPD accredited • Check dates on site",
+          "tags": [
+            "CPD",
+            "Australia"
+          ],
+          "url": "https://www.healthed.com.au/seminars/",
+          "sponsored": false
+        },
+        {
+          "title": "GPCE Sydney (conference)",
+          "details": "Primary care conference • Accredited sessions • Check dates on site",
+          "tags": [
+            "Conference",
+            "CPD"
+          ],
+          "url": "https://www.gpce.com.au/sydney/en-gb.html",
+          "sponsored": false
+        }
+      ],
+      "pharma": [
+        {
+          "company": "Viatris",
+          "product": "Antibiotics portfolio (e.g., trimethoprim/sulfamethoxazole generics)",
+          "url": "https://www.viatris.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Sandoz",
+          "product": "Antibiotics portfolio (generics)",
+          "url": "https://www.sandoz.com/au-en",
+          "orderSamples": true,
+          "sponsored": false
+        },
+        {
+          "company": "Pfizer",
+          "product": "Antimicrobials portfolio",
+          "url": "https://www.pfizer.com.au/",
+          "orderSamples": true,
+          "sponsored": false
+        }
+      ]
+    }
+  ]
+}
