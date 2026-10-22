@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "99b5340e20aa",
-  "updatedAt": "2026-10-21T19:57:51Z",
+  "version": "d463d5cfb338",
+  "updatedAt": "2026-10-22T02:36:12Z",
   "topics": [
     {
-      "id": "af",
+      "id": "atrial_fibrillation",
       "name": "Atrial Fibrillation",
       "speciality": "Cardiology",
       "sections": {
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "id": "t2dm",
+      "id": "type_2_diabetes_mellitus",
       "name": "Type 2 Diabetes Mellitus",
       "speciality": "Endocrinology",
       "sections": {
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "id": "dyslipidaemia",
+      "id": "hyperlipidaemia",
       "name": "Hyperlipidaemia",
       "speciality": "Cardiology",
       "sections": {
@@ -440,7 +440,7 @@
       ]
     },
     {
-      "id": "htn",
+      "id": "hypertension",
       "name": "Hypertension",
       "speciality": "Cardiology",
       "sections": {
@@ -1345,6 +1345,752 @@
           "sponsored": false
         }
       ]
+    },
+    {
+      "id": "eczema",
+      "name": "Eczema",
+      "speciality": "Dermatology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Eczema",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=atopic%20dermatitis",
+            "description": "Search eTG for eczema assessment and management guidance."
+          },
+          {
+            "name": "RCH Clinical Practice Guideline – Eczema",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/eczema/",
+            "description": "Paediatric skin care, flare management, topical therapy, and infection assessment."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Eczema",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=atopic%20dermatitis",
+            "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "RCH Kids Health Info – Eczema",
+            "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Eczema/",
+            "description": "Parent education on everyday skin care, topical treatment, and flare recognition."
+          },
+          {
+            "name": "Healthdirect – Eczema",
+            "url": "https://www.healthdirect.gov.au/eczema",
+            "description": "Patient overview of eczema symptoms, triggers, treatment, and support."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "hypothyroidism",
+      "name": "Hypothyroidism",
+      "speciality": "Endocrinology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Hypothyroidism",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=hypothyroidism",
+            "description": "Search eTG for hypothyroidism assessment and management guidance."
+          },
+          {
+            "name": "RACGP – Hypothyroidism: Investigation and Management (2012)",
+            "url": "https://www.racgp.org.au/afp/2012/august/hypothyroidism",
+            "description": "Background review of investigation and management; published 2012, use alongside current eTG and AMH."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Hypothyroidism",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=hypothyroidism",
+            "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Hypothyroidism",
+            "url": "https://www.healthdirect.gov.au/hypothyroidism",
+            "description": "Patient overview of underactive thyroid, testing, and treatment."
+          },
+          {
+            "name": "Healthdirect – Hashimoto’s Disease",
+            "url": "https://www.healthdirect.gov.au/hashimotos-disease",
+            "description": "Patient education on autoimmune thyroiditis and its relationship to hypothyroidism."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "pneumonia",
+      "name": "Pneumonia",
+      "speciality": "Respiratory",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Pneumonia",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=community%20acquired%20pneumonia",
+            "description": "Search eTG for pneumonia assessment and management guidance."
+          },
+          {
+            "name": "RCH Clinical Practice Guideline – Community Acquired Pneumonia",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/Community_acquired_pneumonia/",
+            "description": "Paediatric pneumonia assessment, investigation, treatment, and admission considerations."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Respiratory Infections",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/chapters/anti-infectives/tables/respiratory-infections-table",
+            "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
+          },
+          {
+            "name": "Australian Medicines Handbook (AMH) – Amoxicillin",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=monograph&q=amoxicillin",
+            "description": "Search for amoxicillin dosing, contraindications, interactions, and precautions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "RCH Kids Health Info – Pneumonia",
+            "url": "https://www.rch.org.au/kidsinfo/fact_sheets/pneumonia/",
+            "description": "Parent information on pneumonia, treatment, recovery, and when to seek review."
+          },
+          {
+            "name": "Healthdirect – Pneumonia",
+            "url": "https://www.healthdirect.gov.au/pneumonia",
+            "description": "Patient overview of pneumonia symptoms, causes, treatment, and prevention."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "acne",
+      "name": "Acne",
+      "speciality": "Dermatology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Acne",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=acne",
+            "description": "Search eTG for acne assessment, management, and referral guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Acne",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=acne",
+            "description": "Search AMH for acne prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Acne",
+            "url": "https://www.healthdirect.gov.au/acne",
+            "description": "Patient information on acne, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "adhd",
+      "name": "ADHD",
+      "speciality": "Mental Health",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – ADHD",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=attention%20deficit%20hyperactivity%20disorder",
+            "description": "Search eTG for attention deficit hyperactivity disorder assessment, management, and referral guidance."
+          },
+          {
+            "name": "Australian ADHD Professionals Association – ADHD Guideline",
+            "url": "https://adhdguideline.aadpa.com.au/",
+            "description": "Australian evidence-based guidance for ADHD assessment and management."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Attention deficit hyperactivity disorder",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=attention%20deficit%20hyperactivity%20disorder",
+            "description": "Search AMH for attention deficit hyperactivity disorder prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – ADHD",
+            "url": "https://www.healthdirect.gov.au/attention-deficit-disorder-add-or-adhd",
+            "description": "Patient information on attention deficit hyperactivity disorder, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "bronchiolitis",
+      "name": "Bronchiolitis",
+      "speciality": "Paediatrics",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Bronchiolitis",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=bronchiolitis",
+            "description": "Search eTG for bronchiolitis assessment, management, and referral guidance."
+          },
+          {
+            "name": "RCH Clinical Practice Guideline – Bronchiolitis",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/",
+            "description": "Paediatric assessment, supportive management, and escalation guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Respiratory Infections",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/chapters/anti-infectives/tables/respiratory-infections-table",
+            "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Bronchiolitis",
+            "url": "https://www.healthdirect.gov.au/bronchiolitis",
+            "description": "Patient information on bronchiolitis, symptoms, assessment, and management."
+          },
+          {
+            "name": "YouTube – Increase Work of Breathing in Children Video",
+            "url": "https://www.youtube.com/results?search_query=increase+work+of+breathing+in+child",
+            "description": "Audio/video examples of inspiratory stridor to assist with recognition and severity discussions."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "cellulitis",
+      "name": "Cellulitis",
+      "speciality": "Dermatology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Cellulitis",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=cellulitis",
+            "description": "Search eTG for cellulitis assessment, management, and referral guidance."
+          },
+          {
+            "name": "RCH Clinical Practice Guideline – Cellulitis",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/Cellulitis_and_other_bacterial_skin_infections/",
+            "description": "Paediatric bacterial skin infection assessment and antibiotic guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Skin and Soft Tissue Infections",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/chapters/anti-infectives/tables/skin-soft-tissue-infections-table",
+            "description": "Search AMH for cellulitis prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Cellulitis",
+            "url": "https://www.healthdirect.gov.au/cellulitis",
+            "description": "Patient information on cellulitis, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "chest_pain",
+      "name": "Chest Pain",
+      "speciality": "Cardiology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Chest Pain",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=chest%20pain",
+            "description": "Search eTG for chest pain assessment, management, and referral guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Acute coronary syndromes",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=acute%20coronary%20syndromes",
+            "description": "Prescribing reference for suspected acute coronary syndromes; medication use depends on diagnosis and emergency assessment."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Chest Pain",
+            "url": "https://www.healthdirect.gov.au/chest-pain",
+            "description": "Patient information on chest pain, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "chronic_kidney_disease",
+      "name": "Chronic Kidney Disease",
+      "speciality": "Nephrology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Chronic Kidney Disease",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=chronic%20kidney%20disease",
+            "description": "Search eTG for chronic kidney disease assessment, management, and referral guidance."
+          },
+          {
+            "name": "Kidney Health Australia – Health Professionals",
+            "url": "https://kidney.org.au/health-professionals",
+            "description": "Australian clinician resource hub for CKD detection and management."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Renal impairment",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=other&q=renal%20impairment",
+            "description": "Search AMH for renal impairment prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Chronic Kidney Disease",
+            "url": "https://www.healthdirect.gov.au/chronic-kidney-disease",
+            "description": "Patient information on chronic kidney disease, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "constipation",
+      "name": "Constipation",
+      "speciality": "Gastroenterology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Constipation",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=constipation",
+            "description": "Search eTG for constipation assessment, management, and referral guidance."
+          },
+          {
+            "name": "RCH Clinical Practice Guideline – Constipation",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/Constipation/",
+            "description": "Paediatric assessment, disimpaction, maintenance therapy, and follow-up."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Laxatives",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=laxatives",
+            "description": "Search AMH for laxatives prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Constipation",
+            "url": "https://www.healthdirect.gov.au/constipation",
+            "description": "Patient information on constipation, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "depression",
+      "name": "Depression",
+      "speciality": "Mental Health",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Depression",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=depression",
+            "description": "Search eTG for depression assessment, management, and referral guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Depression",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=depression",
+            "description": "Search AMH for depression prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [
+          {
+            "name": "DASS-21 Questionnaire",
+            "url": "https://www.rap-el.com.au/documents/DASS_21_module.pdf",
+            "description": "Depression, anxiety, and stress symptom questionnaire; supports assessment and monitoring."
+          },
+          {
+            "name": "GP Psychiatry Support Line",
+            "url": "https://www.gpsupport.org.au",
+            "description": "Psychiatrist advice service for GPs on mental health assessment and management."
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Depression",
+            "url": "https://www.healthdirect.gov.au/depression",
+            "description": "Patient information on depression, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "gord",
+      "name": "GORD",
+      "speciality": "Gastroenterology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – GORD",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=gastro-oesophageal%20reflux",
+            "description": "Search eTG for gastro-oesophageal reflux disease assessment, management, and referral guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Proton pump inhibitors",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=proton%20pump%20inhibitors",
+            "description": "Search AMH for proton pump inhibitors prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – GORD (Reflux)",
+            "url": "https://www.healthdirect.gov.au/gord-reflux",
+            "description": "Patient information on gastro-oesophageal reflux disease, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "gout",
+      "name": "Gout",
+      "speciality": "Rheumatology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Gout",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=gout",
+            "description": "Search eTG for gout assessment, management, and referral guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Gout",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=gout",
+            "description": "Search AMH for gout prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Gout",
+            "url": "https://www.healthdirect.gov.au/gout",
+            "description": "Patient information on gout, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "headache",
+      "name": "Headache",
+      "speciality": "General Practice",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Headache",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=headache",
+            "description": "Search eTG for headache assessment, management, and referral guidance."
+          },
+          {
+            "name": "RCH Clinical Practice Guideline – Headache",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/Headache/",
+            "description": "Paediatric headache assessment, red flags, and investigation guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Analgesics",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=analgesics",
+            "description": "Search AMH for analgesics prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Headache",
+            "url": "https://www.healthdirect.gov.au/headaches",
+            "description": "Patient information on headache, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "heart_failure",
+      "name": "Heart Failure",
+      "speciality": "Cardiology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Heart Failure",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=heart%20failure",
+            "description": "Search eTG for heart failure assessment, management, and referral guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Heart failure",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=heart%20failure",
+            "description": "Search AMH for heart failure prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Heart Failure",
+            "url": "https://www.healthdirect.gov.au/heart-failure",
+            "description": "Patient information on heart failure, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "iron_deficiency",
+      "name": "Iron Deficiency",
+      "speciality": "Haematology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Iron Deficiency",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=iron%20deficiency",
+            "description": "Search eTG for iron deficiency assessment, management, and referral guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Iron",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=iron",
+            "description": "Search AMH for iron prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Iron Deficiency",
+            "url": "https://www.healthdirect.gov.au/iron-deficiency",
+            "description": "Patient information on iron deficiency, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "low_back_pain",
+      "name": "Low Back Pain",
+      "speciality": "Musculoskeletal",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Low Back Pain",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=low%20back%20pain",
+            "description": "Search eTG for low back pain assessment, management, and referral guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Analgesics",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=analgesics",
+            "description": "Search AMH for analgesics prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Low Back Pain",
+            "url": "https://www.healthdirect.gov.au/back-pain",
+            "description": "Patient information on low back pain, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "migraine",
+      "name": "Migraine",
+      "speciality": "Neurology",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Migraine",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=migraine",
+            "description": "Search eTG for migraine assessment, management, and referral guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Migraine",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=migraine",
+            "description": "Search AMH for migraine prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Migraine",
+            "url": "https://www.healthdirect.gov.au/migraine",
+            "description": "Patient information on migraine, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "osteoarthritis",
+      "name": "Osteoarthritis",
+      "speciality": "Musculoskeletal",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Osteoarthritis",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=osteoarthritis",
+            "description": "Search eTG for osteoarthritis assessment, management, and referral guidance."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Osteoarthritis",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=osteoarthritis",
+            "description": "Search AMH for osteoarthritis prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Osteoarthritis",
+            "url": "https://www.healthdirect.gov.au/osteoarthritis",
+            "description": "Patient information on osteoarthritis, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "osteoporosis",
+      "name": "Osteoporosis",
+      "speciality": "Musculoskeletal",
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Osteoporosis",
+            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=osteoporosis",
+            "description": "Search eTG for osteoporosis assessment, management, and referral guidance."
+          },
+          {
+            "name": "RACGP – Osteoporosis Guideline",
+            "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/osteoporosis",
+            "description": "Australian primary care guidance on osteoporosis and fracture prevention."
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Osteoporosis",
+            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=osteoporosis",
+            "description": "Search AMH for osteoporosis prescribing, dosing, contraindications, and interactions."
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Osteoporosis",
+            "url": "https://www.healthdirect.gov.au/osteoporosis",
+            "description": "Patient information on osteoporosis, symptoms, assessment, and management."
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
     }
   ]
 }
