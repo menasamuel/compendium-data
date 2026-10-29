@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "d463d5cfb338",
-  "updatedAt": "2026-10-22T02:36:12Z",
+  "version": "bb827e8481cf",
+  "updatedAt": "2026-10-25T03:12:50Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -64,21 +64,15 @@
       },
       "specialists": [
         {
-          "name": "Cardiology Associates (Miranda/Engadine)",
-          "details": "Consultant cardiologists • Diagnostics and ongoing care",
-          "url": "https://cardiologyassociates.com.au/",
+          "name": "Dr Sean Gomes — Miranda",
+          "details": "Cardiologist/electrophysiologist; AF, rhythm disorders and catheter ablation.",
+          "url": "https://www.mirandacardiology.com.au/dr-sean-gomes",
           "sponsored": false
         },
         {
-          "name": "The Shire Heart Clinic (Miranda)",
-          "details": "Cardiology rooms • Sutherland Shire",
-          "url": "https://www.shireheart.com.au/",
-          "sponsored": false
-        },
-        {
-          "name": "Miranda Cardiology (Miranda)",
-          "details": "Cardiology practice • Sutherland Shire",
-          "url": "https://www.mirandacardiology.com.au/",
+          "name": "Dr Suresh Singarayar — Miranda / Woolooware",
+          "details": "Cardiologist/electrophysiologist; arrhythmia assessment and management.",
+          "url": "https://www.sutherlandheartclinic.com.au/suresh-singarayar/",
           "sponsored": false
         }
       ],
@@ -208,21 +202,9 @@
       },
       "specialists": [
         {
-          "name": "Southern Endocrine (Sutherland)",
-          "details": "Diabetes + endocrinology • Includes allied health support",
-          "url": "https://www.southernendocrine.com.au/",
-          "sponsored": true
-        },
-        {
-          "name": "South Sydney Medical Specialists (Miranda/Kogarah)",
-          "details": "Endocrinology + diabetes • Multiple endocrinologists",
+          "name": "South Sydney Medical Specialists — Miranda",
+          "details": "Endocrinologists; diabetes and metabolic health. Confirm clinician and Miranda appointments.",
           "url": "https://www.southsydneymedicalspecialists.com.au/",
-          "sponsored": true
-        },
-        {
-          "name": "Sutherland Hospital — Endocrine & Diabetes Outpatient Clinic",
-          "details": "Public outpatient clinic (referral required)",
-          "url": "https://www.seslhd.health.nsw.gov.au/sutherland-hospital/endocrine-and-diabetes-outpatient-clinic",
           "sponsored": false
         }
       ],
@@ -361,21 +343,9 @@
       },
       "specialists": [
         {
-          "name": "Healthdirect — Service finder",
-          "details": "Find local specialists and services by suburb/postcode",
-          "url": "https://www.healthdirect.gov.au/australian-health-services",
-          "sponsored": false
-        },
-        {
-          "name": "Your Health In Mind — Find a psychiatrist (if relevant)",
-          "details": "Directory of psychiatrists (where applicable)",
-          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist",
-          "sponsored": false
-        },
-        {
-          "name": "Healthengine — Specialist search",
-          "details": "Book specialists/allied health (availability varies)",
-          "url": "https://healthengine.com.au/",
+          "name": "Miranda Cardiology — Miranda",
+          "details": "Cardiology assessment for complex cardiovascular risk or established coronary disease; confirm lipid-referral scope with rooms.",
+          "url": "https://www.mirandacardiology.com.au/",
           "sponsored": false
         }
       ],
@@ -495,20 +465,14 @@
       },
       "specialists": [
         {
-          "name": "Cardiology Associates (Miranda/Engadine)",
-          "details": "Consultant cardiologists • Diagnostics and ongoing care",
-          "url": "https://cardiologyassociates.com.au/",
+          "name": "Southern Renal Specialists — Miranda",
+          "details": "Nephrologists; difficult-to-control hypertension and renal contributors.",
+          "url": "https://southernrenal.com.au/",
           "sponsored": false
         },
         {
-          "name": "The Shire Heart Clinic (Miranda)",
-          "details": "Cardiology rooms • Sutherland Shire",
-          "url": "https://www.shireheart.com.au/",
-          "sponsored": false
-        },
-        {
-          "name": "Miranda Cardiology (Miranda)",
-          "details": "Cardiology practice • Sutherland Shire",
+          "name": "Miranda Cardiology — Miranda",
+          "details": "General cardiology; cardiovascular assessment in complex hypertension.",
           "url": "https://www.mirandacardiology.com.au/",
           "sponsored": false
         }
@@ -644,21 +608,15 @@
       },
       "specialists": [
         {
-          "name": "Dr Graham Radford (Respiratory & sleep) — Miranda",
-          "details": "Asthma/COPD • Sleep medicine • Kareena Private listing",
-          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists/kareena-private-hospital/respiratory/100614/dr-graham-radford",
+          "name": "Dr Clarissa Susanto — Miranda",
+          "details": "Respiratory physician, Shire Specialists; complex or persistent Asthma; specialist respiratory assessment.",
+          "url": "https://www.shirespecialists.com.au/dr-clarissa-susanto",
           "sponsored": false
         },
         {
-          "name": "Dr Andrew Ng (Respiratory & sleep) — Miranda",
-          "details": "Respiratory + sleep physician • Kareena Private listing",
-          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists/kareena-private-hospital/respiratory-and-sleep-medicine/100607/dr-andrew-ng",
-          "sponsored": false
-        },
-        {
-          "name": "Kareena Private Hospital — Specialist directory",
-          "details": "Search respiratory/sleep medicine services",
-          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists",
+          "name": "Dr Graham Radford — Miranda",
+          "details": "Respiratory physician; asthma/COPD management; confirm appointments with consulting rooms.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-graham-radford/",
           "sponsored": false
         }
       ],
@@ -791,7 +749,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Southside Paediatrics — Miranda",
+          "details": "General paediatric review for recurrent/ongoing concerns after acute assessment; not an urgent-care service.",
+          "url": "https://southsidepaediatrics.com.au/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -857,21 +822,9 @@
       },
       "specialists": [
         {
-          "name": "Shire Family ENT (Miranda)",
-          "details": "ENT + audiology services • Miranda rooms",
-          "url": "https://www.shirefamilyent.com.au/",
-          "sponsored": false
-        },
-        {
-          "name": "Dr Edward Smith (ENT surgeon) — Miranda",
-          "details": "Adult + paediatric ENT",
-          "url": "https://smithent.com.au/",
-          "sponsored": false
-        },
-        {
-          "name": "Sutherland Hospital — Outpatients directory",
-          "details": "Public outpatient specialties (referral required)",
-          "url": "https://www.seslhd.health.nsw.gov.au/sutherland-hospital/services-clinics/directory/outpatients-department",
+          "name": "Dr Edward Smith — Miranda",
+          "details": "Adult/paediatric ENT; recurrent middle-ear infections, effusion, hearing concerns and grommet assessment.",
+          "url": "https://smithent.com.au/childrens-ent/",
           "sponsored": false
         }
       ],
@@ -990,21 +943,15 @@
       },
       "specialists": [
         {
-          "name": "Dr Graham Radford (Respiratory & sleep) — Miranda",
-          "details": "Asthma/COPD • Sleep medicine • Kareena Private listing",
-          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists/kareena-private-hospital/respiratory/100614/dr-graham-radford",
+          "name": "Dr Clarissa Susanto — Miranda",
+          "details": "Respiratory physician, Shire Specialists; complex or persistent COPD; specialist respiratory assessment.",
+          "url": "https://www.shirespecialists.com.au/dr-clarissa-susanto",
           "sponsored": false
         },
         {
-          "name": "Dr Andrew Ng (Respiratory & sleep) — Miranda",
-          "details": "Respiratory + sleep physician • Kareena Private listing",
-          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists/kareena-private-hospital/respiratory-and-sleep-medicine/100607/dr-andrew-ng",
-          "sponsored": false
-        },
-        {
-          "name": "Kareena Private Hospital — Specialist directory",
-          "details": "Search respiratory/sleep medicine services",
-          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists",
+          "name": "Dr Graham Radford — Miranda",
+          "details": "Respiratory physician; asthma/COPD management; confirm appointments with consulting rooms.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-graham-radford/",
           "sponsored": false
         }
       ],
@@ -1144,21 +1091,9 @@
       },
       "specialists": [
         {
-          "name": "Miranda Psychology (Miranda Medical Centre)",
-          "details": "Psychology services • In-practice rooms",
-          "url": "https://mirandamedicalcentre.com.au/miranda-psychology/",
-          "sponsored": false
-        },
-        {
-          "name": "Life & Mind Psychology (Caringbah)",
-          "details": "Psychologists & counsellors • Sutherland Shire",
-          "url": "https://lifeandmind.com.au/",
-          "sponsored": false
-        },
-        {
-          "name": "Your Health In Mind — Dr Christopher McDowell (Psychiatrist) — Miranda",
-          "details": "Psychiatrist profile + contact details",
-          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/2712/dr-christopher-mcdowell",
+          "name": "Dr Greg Wilkins — Miranda",
+          "details": "Adult psychiatrist; anxiety. RANZCP profile last updated Mar 2021: confirm availability before referral.",
+          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/2544/dr-gregory-wilkins",
           "sponsored": false
         }
       ],
@@ -1268,21 +1203,9 @@
       },
       "specialists": [
         {
-          "name": "Kareena Private Hospital — Specialist directory",
-          "details": "Search urology services if recurrent/complicated",
-          "url": "https://www.kareenaprivate.com.au/Our-Doctors/Specialists",
-          "sponsored": false
-        },
-        {
-          "name": "Southern Endocrine (Sutherland)",
-          "details": "Useful if UTIs recurrent with diabetes/metabolic issues",
-          "url": "https://www.southernendocrine.com.au/",
-          "sponsored": false
-        },
-        {
-          "name": "Sutherland Hospital — Outpatients directory",
-          "details": "Public outpatient specialties (referral required)",
-          "url": "https://www.seslhd.health.nsw.gov.au/sutherland-hospital/services-clinics/directory/outpatients-department",
+          "name": "Dr Anthony Hutton — Miranda",
+          "details": "Urologist; recurrent urinary tract infections and structural/urological assessment. 50–52 Urunga Parade.",
+          "url": "https://dranthonyhutton.com.au/",
           "sponsored": false
         }
       ],
@@ -1384,7 +1307,20 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Kingsway Dermatology & Aesthetics — Miranda",
+          "details": "Specialist dermatology; persistent or difficult-to-control eczema.",
+          "url": "https://www.kdaa.com.au/medical-dermatology/",
+          "sponsored": false
+        },
+        {
+          "name": "Sutherland Shire Dermatology — Miranda",
+          "details": "Dermatologists managing eczema; Suite 8, 50 Urunga Parade.",
+          "url": "https://sydneyderm.com.au/sutherland-shire-doctors/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1427,7 +1363,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "South Sydney Medical Specialists — Miranda",
+          "details": "Endocrinologists; thyroid disorders. Confirm clinician and Miranda appointments.",
+          "url": "https://www.southsydneymedicalspecialists.com.au/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1475,7 +1418,20 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Dr Clarissa Susanto — Miranda",
+          "details": "Respiratory physician, Shire Specialists; review of recurrent or persistent respiratory infection after acute assessment.",
+          "url": "https://www.shirespecialists.com.au/dr-clarissa-susanto",
+          "sponsored": false
+        },
+        {
+          "name": "Dr Graham Radford — Miranda",
+          "details": "Respiratory physician; pneumonia assessment/follow-up; acute deterioration requires urgent care.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-graham-radford/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1508,7 +1464,20 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Kingsway Dermatology & Aesthetics — Miranda",
+          "details": "Specialist dermatology; persistent, severe or treatment-resistant acne.",
+          "url": "https://www.kdaa.com.au/medical-dermatology/",
+          "sponsored": false
+        },
+        {
+          "name": "Sutherland Shire Dermatology — Miranda",
+          "details": "Dermatologists managing acne; Suite 8, 50 Urunga Parade.",
+          "url": "https://sydneyderm.com.au/sutherland-shire-doctors/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1546,7 +1515,20 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Dr Greg Wilkins — Miranda",
+          "details": "Adult psychiatrist; ADHD assessment/management. RANZCP profile last updated Mar 2021: confirm current scope and availability.",
+          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/2544/dr-gregory-wilkins",
+          "sponsored": false
+        },
+        {
+          "name": "Southside Paediatrics — Miranda",
+          "details": "Child/adolescent paediatrics; ADHD and developmental assessment. Confirm age range and clinician availability.",
+          "url": "https://southsidepaediatrics.com.au/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1589,7 +1571,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Southside Paediatrics — Miranda",
+          "details": "General paediatric review for recurrent/ongoing concerns after acute assessment; not an urgent-care service.",
+          "url": "https://southsidepaediatrics.com.au/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1627,7 +1616,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Sutherland Hospital — Infectious Diseases Clinic",
+          "details": "Caringbah; recurrent skin/soft-tissue infections or specialist review. Electronic GP referral; acute deterioration needs urgent assessment.",
+          "url": "https://www.seslhd.health.nsw.gov.au/sutherland-hospital/infectious-diseases-outpatient-clinic",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1660,7 +1656,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Dr Matthew Allan — Miranda",
+          "details": "Cardiologist; coronary disease and general cardiology. Outpatient review after acute causes have been assessed; not an emergency service.",
+          "url": "https://www.mirandacardiology.com.au/copy-of-dr-andrew-hopkins",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1698,7 +1701,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Southern Renal Specialists — Miranda",
+          "details": "Nephrology; CKD assessment and follow-up. Suite 15, 20–24 Gibbs Street; GP referral required.",
+          "url": "https://southernrenal.com.au/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1736,7 +1746,20 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Gastroenterology Associates Miranda",
+          "details": "Adult gastroenterology for persistent/refractory bowel symptoms; 12/42–44 Urunga Parade.",
+          "url": "https://www.gastroenterologyassociatesmiranda.com.au/service/irritable-bowel-syndrome-ibs/",
+          "sponsored": false
+        },
+        {
+          "name": "Southside Paediatrics — Miranda",
+          "details": "General paediatrics and paediatric gastroenterology; persistent childhood constipation. Confirm appropriate clinician.",
+          "url": "https://southsidepaediatrics.com.au/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1780,7 +1803,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Dr Greg Wilkins — Miranda",
+          "details": "Adult psychiatrist; depression. RANZCP profile last updated Mar 2021: confirm availability before referral.",
+          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/2544/dr-gregory-wilkins",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1813,7 +1843,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Gastroenterology Associates Miranda",
+          "details": "Gastroenterologists; persistent/refractory reflux assessment and endoscopy where indicated.",
+          "url": "https://www.gastroenterologyassociatesmiranda.com.au/service/reflux-oesophagitis/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1846,7 +1883,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Dr Ken Cai — Miranda",
+          "details": "Rheumatologist; gout/crystal arthritis, recurrent attacks or complex disease. Shire Specialists, 26–28 Gibbs Street.",
+          "url": "https://drkencai.com.au/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1884,7 +1928,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Shire Neurology — Miranda",
+          "details": "Neurology assessment; persistent/recurrent headache assessment. Acute red flags require urgent assessment.",
+          "url": "https://shireneurology.com.au/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1917,7 +1968,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Dr Andrew Hopkins — Miranda",
+          "details": "Cardiologist; heart failure, echocardiography and device therapy.",
+          "url": "https://www.mirandacardiology.com.au/dr-andrew-hopkins",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1950,7 +2008,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Gastroenterology Associates Miranda",
+          "details": "Assessment of gastrointestinal causes of unexplained/recurrent iron deficiency; endoscopic investigation where indicated.",
+          "url": "https://www.gastroenterologyassociatesmiranda.com.au/service/iron-deficiency/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -1983,7 +2048,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Dr Stephen Gibson — Miranda",
+          "details": "Pain medicine physician; persistent/complex pain assessment. Percallan Specialist Suites, 95 Kareena Road; not an acute red-flag pathway.",
+          "url": "https://www.drstephengibson.com/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -2016,7 +2088,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Shire Neurology — Miranda",
+          "details": "Neurology assessment; chronic migraine treatment including botulinum toxin where appropriate.",
+          "url": "https://shireneurology.com.au/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -2049,7 +2128,14 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "Dr Ken Cai — Miranda",
+          "details": "Rheumatologist; osteoarthritis, diagnostic uncertainty and complex musculoskeletal symptoms.",
+          "url": "https://drkencai.com.au/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
@@ -2087,7 +2173,20 @@
           }
         ]
       },
-      "specialists": [],
+      "specialists": [
+        {
+          "name": "South Sydney Medical Specialists — Miranda",
+          "details": "Endocrinologists; osteoporosis and metabolic bone health. Confirm clinician and Miranda appointments.",
+          "url": "https://www.southsydneymedicalspecialists.com.au/",
+          "sponsored": false
+        },
+        {
+          "name": "Dr Ken Cai — Miranda",
+          "details": "Rheumatologist; osteoporosis and musculoskeletal assessment. Shire Specialists, 26–28 Gibbs Street.",
+          "url": "https://drkencai.com.au/",
+          "sponsored": false
+        }
+      ],
       "cpd": [],
       "events": [],
       "pharma": []
