@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "bb827e8481cf",
-  "updatedAt": "2026-10-25T03:12:50Z",
+  "version": "749227de4296",
+  "updatedAt": "2026-11-02T12:33:00Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -11,7 +11,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Atrial Fibrillation",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=atrial%20fibrillation",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=atrial%20fibrillation",
             "description": "Quick reference for AF workup, anticoagulation thresholds, rate vs rhythm control, and ongoing management."
           },
           {
@@ -23,12 +23,12 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Atrial Fibrillation",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=atrial%20fibrillation",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=atrial%20fibrillation",
             "description": "Dosing, contraindications, renal adjustment, interactions, and comparative prescribing guidance for anticoagulants and AF medications."
           },
           {
             "name": "Australian Medicines Handbook (AMH) – AF / Anticoagulants",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=class%20anticoagulants",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=class%20anticoagulants",
             "description": "Dosing, contraindications, renal adjustment, interactions, and comparative prescribing information for anticoagulants and AF medications."
           }
         ],
@@ -144,7 +144,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Type 2 Diabetes Mellitus",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=type%202%20diabetes%20mellitus",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=type%202%20diabetes%20mellitus",
             "description": "Quick reference for diagnosis, glycaemic targets, pharmacotherapy escalation, and complication management."
           },
           {
@@ -166,7 +166,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Type 2 Diabetes Mellitus",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=type%202%20diabetes%20mellitus",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=type%202%20diabetes%20mellitus",
             "description": "Dosing, contraindications, renal adjustment, PBS considerations, and comparison of diabetes medications."
           },
           {
@@ -290,14 +290,14 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Hyperlipidaemia",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=hyperlipidaemia",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=hyperlipidaemia",
             "description": "Quick reference for lipid targets, statin initiation, cardiovascular risk reduction, and escalation therapy."
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Statins",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=statins",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=statins",
             "description": "Dosing, interactions, adverse effects, and comparison of statins and other lipid-lowering therapies."
           },
           {
@@ -417,7 +417,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Hypertension",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=hypertension",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=hypertension",
             "description": "Quick reference for diagnosis, BP targets, antihypertensive initiation, escalation, and resistant hypertension management."
           },
           {
@@ -429,7 +429,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Antihypertensives",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=antihypertensives",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=antihypertensives",
             "description": "Dosing, contraindications, interactions, and comparison of antihypertensive medication classes."
           }
         ],
@@ -545,7 +545,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Asthma",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=asthma",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=asthma",
             "description": "Quick reference for asthma diagnosis, stepwise therapy, exacerbation management, and preventive care."
           },
           {
@@ -557,7 +557,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Asthma",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=monograph&q=asthma",
+            "url": "https://amhonline.amh.net.au/search?t=monograph&q=asthma",
             "description": "Dosing, inhaler selection, adverse effects, and comparative prescribing information for asthma medications."
           },
           {
@@ -688,7 +688,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Croup",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=croup",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=croup",
             "description": "Quick reference for assessment, severity stratification, steroid therapy, and escalation pathways in croup."
           },
           {
@@ -700,7 +700,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Croup",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=croup",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=croup",
             "description": "Dosing, adverse effects, contraindications, and prescribing guidance for corticosteroid therapy in croup."
           },
           {
@@ -769,7 +769,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Otitis Media",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=otitis%20media",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=otitis%20media",
             "description": "Quick reference for diagnosis, analgesia, antibiotic indications, watchful waiting, and recurrent otitis media management."
           },
           {
@@ -781,12 +781,12 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Ear Infections",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=ear%20infections",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=ear%20infections",
             "description": "Dosing, adverse effects, and prescribing guidance for first-line otitis media antibiotics."
           },
           {
             "name": "Australian Medicines Handbook (AMH) – Analgaesia in Children",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=analgesics%20children",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=analgesics%20children",
             "description": "Dosing, weight-based prescribing, contraindications, and safety guidance for common paediatric analgesics including paracetamol and ibuprofen."
           },
           {
@@ -896,7 +896,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – COPD",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=copd",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=copd",
             "description": "Quick reference for COPD diagnosis, inhaler therapy, exacerbation management, smoking cessation, and long-term care."
           },
           {
@@ -908,7 +908,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – COPD",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=copd",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=copd",
             "description": "Dosing, inhaler selection, adverse effects, and comparative prescribing information for COPD therapies."
           }
         ],
@@ -1023,7 +1023,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Anxiety Disorders",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=generalised%20anxiety%20disorder",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=generalised%20anxiety%20disorder",
             "description": "Quick reference for assessment, diagnostic approach, psychological therapy, pharmacotherapy, and follow-up of anxiety disorders."
           },
           {
@@ -1035,7 +1035,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Anxiety",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=anxiety",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=anxiety",
             "description": "Dosing, adverse effects, interactions, and comparative prescribing guidance for anxiolytics and antidepressants."
           },
           {
@@ -1165,7 +1165,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Urinary Tract Infection",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=urinary%20tract%20infection",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=urinary%20tract%20infection",
             "description": "Quick reference for cystitis, pyelonephritis, recurrent UTI, pregnancy-associated UTI, and antibiotic selection."
           },
           {
@@ -1177,7 +1177,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Urinary Infections",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=other&q=urinary%20infections",
+            "url": "https://amhonline.amh.net.au/search?t=other&q=urinary%20infections",
             "description": "Dosing, contraindications, interactions, pregnancy considerations, and antibiotic prescribing guidance for urinary tract infections."
           }
         ],
@@ -1277,7 +1277,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Eczema",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=atopic%20dermatitis",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=atopic%20dermatitis",
             "description": "Search eTG for eczema assessment and management guidance."
           },
           {
@@ -1289,7 +1289,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Eczema",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=atopic%20dermatitis",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=atopic%20dermatitis",
             "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1333,7 +1333,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Hypothyroidism",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=hypothyroidism",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=hypothyroidism",
             "description": "Search eTG for hypothyroidism assessment and management guidance."
           },
           {
@@ -1345,7 +1345,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Hypothyroidism",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=hypothyroidism",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=hypothyroidism",
             "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1383,7 +1383,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Pneumonia",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=community%20acquired%20pneumonia",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=community%20acquired%20pneumonia",
             "description": "Search eTG for pneumonia assessment and management guidance."
           },
           {
@@ -1395,12 +1395,12 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Respiratory Infections",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/chapters/anti-infectives/tables/respiratory-infections-table",
+            "url": "https://amhonline.amh.net.au/chapters/anti-infectives/tables/respiratory-infections-table",
             "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
           },
           {
             "name": "Australian Medicines Handbook (AMH) – Amoxicillin",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=monograph&q=amoxicillin",
+            "url": "https://amhonline.amh.net.au/search?t=monograph&q=amoxicillin",
             "description": "Search for amoxicillin dosing, contraindications, interactions, and precautions."
           }
         ],
@@ -1444,14 +1444,14 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Acne",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=acne",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=acne",
             "description": "Search eTG for acne assessment, management, and referral guidance."
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Acne",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=acne",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=acne",
             "description": "Search AMH for acne prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1490,7 +1490,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – ADHD",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=attention%20deficit%20hyperactivity%20disorder",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=attention%20deficit%20hyperactivity%20disorder",
             "description": "Search eTG for attention deficit hyperactivity disorder assessment, management, and referral guidance."
           },
           {
@@ -1502,7 +1502,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Attention deficit hyperactivity disorder",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=attention%20deficit%20hyperactivity%20disorder",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=attention%20deficit%20hyperactivity%20disorder",
             "description": "Search AMH for attention deficit hyperactivity disorder prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1541,7 +1541,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Bronchiolitis",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=bronchiolitis",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=bronchiolitis",
             "description": "Search eTG for bronchiolitis assessment, management, and referral guidance."
           },
           {
@@ -1553,7 +1553,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Respiratory Infections",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/chapters/anti-infectives/tables/respiratory-infections-table",
+            "url": "https://amhonline.amh.net.au/chapters/anti-infectives/tables/respiratory-infections-table",
             "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1591,7 +1591,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Cellulitis",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=cellulitis",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=cellulitis",
             "description": "Search eTG for cellulitis assessment, management, and referral guidance."
           },
           {
@@ -1603,7 +1603,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Skin and Soft Tissue Infections",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/chapters/anti-infectives/tables/skin-soft-tissue-infections-table",
+            "url": "https://amhonline.amh.net.au/chapters/anti-infectives/tables/skin-soft-tissue-infections-table",
             "description": "Search AMH for cellulitis prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1636,14 +1636,14 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Chest Pain",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=chest%20pain",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=chest%20pain",
             "description": "Search eTG for chest pain assessment, management, and referral guidance."
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Acute coronary syndromes",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=acute%20coronary%20syndromes",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=acute%20coronary%20syndromes",
             "description": "Prescribing reference for suspected acute coronary syndromes; medication use depends on diagnosis and emergency assessment."
           }
         ],
@@ -1676,7 +1676,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Chronic Kidney Disease",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=chronic%20kidney%20disease",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=chronic%20kidney%20disease",
             "description": "Search eTG for chronic kidney disease assessment, management, and referral guidance."
           },
           {
@@ -1688,7 +1688,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Renal impairment",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=other&q=renal%20impairment",
+            "url": "https://amhonline.amh.net.au/search?t=other&q=renal%20impairment",
             "description": "Search AMH for renal impairment prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1721,7 +1721,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Constipation",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=constipation",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=constipation",
             "description": "Search eTG for constipation assessment, management, and referral guidance."
           },
           {
@@ -1733,7 +1733,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Laxatives",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=laxatives",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=laxatives",
             "description": "Search AMH for laxatives prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1772,14 +1772,14 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Depression",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=depression",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=depression",
             "description": "Search eTG for depression assessment, management, and referral guidance."
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Depression",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=depression",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=depression",
             "description": "Search AMH for depression prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1823,14 +1823,14 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – GORD",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=gastro-oesophageal%20reflux",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=gastro-oesophageal%20reflux",
             "description": "Search eTG for gastro-oesophageal reflux disease assessment, management, and referral guidance."
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Proton pump inhibitors",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=proton%20pump%20inhibitors",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=proton%20pump%20inhibitors",
             "description": "Search AMH for proton pump inhibitors prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1863,14 +1863,14 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Gout",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=gout",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=gout",
             "description": "Search eTG for gout assessment, management, and referral guidance."
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Gout",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=gout",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=gout",
             "description": "Search AMH for gout prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1903,7 +1903,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Headache",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=headache",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=headache",
             "description": "Search eTG for headache assessment, management, and referral guidance."
           },
           {
@@ -1915,7 +1915,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Analgesics",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=analgesics",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=analgesics",
             "description": "Search AMH for analgesics prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1948,14 +1948,14 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Heart Failure",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=heart%20failure",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=heart%20failure",
             "description": "Search eTG for heart failure assessment, management, and referral guidance."
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Heart failure",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=heart%20failure",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=heart%20failure",
             "description": "Search AMH for heart failure prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -1988,14 +1988,14 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Iron Deficiency",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=iron%20deficiency",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=iron%20deficiency",
             "description": "Search eTG for iron deficiency assessment, management, and referral guidance."
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Iron",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=iron",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=iron",
             "description": "Search AMH for iron prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -2028,14 +2028,14 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Low Back Pain",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=low%20back%20pain",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=low%20back%20pain",
             "description": "Search eTG for low back pain assessment, management, and referral guidance."
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Analgesics",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=class&q=analgesics",
+            "url": "https://amhonline.amh.net.au/search?t=class&q=analgesics",
             "description": "Search AMH for analgesics prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -2068,14 +2068,14 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Migraine",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=migraine",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=migraine",
             "description": "Search eTG for migraine assessment, management, and referral guidance."
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Migraine",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=migraine",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=migraine",
             "description": "Search AMH for migraine prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -2108,14 +2108,14 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Osteoarthritis",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=osteoarthritis",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=osteoarthritis",
             "description": "Search eTG for osteoarthritis assessment, management, and referral guidance."
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Osteoarthritis",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=osteoarthritis",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=osteoarthritis",
             "description": "Search AMH for osteoarthritis prescribing, dosing, contraindications, and interactions."
           }
         ],
@@ -2148,7 +2148,7 @@
         "guidelines": [
           {
             "name": "Therapeutic Guidelines (eTG) – Osteoporosis",
-            "url": "https://app.tg.org.au.acs.hcn.com.au/searchAction/?appendedinputbuttons=osteoporosis",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=osteoporosis",
             "description": "Search eTG for osteoporosis assessment, management, and referral guidance."
           },
           {
@@ -2160,7 +2160,7 @@
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Osteoporosis",
-            "url": "https://amhonline.amh.net.au.acs.hcn.com.au/search?t=therapeutic&q=osteoporosis",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=osteoporosis",
             "description": "Search AMH for osteoporosis prescribing, dosing, contraindications, and interactions."
           }
         ],
