@@ -1,12 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "749227de4296",
-  "updatedAt": "2026-11-02T12:33:00Z",
+  "version": "aec5c6723cce",
+  "updatedAt": "2026-11-05T06:53:30Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
       "name": "Atrial Fibrillation",
       "speciality": "Cardiology",
+      "keywords": [
+        "paroxysmal atrial fibrillation",
+        "persistent atrial fibrillation",
+        "permanent atrial fibrillation"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -140,6 +145,12 @@
       "id": "type_2_diabetes_mellitus",
       "name": "Type 2 Diabetes Mellitus",
       "speciality": "Endocrinology",
+      "keywords": [
+        "type 2 diabetes",
+        "type II diabetes",
+        "non-insulin-dependent diabetes mellitus",
+        "adult-onset diabetes"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -286,6 +297,16 @@
       "id": "hyperlipidaemia",
       "name": "Hyperlipidaemia",
       "speciality": "Cardiology",
+      "keywords": [
+        "dyslipidaemia",
+        "dyslipidemia",
+        "hyperlipidemia",
+        "hypercholesterolaemia",
+        "hypercholesterolemia",
+        "high cholesterol",
+        "hypertriglyceridaemia",
+        "familial hypercholesterolaemia"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -413,6 +434,13 @@
       "id": "hypertension",
       "name": "Hypertension",
       "speciality": "Cardiology",
+      "keywords": [
+        "essential hypertension",
+        "primary hypertension",
+        "secondary hypertension",
+        "resistant hypertension",
+        "high blood pressure"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -541,6 +569,13 @@
       "id": "asthma",
       "name": "Asthma",
       "speciality": "Respiratory",
+      "keywords": [
+        "bronchial asthma",
+        "allergic asthma",
+        "exercise-induced asthma",
+        "occupational asthma",
+        "childhood asthma"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -684,6 +719,13 @@
       "id": "croup",
       "name": "Croup",
       "speciality": "Paediatrics",
+      "keywords": [
+        "viral croup",
+        "spasmodic croup",
+        "laryngotracheitis",
+        "laryngotracheobronchitis",
+        "barking cough"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -765,6 +807,14 @@
       "id": "otitis_media",
       "name": "Otitis Media",
       "speciality": "Paediatrics",
+      "keywords": [
+        "acute otitis media",
+        "recurrent otitis media",
+        "otitis media with effusion",
+        "chronic suppurative otitis media",
+        "middle ear infection",
+        "glue ear"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -892,6 +942,12 @@
       "id": "copd",
       "name": "COPD",
       "speciality": "Respiratory",
+      "keywords": [
+        "chronic obstructive pulmonary disease",
+        "chronic obstructive airways disease",
+        "emphysema",
+        "chronic bronchitis"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1019,6 +1075,13 @@
       "id": "anxiety",
       "name": "Anxiety",
       "speciality": "Mental Health",
+      "keywords": [
+        "anxiety disorder",
+        "generalised anxiety disorder",
+        "generalized anxiety disorder",
+        "social anxiety disorder",
+        "panic disorder"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1161,6 +1224,13 @@
       "id": "uti",
       "name": "UTI",
       "speciality": "General Practice",
+      "keywords": [
+        "urinary tract infection",
+        "lower urinary tract infection",
+        "recurrent urinary tract infection",
+        "cystitis",
+        "bladder infection"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1273,6 +1343,13 @@
       "id": "eczema",
       "name": "Eczema",
       "speciality": "Dermatology",
+      "keywords": [
+        "atopic eczema",
+        "atopic dermatitis",
+        "discoid eczema",
+        "nummular eczema",
+        "dyshidrotic eczema"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1329,6 +1406,14 @@
       "id": "hypothyroidism",
       "name": "Hypothyroidism",
       "speciality": "Endocrinology",
+      "keywords": [
+        "underactive thyroid",
+        "primary hypothyroidism",
+        "subclinical hypothyroidism",
+        "autoimmune hypothyroidism",
+        "Hashimoto thyroiditis",
+        "Hashimoto disease"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1379,6 +1464,14 @@
       "id": "pneumonia",
       "name": "Pneumonia",
       "speciality": "Respiratory",
+      "keywords": [
+        "community-acquired pneumonia",
+        "hospital-acquired pneumonia",
+        "aspiration pneumonia",
+        "atypical pneumonia",
+        "bacterial pneumonia",
+        "viral pneumonia"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1440,6 +1533,13 @@
       "id": "acne",
       "name": "Acne",
       "speciality": "Dermatology",
+      "keywords": [
+        "acne vulgaris",
+        "comedonal acne",
+        "inflammatory acne",
+        "nodulocystic acne",
+        "adult acne"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1486,6 +1586,11 @@
       "id": "adhd",
       "name": "ADHD",
       "speciality": "Mental Health",
+      "keywords": [
+        "attention deficit hyperactivity disorder",
+        "attention deficit disorder",
+        "adult attention deficit hyperactivity disorder"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1537,6 +1642,11 @@
       "id": "bronchiolitis",
       "name": "Bronchiolitis",
       "speciality": "Paediatrics",
+      "keywords": [
+        "acute bronchiolitis",
+        "viral bronchiolitis",
+        "respiratory syncytial virus bronchiolitis"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1587,6 +1697,12 @@
       "id": "cellulitis",
       "name": "Cellulitis",
       "speciality": "Dermatology",
+      "keywords": [
+        "bacterial cellulitis",
+        "non-purulent cellulitis",
+        "recurrent cellulitis",
+        "erysipelas"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1632,6 +1748,13 @@
       "id": "chest_pain",
       "name": "Chest Pain",
       "speciality": "Cardiology",
+      "keywords": [
+        "chest discomfort",
+        "chest tightness",
+        "thoracic pain",
+        "non-cardiac chest pain",
+        "musculoskeletal chest pain"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1672,6 +1795,13 @@
       "id": "chronic_kidney_disease",
       "name": "Chronic Kidney Disease",
       "speciality": "Nephrology",
+      "keywords": [
+        "chronic renal disease",
+        "chronic renal impairment",
+        "chronic renal insufficiency",
+        "chronic renal failure",
+        "diabetic kidney disease"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1717,6 +1847,13 @@
       "id": "constipation",
       "name": "Constipation",
       "speciality": "Gastroenterology",
+      "keywords": [
+        "functional constipation",
+        "chronic constipation",
+        "slow-transit constipation",
+        "idiopathic constipation",
+        "opioid-induced constipation"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1768,6 +1905,15 @@
       "id": "depression",
       "name": "Depression",
       "speciality": "Mental Health",
+      "keywords": [
+        "depressive disorder",
+        "major depression",
+        "major depressive disorder",
+        "persistent depressive disorder",
+        "dysthymia",
+        "postnatal depression",
+        "perinatal depression"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1819,6 +1965,13 @@
       "id": "gord",
       "name": "GORD",
       "speciality": "Gastroenterology",
+      "keywords": [
+        "gastro-oesophageal reflux disease",
+        "gastroesophageal reflux disease",
+        "acid reflux",
+        "oesophageal reflux",
+        "reflux oesophagitis"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1859,6 +2012,13 @@
       "id": "gout",
       "name": "Gout",
       "speciality": "Rheumatology",
+      "keywords": [
+        "gouty arthritis",
+        "acute gout",
+        "chronic gout",
+        "tophaceous gout",
+        "podagra"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1899,6 +2059,15 @@
       "id": "headache",
       "name": "Headache",
       "speciality": "General Practice",
+      "keywords": [
+        "tension-type headache",
+        "cluster headache",
+        "medication-overuse headache",
+        "rebound headache",
+        "primary headache",
+        "secondary headache",
+        "cephalalgia"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1944,6 +2113,14 @@
       "id": "heart_failure",
       "name": "Heart Failure",
       "speciality": "Cardiology",
+      "keywords": [
+        "congestive heart failure",
+        "cardiac failure",
+        "left ventricular failure",
+        "right ventricular failure",
+        "heart failure with reduced ejection fraction",
+        "heart failure with preserved ejection fraction"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -1984,6 +2161,13 @@
       "id": "iron_deficiency",
       "name": "Iron Deficiency",
       "speciality": "Haematology",
+      "keywords": [
+        "iron deficiency anaemia",
+        "iron deficiency anemia",
+        "non-anaemic iron deficiency",
+        "iron depletion",
+        "depleted iron stores"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -2024,6 +2208,14 @@
       "id": "low_back_pain",
       "name": "Low Back Pain",
       "speciality": "Musculoskeletal",
+      "keywords": [
+        "lower back pain",
+        "lumbar pain",
+        "lumbago",
+        "mechanical low back pain",
+        "non-specific low back pain",
+        "chronic low back pain"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -2064,6 +2256,14 @@
       "id": "migraine",
       "name": "Migraine",
       "speciality": "Neurology",
+      "keywords": [
+        "migraine with aura",
+        "migraine without aura",
+        "episodic migraine",
+        "chronic migraine",
+        "menstrual migraine",
+        "vestibular migraine"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -2104,6 +2304,14 @@
       "id": "osteoarthritis",
       "name": "Osteoarthritis",
       "speciality": "Musculoskeletal",
+      "keywords": [
+        "degenerative joint disease",
+        "osteoarthrosis",
+        "knee osteoarthritis",
+        "hip osteoarthritis",
+        "hand osteoarthritis",
+        "primary osteoarthritis"
+      ],
       "sections": {
         "guidelines": [
           {
@@ -2144,6 +2352,12 @@
       "id": "osteoporosis",
       "name": "Osteoporosis",
       "speciality": "Musculoskeletal",
+      "keywords": [
+        "postmenopausal osteoporosis",
+        "age-related osteoporosis",
+        "secondary osteoporosis",
+        "glucocorticoid-induced osteoporosis"
+      ],
       "sections": {
         "guidelines": [
           {
