@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "479f826c3e69",
-  "updatedAt": "2026-11-05T04:30:12Z",
+  "version": "aec5c6723cce",
+  "updatedAt": "2026-11-05T06:53:30Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -723,7 +723,8 @@
         "viral croup",
         "spasmodic croup",
         "laryngotracheitis",
-        "laryngotracheobronchitis"
+        "laryngotracheobronchitis",
+        "barking cough"
       ],
       "sections": {
         "guidelines": [
