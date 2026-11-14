@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "aec5c6723cce",
-  "updatedAt": "2026-11-05T06:53:30Z",
+  "version": "9cb78c9544b1",
+  "updatedAt": "2026-11-14T16:31:37Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -81,20 +81,7 @@
           "sponsored": false
         }
       ],
-      "cpd": [
-        {
-          "name": "RACGP events (search: Atrial Fibrillation)",
-          "details": "Webinar, on-demand and in-person • CPD hours listed",
-          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=Atrial%20Fibrillation",
-          "sponsored": false
-        },
-        {
-          "name": "ThinkGP education (catalogue)",
-          "details": "Accredited learning • Filter by category/topic",
-          "url": "https://www.thinkgp.com.au/education",
-          "sponsored": false
-        }
-      ],
+      "cpd": [],
       "events": [
         {
           "title": "Healthed seminars (Sydney + major cities)",
@@ -219,20 +206,7 @@
           "sponsored": false
         }
       ],
-      "cpd": [
-        {
-          "name": "RACGP events (search: diabetes)",
-          "details": "Webinar, on-demand and in-person • CPD hours listed",
-          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=diabetes",
-          "sponsored": true
-        },
-        {
-          "name": "ThinkGP education (catalogue)",
-          "details": "Accredited learning • Filter by category/topic",
-          "url": "https://www.thinkgp.com.au/education",
-          "sponsored": false
-        }
-      ],
+      "cpd": [],
       "events": [
         {
           "title": "Healthed seminars (Sydney + major cities)",
@@ -370,20 +344,7 @@
           "sponsored": false
         }
       ],
-      "cpd": [
-        {
-          "name": "RACGP events (search: cholesterol)",
-          "details": "Webinar, on-demand and in-person • CPD hours listed",
-          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=cholesterol",
-          "sponsored": false
-        },
-        {
-          "name": "ThinkGP education (catalogue)",
-          "details": "Accredited learning • Filter by topic",
-          "url": "https://www.thinkgp.com.au/education",
-          "sponsored": false
-        }
-      ],
+      "cpd": [],
       "events": [
         {
           "title": "Healthed seminars (Sydney + major cities)",
@@ -505,20 +466,7 @@
           "sponsored": false
         }
       ],
-      "cpd": [
-        {
-          "name": "RACGP events (search: Hypertension)",
-          "details": "Webinar, on-demand and in-person • CPD hours listed",
-          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=Hypertension",
-          "sponsored": false
-        },
-        {
-          "name": "ThinkGP education (catalogue)",
-          "details": "Accredited learning • Filter by category/topic",
-          "url": "https://www.thinkgp.com.au/education",
-          "sponsored": false
-        }
-      ],
+      "cpd": [],
       "events": [
         {
           "title": "Healthed seminars (Sydney + major cities)",
@@ -655,20 +603,7 @@
           "sponsored": false
         }
       ],
-      "cpd": [
-        {
-          "name": "RACGP events (search: Asthma)",
-          "details": "Webinar, on-demand and in-person • CPD hours listed",
-          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=Asthma",
-          "sponsored": false
-        },
-        {
-          "name": "ThinkGP education (catalogue)",
-          "details": "Accredited learning • Filter by category/topic",
-          "url": "https://www.thinkgp.com.au/education",
-          "sponsored": false
-        }
-      ],
+      "cpd": [],
       "events": [
         {
           "title": "Healthed seminars (Sydney + major cities)",
@@ -878,20 +813,7 @@
           "sponsored": false
         }
       ],
-      "cpd": [
-        {
-          "name": "RACGP events (search: Otitis Media)",
-          "details": "Webinar, on-demand and in-person • CPD hours listed",
-          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=Otitis%20Media",
-          "sponsored": false
-        },
-        {
-          "name": "ThinkGP education (catalogue)",
-          "details": "Accredited learning • Filter by category/topic",
-          "url": "https://www.thinkgp.com.au/education",
-          "sponsored": false
-        }
-      ],
+      "cpd": [],
       "events": [
         {
           "title": "Healthed seminars (Sydney + major cities)",
@@ -1011,20 +933,7 @@
           "sponsored": false
         }
       ],
-      "cpd": [
-        {
-          "name": "RACGP events (search: COPD)",
-          "details": "Webinar, on-demand and in-person • CPD hours listed",
-          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=COPD",
-          "sponsored": false
-        },
-        {
-          "name": "ThinkGP education (catalogue)",
-          "details": "Accredited learning • Filter by category/topic",
-          "url": "https://www.thinkgp.com.au/education",
-          "sponsored": false
-        }
-      ],
+      "cpd": [],
       "events": [
         {
           "title": "Healthed seminars (Sydney + major cities)",
@@ -1160,20 +1069,7 @@
           "sponsored": false
         }
       ],
-      "cpd": [
-        {
-          "name": "RACGP events (search: Anxiety)",
-          "details": "Webinar, on-demand and in-person • CPD hours listed",
-          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=Anxiety",
-          "sponsored": false
-        },
-        {
-          "name": "ThinkGP education (catalogue)",
-          "details": "Accredited learning • Filter by category/topic",
-          "url": "https://www.thinkgp.com.au/education",
-          "sponsored": false
-        }
-      ],
+      "cpd": [],
       "events": [
         {
           "title": "Healthed seminars (Sydney + major cities)",
@@ -1279,20 +1175,7 @@
           "sponsored": false
         }
       ],
-      "cpd": [
-        {
-          "name": "RACGP events (search: UTI)",
-          "details": "Webinar, on-demand and in-person • CPD hours listed",
-          "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=UTI",
-          "sponsored": false
-        },
-        {
-          "name": "ThinkGP education (catalogue)",
-          "details": "Accredited learning • Filter by category/topic",
-          "url": "https://www.thinkgp.com.au/education",
-          "sponsored": false
-        }
-      ],
+      "cpd": [],
       "events": [
         {
           "title": "Healthed seminars (Sydney + major cities)",
@@ -2404,6 +2287,30 @@
       "cpd": [],
       "events": [],
       "pharma": []
+    }
+  ],
+  "cpd": [
+    {
+      "name": "RACGP events",
+      "details": "Webinar, on-demand and in-person â€¢ CPD hours listed",
+      "url": "https://www.racgp.org.au/racgp-digital-events-calendar/home",
+      "searchUrl": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext={topic}",
+      "topics": [],
+      "regions": [
+        "national"
+      ],
+      "sponsored": false
+    },
+    {
+      "name": "ThinkGP education",
+      "details": "Accredited learning â€¢ Filter by category/topic",
+      "url": "https://www.thinkgp.com.au/education",
+      "searchUrl": "https://www.thinkgp.com.au/education?keys_2={topic}",
+      "topics": [],
+      "regions": [
+        "national"
+      ],
+      "sponsored": false
     }
   ]
 }
