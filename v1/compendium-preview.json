@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "f30d9c1203d0",
-  "updatedAt": "2026-11-15T01:01:35Z",
+  "version": "1089afde68fc",
+  "updatedAt": "2026-11-15T01:07:14Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -2291,7 +2291,7 @@
   ],
   "cpd": [
     {
-      "name": "Search RACGP",
+      "name": "RACGP",
       "details": "Search RACGP by topic",
       "url": "https://www.racgp.org.au/racgp-digital-events-calendar/home",
       "searchUrl": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext={topic}",
@@ -2339,6 +2339,32 @@
       "sponsored": true,
       "starts": "2026-11-15",
       "ends": "2027-11-15"
+    },
+    {
+      "name": "[Demo] Type 2 diabetes medication review",
+      "details": "Example sponsored listing. Link opens HealthCert Education’s course search.",
+      "url": "https://www.healthcert.com/courses/search-results?pathway=&q=type%202%20diabetes&type=courses",
+      "topics": [
+        "type_2_diabetes_mellitus"
+      ],
+      "regions": [
+        "national"
+      ],
+      "sponsored": true,
+      "starts": "2026-11-15",
+      "ends": "2027-11-15"
+    },
+    {
+      "name": "[Demo] Type 2 diabetes annual review",
+      "details": "Example non-sponsored listing. Link opens the RACGP calendar search.",
+      "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=type%202%20diabetes",
+      "topics": [
+        "type_2_diabetes_mellitus"
+      ],
+      "regions": [
+        "national"
+      ],
+      "sponsored": false
     }
   ]
 }
