@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "3408d5de67c4",
-  "updatedAt": "2026-11-14T16:41:16Z",
+  "version": "f30d9c1203d0",
+  "updatedAt": "2026-11-15T01:01:35Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -2291,8 +2291,8 @@
   ],
   "cpd": [
     {
-      "name": "RACGP events",
-      "details": "Webinar, on-demand and in-person • CPD hours listed",
+      "name": "Search RACGP",
+      "details": "Search RACGP by topic",
       "url": "https://www.racgp.org.au/racgp-digital-events-calendar/home",
       "searchUrl": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext={topic}",
       "topics": [],
@@ -2302,15 +2302,43 @@
       "sponsored": false
     },
     {
-      "name": "ThinkGP education",
-      "details": "Accredited learning • Filter by category/topic",
-      "url": "https://www.thinkgp.com.au/education",
-      "searchUrl": "https://www.thinkgp.com.au/education?keys_2={topic}",
+      "name": "HealthCert Education",
+      "details": "Search HealthCert Education by topic",
+      "url": "https://www.healthcert.com/courses/search-results?pathway=&q=&type=courses",
+      "searchUrl": "https://www.healthcert.com/courses/search-results?pathway=&q={topic}&type=courses",
       "topics": [],
       "regions": [
         "national"
       ],
       "sponsored": false
+    },
+    {
+      "name": "[Demo] Atrial fibrillation",
+      "details": "Example sponsored listing • HealthCert Education short course",
+      "url": "https://www.healthcert.com/courses/short-courses/atrial-fibrillation",
+      "topics": [
+        "atrial_fibrillation"
+      ],
+      "regions": [
+        "national"
+      ],
+      "sponsored": true,
+      "starts": "2026-11-15",
+      "ends": "2027-11-15"
+    },
+    {
+      "name": "[Demo] Foundation Certificate of Cardiovascular Medicine",
+      "details": "Example sponsored listing • HealthCert Education certificate covering atrial fibrillation",
+      "url": "https://www.healthcert.com/courses/certificates/foundation-certificate-of-cardiovascular-medicine",
+      "topics": [
+        "atrial_fibrillation"
+      ],
+      "regions": [
+        "national"
+      ],
+      "sponsored": true,
+      "starts": "2026-11-15",
+      "ends": "2027-11-15"
     }
   ]
 }
