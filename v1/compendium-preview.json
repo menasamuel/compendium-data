@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "1089afde68fc",
-  "updatedAt": "2026-11-15T01:07:14Z",
+  "version": "c3eeb78f02e7",
+  "updatedAt": "2026-11-17T10:17:46Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -78,6 +78,12 @@
           "name": "Dr Suresh Singarayar — Miranda / Woolooware",
           "details": "Cardiologist/electrophysiologist; arrhythmia assessment and management.",
           "url": "https://www.sutherlandheartclinic.com.au/suresh-singarayar/",
+          "sponsored": false
+        },
+        {
+          "name": "Dr John Riskallah — Kogarah",
+          "details": "Interventional cardiologist at St George Cardiac Clinic.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-john-riskallah/",
           "sponsored": false
         }
       ],
@@ -342,6 +348,12 @@
           "details": "Cardiology assessment for complex cardiovascular risk or established coronary disease; confirm lipid-referral scope with rooms.",
           "url": "https://www.mirandacardiology.com.au/",
           "sponsored": false
+        },
+        {
+          "name": "Dr John Riskallah — Kogarah",
+          "details": "Interventional cardiologist at St George Cardiac Clinic.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-john-riskallah/",
+          "sponsored": false
         }
       ],
       "cpd": [],
@@ -463,6 +475,12 @@
           "name": "Miranda Cardiology — Miranda",
           "details": "General cardiology; cardiovascular assessment in complex hypertension.",
           "url": "https://www.mirandacardiology.com.au/",
+          "sponsored": false
+        },
+        {
+          "name": "Dr John Riskallah — Kogarah",
+          "details": "Interventional cardiologist at St George Cardiac Clinic.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-john-riskallah/",
           "sponsored": false
         }
       ],
@@ -1668,6 +1686,12 @@
           "details": "Cardiologist; coronary disease and general cardiology. Outpatient review after acute causes have been assessed; not an emergency service.",
           "url": "https://www.mirandacardiology.com.au/copy-of-dr-andrew-hopkins",
           "sponsored": false
+        },
+        {
+          "name": "Dr John Riskallah — Kogarah",
+          "details": "Interventional cardiologist at St George Cardiac Clinic.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-john-riskallah/",
+          "sponsored": false
         }
       ],
       "cpd": [],
@@ -2033,6 +2057,12 @@
           "name": "Dr Andrew Hopkins — Miranda",
           "details": "Cardiologist; heart failure, echocardiography and device therapy.",
           "url": "https://www.mirandacardiology.com.au/dr-andrew-hopkins",
+          "sponsored": false
+        },
+        {
+          "name": "Dr John Riskallah — Kogarah",
+          "details": "Interventional cardiologist at St George Cardiac Clinic.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-john-riskallah/",
           "sponsored": false
         }
       ],
