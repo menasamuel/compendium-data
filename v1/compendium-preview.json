@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "c3eeb78f02e7",
-  "updatedAt": "2026-11-19T09:53:24Z",
+  "version": "1942b981302b",
+  "updatedAt": "2026-11-19T11:22:58Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -2396,5 +2396,8 @@
       ],
       "sponsored": false
     }
-  ]
+  ],
+  "settings": {
+    "feedbackUrl": "https://script.google.com/macros/s/AKfycbxL6LHRbQMrmr0aUWdK9MRmaqHq5qPpYioGiUL85r2zh3FLGjug7UcQ9xnkj56ccmJeLw/exec"
+  }
 }
