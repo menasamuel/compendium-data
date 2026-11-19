@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "c3eeb78f02e7",
-  "updatedAt": "2026-11-17T10:17:46Z",
+  "version": "0d2ea98c7a9d",
+  "updatedAt": "2026-11-19T09:32:29Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -100,7 +100,7 @@
           "sponsored": false
         },
         {
-          "title": "GPCE Sydney (conference)",
+          "title": "GPCE Sydney (conference)!",
           "details": "Primary care conference • Accredited sessions • Check dates on site",
           "tags": [
             "Conference",
