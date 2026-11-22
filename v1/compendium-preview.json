@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "6f2552ed4f29",
-  "updatedAt": "2026-11-22T21:55:55Z",
+  "version": "53eb22fd3445",
+  "updatedAt": "2026-11-22T22:31:12Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -128,6 +128,15 @@
           "sponsored": false,
           "regions": [
             "st_george"
+          ]
+        },
+        {
+          "name": "A/Prof Chrishan Nalliah — Bankstown",
+          "details": "Cardiologist and electrophysiologist for atrial arrhythmia and rhythm-management assessment.",
+          "url": "https://www.bankstownheart.com.au/doctor/associate-professor-chrishan-nalliah/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -309,6 +318,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Dr Shailja Tewari — Campsie",
+          "details": "Endocrinologist for complex type 2 diabetes management.",
+          "url": "https://www.sdccampsie.com.au/endocrinologist",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -516,6 +534,15 @@
           "regions": [
             "st_george"
           ]
+        },
+        {
+          "name": "Dr Kevin Fung — Bankstown",
+          "details": "General adult cardiologist for cardiovascular risk assessment in complex dyslipidaemia.",
+          "url": "https://www.acma.org.au/index.php/component/jbusinessdirectory/companies/56",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -699,6 +726,15 @@
           "sponsored": false,
           "regions": [
             "st_george"
+          ]
+        },
+        {
+          "name": "Dr Kevin Fung — Bankstown",
+          "details": "General adult cardiologist with a clinical interest in hypertension.",
+          "url": "https://www.acma.org.au/index.php/component/jbusinessdirectory/companies/56",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -899,6 +935,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Meredith Respiratory Centre — Bankstown",
+          "details": "Respiratory physicians and lung function testing for persistent or difficult-to-control adult asthma.",
+          "url": "https://meredithrespiratoryandsleepcentres.com.au/respiratory-clinic-sydney/meredith-respiratory-centre-bankstown/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -1089,6 +1134,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Dr Julie Parle — Campsie",
+          "details": "General paediatric review for recurrent or atypical croup after acute assessment.",
+          "url": "https://www.campsiemedicalanddental.com.au/specialists/specialists-at-our-centre/dr-julie-parle/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -1205,6 +1259,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Bankstown Civic ENT — Bankstown",
+          "details": "Paediatric and adult ENT assessment for recurrent otitis media, persistent effusion or associated hearing concerns.",
+          "url": "https://www.bcent.com.au/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -1378,6 +1441,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Meredith Respiratory Centre — Bankstown",
+          "details": "Respiratory specialist assessment and lung function testing for adults with COPD.",
+          "url": "https://meredithrespiratoryandsleepcentres.com.au/respiratory-clinic-sydney/meredith-respiratory-centre-bankstown/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -1577,6 +1649,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Dr Rahul Bharadwaj — Campsie",
+          "details": "Psychiatrist with a listed interest in anxiety disorders. Confirm age range and current Campsie availability.",
+          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/7599/dr-rahul-bharadwaj",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -1726,6 +1807,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Dr David Jefferson — Campsie",
+          "details": "Canterbury Hospital urologist with Campsie rooms for adult urological assessment of recurrent or complicated UTI.",
+          "url": "https://slhd.health.nsw.gov.au/canterbury/services/urology",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -1877,6 +1967,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Dr Marcia Llewellyn — Campsie",
+          "details": "Dermatologist listed for eczema. Confirm current consulting details with the rooms.",
+          "url": "https://ausdocfinder.com/doctors/dr-marcia-llewellyn/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -1960,6 +2059,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Dr Shailja Tewari — Campsie",
+          "details": "Endocrinologist for complex thyroid disorders, including hypothyroidism.",
+          "url": "https://www.sdccampsie.com.au/endocrinologist",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -2062,6 +2170,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Meredith Respiratory Centre — Bankstown",
+          "details": "Respiratory specialist review for recurrent pneumonia or persistent respiratory concerns after acute assessment.",
+          "url": "https://meredithrespiratoryandsleepcentres.com.au/respiratory-clinic-sydney/meredith-respiratory-centre-bankstown/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -2137,6 +2254,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Dr Marcia Llewellyn — Campsie",
+          "details": "Dermatologist listed for persistent or severe acne. Confirm current consulting details with the rooms.",
+          "url": "https://ausdocfinder.com/doctors/dr-marcia-llewellyn/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -2220,6 +2346,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Dr George Liangas — Campsie",
+          "details": "Child and adolescent psychiatrist with a listed interest in ADHD. Confirm age range and availability.",
+          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/6515/dr-georgios-liangas",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -2301,6 +2436,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Dr Julie Parle — Campsie",
+          "details": "General paediatric review for persistent respiratory symptoms or diagnostic uncertainty after acute assessment.",
+          "url": "https://www.campsiemedicalanddental.com.au/specialists/specialists-at-our-centre/dr-julie-parle/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -2374,6 +2518,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Bankstown-Lidcombe Hospital — Infectious Diseases",
+          "details": "Infectious Diseases service for consideration of outpatient review after acute assessment in recurrent or complicated cases. Confirm intake with the hospital.",
+          "url": "https://swsphn.com.au/wp-content/uploads/2025/10/Final-SWSLHD-Medical-Clinic-Directory-Sept-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -2451,6 +2604,15 @@
           "regions": [
             "st_george"
           ]
+        },
+        {
+          "name": "Dr Joseph Chiha — Bankstown",
+          "details": "Consultant cardiologist for outpatient assessment of stable suspected cardiac chest pain.",
+          "url": "https://www.drjosephchiha.com.au/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -2525,6 +2687,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Dr Chanel Chong — Campsie",
+          "details": "Renal and general physician for chronic kidney disease assessment.",
+          "url": "https://www.campsiemedicalpractice.com.au/specialists",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -2609,6 +2780,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Dr Arthur Lau — Campsie",
+          "details": "Gastroenterologist for specialist review of persistent constipation. Confirm current rooms and referral scope.",
+          "url": "https://aushealthpages.com.au/directory/listing/gastroenterology-arthur-lau",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -2696,6 +2876,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Dr Rahul Bharadwaj — Campsie",
+          "details": "Psychiatrist with a listed interest in depression. Confirm age range and current Campsie availability.",
+          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/7599/dr-rahul-bharadwaj",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -2763,6 +2952,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Dr Arthur Lau — Campsie",
+          "details": "Gastroenterologist for specialist review of persistent or complicated reflux. Confirm current rooms and referral scope.",
+          "url": "https://aushealthpages.com.au/directory/listing/gastroenterology-arthur-lau",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -2829,6 +3027,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Dr Mona Marabani — Campsie",
+          "details": "Rheumatologist listed for gout and complex crystal arthritis. Confirm current consulting details with the rooms.",
+          "url": "https://www.ausdocfinder.com/doctors/dr-mona-marabani/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -2907,6 +3114,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Neurology & Clinical Neurophysiology Services — Bankstown",
+          "details": "Neurology service listing assessment of persistent or atypical headache.",
+          "url": "https://ncns.net.au/services.html",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -2984,6 +3200,15 @@
           "regions": [
             "st_george"
           ]
+        },
+        {
+          "name": "Dr Kevin Fung — Bankstown",
+          "details": "General adult cardiologist with a clinical interest in heart failure.",
+          "url": "https://www.acma.org.au/index.php/component/jbusinessdirectory/companies/56",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -3050,6 +3275,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Bankstown-Lidcombe Hospital — Haematology",
+          "details": "Haematology service for persistent or unexplained iron deficiency anaemia when haematology review is indicated. Confirm triage and refer to a named haematologist.",
+          "url": "https://www.swslhd.health.nsw.gov.au/cancer/r_haematology.html",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -3119,6 +3353,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Dr Geoffrey Rosenberg — Bankstown",
+          "details": "Orthopaedic spine surgeon for surgical opinion when indicated in persistent low back pain or radiculopathy.",
+          "url": "https://www.stgeorgeorthopaedics.com.au/dr-geoffrey-rosenberg-orthopaedic-surgeon-bankstown-kogarah-sydney-nsw.html",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -3187,6 +3430,15 @@
           "regions": [
             "sutherland_shire"
           ]
+        },
+        {
+          "name": "Neurology & Clinical Neurophysiology Services — Bankstown",
+          "details": "Neurology service listing headache assessment and chronic migraine treatment.",
+          "url": "https://ncns.net.au/services.html",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
         }
       ],
       "cpd": [],
@@ -3254,6 +3506,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Canterbury Hospital — Arthritis & Osteoporosis Centre",
+          "details": "Osteoarthritis Chronic Care Program for conservative management. GP referrals accepted as listed by the centre.",
+          "url": "https://www.slhd.nsw.gov.au/canterbury/services-AOC.html",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
@@ -3337,6 +3598,15 @@
           "sponsored": false,
           "regions": [
             "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Canterbury Hospital — Arthritis & Osteoporosis Centre",
+          "details": "Osteoporosis refracture prevention and bone density services. Check the centre's referral criteria.",
+          "url": "https://www.slhd.nsw.gov.au/canterbury/services-AOC.html",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
           ]
         }
       ],
