@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "071e336a9fa0",
-  "updatedAt": "2026-11-22T11:24:46Z",
+  "version": "6f2552ed4f29",
+  "updatedAt": "2026-11-22T21:55:55Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -17,58 +17,88 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Atrial Fibrillation",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=atrial%20fibrillation",
-            "description": "Quick reference for AF workup, anticoagulation thresholds, rate vs rhythm control, and ongoing management."
+            "description": "Quick reference for AF workup, anticoagulation thresholds, rate vs rhythm control, and ongoing management.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Atrial Fibrillation",
             "url": "https://sesydney.communityhealthpathways.org/search?q=atrial%20fibrillation",
-            "description": "Localised investigation, referral, anticoagulation, and cardiology pathway guidance."
+            "description": "Localised investigation, referral, anticoagulation, and cardiology pathway guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Australian AF Guideline (Heart Foundation / CSANZ)",
             "url": "https://www.heartfoundation.org.au/for-professionals/fp-atrial-fibrillation-clinical-resources",
-            "description": "Full Australian consensus guideline for AF screening, stroke prevention, rhythm control, and referral decisions."
+            "description": "Full Australian consensus guideline for AF screening, stroke prevention, rhythm control, and referral decisions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Atrial Fibrillation",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=atrial%20fibrillation",
-            "description": "Dosing, contraindications, renal adjustment, interactions, and comparative prescribing guidance for anticoagulants and AF medications."
+            "description": "Dosing, contraindications, renal adjustment, interactions, and comparative prescribing guidance for anticoagulants and AF medications.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Australian Medicines Handbook (AMH) – AF / Anticoagulants",
             "url": "https://amhonline.amh.net.au/search?t=class&q=class%20anticoagulants",
-            "description": "Dosing, contraindications, renal adjustment, interactions, and comparative prescribing information for anticoagulants and AF medications."
+            "description": "Dosing, contraindications, renal adjustment, interactions, and comparative prescribing information for anticoagulants and AF medications.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [
           {
             "name": "CHA₂DS₂-VASc Calculator (MDCalc)",
             "url": "https://www.mdcalc.com/calc/801/cha2ds2-vasc-score-atrial-fibrillation-stroke-risk",
-            "description": "Stroke risk stratification to guide anticoagulation discussions and prescribing."
+            "description": "Stroke risk stratification to guide anticoagulation discussions and prescribing.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HAS-BLED Calculator (MDCalc)",
             "url": "https://www.mdcalc.com/calc/807/has-bled-score-major-bleeding-risk",
-            "description": "Bleeding risk estimation during anticoagulation assessment and counselling."
+            "description": "Bleeding risk estimation during anticoagulation assessment and counselling.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "factsheets": [
           {
             "name": "Heart Foundation – Atrial Fibrillation Patient Information",
             "url": "https://www.heartfoundation.org.au/your-heart/atrial-fibrillation",
-            "description": "High-quality Australian patient handout suitable for post-consult counselling and education."
+            "description": "High-quality Australian patient handout suitable for post-consult counselling and education.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – Atrial Fibrillation",
             "url": "https://www.healthdirect.gov.au/atrial-fibrillation",
-            "description": "Simple patient-facing explanation of AF symptoms, risks, investigations, and treatment."
+            "description": "Simple patient-facing explanation of AF symptoms, risks, investigations, and treatment.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Better Health Channel – Atrial Fibrillation",
             "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/heart-conditions-atrial-fibrillation",
-            "description": "Readable consumer resource useful for reinforcing lifestyle and treatment advice."
+            "description": "Readable consumer resource useful for reinforcing lifestyle and treatment advice.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -77,19 +107,28 @@
           "name": "Dr Sean Gomes — Miranda",
           "details": "Cardiologist/electrophysiologist; AF, rhythm disorders and catheter ablation.",
           "url": "https://www.mirandacardiology.com.au/dr-sean-gomes",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Dr Suresh Singarayar — Miranda / Woolooware",
           "details": "Cardiologist/electrophysiologist; arrhythmia assessment and management.",
           "url": "https://www.sutherlandheartclinic.com.au/suresh-singarayar/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Dr John Riskallah — Kogarah",
           "details": "Interventional cardiologist at St George Cardiac Clinic.",
           "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-john-riskallah/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
         }
       ],
       "cpd": [],
@@ -102,7 +141,10 @@
             "Australia"
           ],
           "url": "https://www.healthed.com.au/seminars/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "title": "GPCE Sydney (conference)",
@@ -112,7 +154,10 @@
             "CPD"
           ],
           "url": "https://www.gpce.com.au/sydney/en-gb.html",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
         }
       ],
       "pharma": [
@@ -121,21 +166,30 @@
           "product": "Eliquis® (apixaban)",
           "url": "https://www.eliquis.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Bayer",
           "product": "Xarelto® (rivaroxaban)",
           "url": "https://www.xarelto.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Boehringer Ingelheim",
           "product": "Pradaxa® (dabigatran)",
           "url": "https://www.boehringer-ingelheim.com/au",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         }
       ]
     },
@@ -154,63 +208,96 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Type 2 Diabetes Mellitus",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=type%202%20diabetes%20mellitus",
-            "description": "Quick reference for diagnosis, glycaemic targets, pharmacotherapy escalation, and complication management."
+            "description": "Quick reference for diagnosis, glycaemic targets, pharmacotherapy escalation, and complication management.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Type 2 Diabetes Mellitus",
             "url": "https://sesydney.communityhealthpathways.org/search?q=type%202%20diabetes%20mellitus",
-            "description": "Localised referral, insulin initiation, monitoring, and complication management pathways."
+            "description": "Localised referral, insulin initiation, monitoring, and complication management pathways.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Australian Diabetes Society – Type 2 Diabetes Guidelines",
             "url": "https://diabetessociety.com.au/guidelines.asp",
-            "description": "Evidence-based Australian guidance for T2DM management and escalation pathways."
+            "description": "Evidence-based Australian guidance for T2DM management and escalation pathways.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RACGP – Management of Type 2 Diabetes",
             "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/management-of-type-2-diabetes/introduction",
-            "description": "Australian general practice guideline covering diagnosis, glycaemic targets, lifestyle management, pharmacotherapy, and complication screening in T2DM."
+            "description": "Australian general practice guideline covering diagnosis, glycaemic targets, lifestyle management, pharmacotherapy, and complication screening in T2DM.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RACGP – Emergency Management of Hyperglycaemia",
             "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/emergency-management-of-hyperglycaemia",
-            "description": "Australian general practice guideline covering assessment and initial management of severe hyperglycaemia, DKA, and hyperosmolar states in primary care."
+            "description": "Australian general practice guideline covering assessment and initial management of severe hyperglycaemia, DKA, and hyperosmolar states in primary care.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Type 2 Diabetes Mellitus",
             "url": "https://amhonline.amh.net.au/search?t=class&q=type%202%20diabetes%20mellitus",
-            "description": "Dosing, contraindications, renal adjustment, PBS considerations, and comparison of diabetes medications."
+            "description": "Dosing, contraindications, renal adjustment, PBS considerations, and comparison of diabetes medications.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Diabetes Australia – Medication Resources",
             "url": "https://www.diabetesaustralia.com.au",
-            "description": "Patient-friendly and clinician-supported medication and insulin education resources."
+            "description": "Patient-friendly and clinician-supported medication and insulin education resources.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [
           {
             "name": "AUSDRISK Calculator",
             "url": "https://www.health.gov.au/resources/apps-and-tools/the-australian-type-2-diabetes-risk-assessment-tool-ausdrisk",
-            "description": "Validated Australian diabetes risk assessment tool for screening and prevention."
+            "description": "Validated Australian diabetes risk assessment tool for screening and prevention.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "factsheets": [
           {
             "name": "National Diabetes Services Scheme (NDSS) – Type 2 Diabetes Factsheets",
             "url": "https://www.ndss.com.au/about-diabetes/type-2-diabetes",
-            "description": "High-quality Australian patient handouts covering diagnosis, diet, monitoring, and medications."
+            "description": "High-quality Australian patient handouts covering diagnosis, diet, monitoring, and medications.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – Type 2 Diabetes",
             "url": "https://www.healthdirect.gov.au/type-2-diabetes",
-            "description": "Simple patient-facing overview of T2DM symptoms, diagnosis, treatment, and prevention."
+            "description": "Simple patient-facing overview of T2DM symptoms, diagnosis, treatment, and prevention.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Diabetes Australia – Type 2 Diabetes Information",
             "url": "https://www.diabetesaustralia.com.au/about-diabetes/what-is-diabetes/",
-            "description": "Consumer-friendly education resource suitable for reinforcing lifestyle and medication counselling."
+            "description": "Consumer-friendly education resource suitable for reinforcing lifestyle and medication counselling.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -219,7 +306,10 @@
           "name": "South Sydney Medical Specialists — Miranda",
           "details": "Endocrinologists; diabetes and metabolic health. Confirm clinician and Miranda appointments.",
           "url": "https://www.southsydneymedicalspecialists.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -232,7 +322,10 @@
             "Australia"
           ],
           "url": "https://www.healthed.com.au/seminars/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "title": "GPCE Sydney (conference)",
@@ -242,7 +335,10 @@
             "CPD"
           ],
           "url": "https://www.gpce.com.au/sydney/en-gb.html",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
         }
       ],
       "pharma": [
@@ -251,35 +347,50 @@
           "product": "Ozempic® (semaglutide)",
           "url": "https://www.novonordisk.com.au/",
           "orderSamples": true,
-          "sponsored": true
+          "sponsored": true,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Eli Lilly",
           "product": "Mounjaro® (tirzepatide)",
           "url": "https://au.lilly.com/",
           "orderSamples": true,
-          "sponsored": true
+          "sponsored": true,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "AstraZeneca",
           "product": "Forxiga® (dapagliflozin)",
           "url": "https://www.astrazeneca.com.au/",
           "orderSamples": false,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Boehringer Ingelheim",
           "product": "Jardiance® (empagliflozin)",
           "url": "https://www.boehringer-ingelheim.com/au",
           "orderSamples": false,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Sanofi",
           "product": "Basal insulin portfolio",
           "url": "https://www.sanofi.com.au/",
           "orderSamples": false,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         }
       ]
     },
@@ -302,58 +413,88 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Hyperlipidaemia",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=hyperlipidaemia",
-            "description": "Quick reference for lipid targets, statin initiation, cardiovascular risk reduction, and escalation therapy."
+            "description": "Quick reference for lipid targets, statin initiation, cardiovascular risk reduction, and escalation therapy.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Hyperlipidaemia",
             "url": "https://sesydney.communityhealthpathways.org/search?q=hyperlipidaemia",
-            "description": "Localised lipid investigation, management, and specialist referral guidance."
+            "description": "Localised lipid investigation, management, and specialist referral guidance.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Statins",
             "url": "https://amhonline.amh.net.au/search?t=class&q=statins",
-            "description": "Dosing, interactions, adverse effects, and comparison of statins and other lipid-lowering therapies."
+            "description": "Dosing, interactions, adverse effects, and comparison of statins and other lipid-lowering therapies.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "NPS MedicineWise – Lipid Management",
             "url": "https://www.nps.org.au/professionals/managing-lipids",
-            "description": "Practical prescribing guidance for statins, ezetimibe, and cardiovascular risk reduction."
+            "description": "Practical prescribing guidance for statins, ezetimibe, and cardiovascular risk reduction.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Heart Foundation – Cholesterol Management Resources",
             "url": "https://www.heartfoundation.org.au",
-            "description": "Clinician and patient resources for cholesterol lowering and cardiovascular prevention."
+            "description": "Clinician and patient resources for cholesterol lowering and cardiovascular prevention.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [
           {
             "name": "Australian Absolute CVD Risk Calculator",
             "url": "https://www.cvdcheck.org.au/calculator",
-            "description": "Absolute cardiovascular risk assessment tool used to guide lipid-lowering therapy decisions."
+            "description": "Absolute cardiovascular risk assessment tool used to guide lipid-lowering therapy decisions.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "MDCalc – Framingham Risk Score",
             "url": "https://www.mdcalc.com/calc/38/framingham-risk-score-hard-coronary-heart-disease",
-            "description": "Fast LDL calculation and lipid interpretation support."
+            "description": "Fast LDL calculation and lipid interpretation support.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "factsheets": [
           {
             "name": "Heart Foundation – Healthy Eating",
             "url": "https://www.heartfoundation.org.au/healthy-living/healthy-eating",
-            "description": "Patient-friendly explanation of cholesterol, cardiovascular risk, and treatment."
+            "description": "Patient-friendly explanation of cholesterol, cardiovascular risk, and treatment.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – Cholesterol",
             "url": "https://www.healthdirect.gov.au/cholesterol",
-            "description": "Simple patient-facing overview of hyperlipidaemia, risks, and treatment options."
+            "description": "Simple patient-facing overview of hyperlipidaemia, risks, and treatment options.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Better Health Channel – Cholesterol",
             "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/cholesterol",
-            "description": "Consumer-friendly resource for lifestyle modification and lipid management."
+            "description": "Consumer-friendly resource for lifestyle modification and lipid management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -362,13 +503,19 @@
           "name": "Miranda Cardiology — Miranda",
           "details": "Cardiology assessment for complex cardiovascular risk or established coronary disease; confirm lipid-referral scope with rooms.",
           "url": "https://www.mirandacardiology.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Dr John Riskallah — Kogarah",
           "details": "Interventional cardiologist at St George Cardiac Clinic.",
           "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-john-riskallah/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
         }
       ],
       "cpd": [],
@@ -381,7 +528,10 @@
             "Australia"
           ],
           "url": "https://www.healthed.com.au/seminars/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "title": "GPCE Sydney (conference)",
@@ -391,7 +541,10 @@
             "CPD"
           ],
           "url": "https://www.gpce.com.au/sydney/en-gb.html",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
         }
       ],
       "pharma": [
@@ -400,21 +553,30 @@
           "product": "Lipitor® (atorvastatin) legacy branding / lipid lowering",
           "url": "https://www.pfizer.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "AstraZeneca",
           "product": "Crestor® (rosuvastatin) legacy branding",
           "url": "https://www.astrazeneca.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Amgen",
           "product": "Repatha® (evolocumab) PCSK9 inhibitor",
           "url": "https://www.amgen.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         }
       ]
     },
@@ -434,53 +596,80 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Hypertension",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=hypertension",
-            "description": "Quick reference for diagnosis, BP targets, antihypertensive initiation, escalation, and resistant hypertension management."
+            "description": "Quick reference for diagnosis, BP targets, antihypertensive initiation, escalation, and resistant hypertension management.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Hypertension",
             "url": "https://sesydney.communityhealthpathways.org/search?q=hypertension",
-            "description": "Localised investigation, medication escalation, and referral guidance for hypertension management."
+            "description": "Localised investigation, medication escalation, and referral guidance for hypertension management.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "National Heart Foundation – Hypertension Guidelines",
             "url": "https://www.heartfoundation.org.au/for-professionals/hypertension",
-            "description": "Australian guidance for hypertension diagnosis, cardiovascular risk assessment, and treatment targets."
+            "description": "Australian guidance for hypertension diagnosis, cardiovascular risk assessment, and treatment targets.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Antihypertensives",
             "url": "https://amhonline.amh.net.au/search?t=class&q=antihypertensives",
-            "description": "Dosing, contraindications, interactions, and comparison of antihypertensive medication classes."
+            "description": "Dosing, contraindications, interactions, and comparison of antihypertensive medication classes.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [
           {
             "name": "Australian Absolute CVD Risk Calculator",
             "url": "https://www.cvdcheck.org.au/calculator",
-            "description": "Absolute cardiovascular risk assessment tool used alongside BP management decisions."
+            "description": "Absolute cardiovascular risk assessment tool used alongside BP management decisions.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "American Heart Association – Blood Pressure Diary",
             "url": "https://www.heart.org/-/media/files/health-topics/high-blood-pressure/my-blood-pressure-log.pdf",
-            "description": "Printable home blood pressure diary for patient self-monitoring and review."
+            "description": "Printable home blood pressure diary for patient self-monitoring and review.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "factsheets": [
           {
             "name": "Heart Foundation – High Blood Pressure Factsheet",
             "url": "https://www.heartfoundation.org.au/heart-health-education/high-blood-pressure",
-            "description": "Patient-friendly explanation of hypertension, risks, and treatment approaches."
+            "description": "Patient-friendly explanation of hypertension, risks, and treatment approaches.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – High Blood Pressure",
             "url": "https://www.healthdirect.gov.au/high-blood-pressure-hypertension",
-            "description": "Simple patient-facing overview of hypertension symptoms, monitoring, and treatment."
+            "description": "Simple patient-facing overview of hypertension symptoms, monitoring, and treatment.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Better Health Channel - Blood pressure (high) - hypertension",
             "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/blood-pressure-high-hypertension",
-            "description": "Consumer-friendly lifestyle and treatment education resource for hypertension."
+            "description": "Consumer-friendly lifestyle and treatment education resource for hypertension.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -489,19 +678,28 @@
           "name": "Southern Renal Specialists — Miranda",
           "details": "Nephrologists; difficult-to-control hypertension and renal contributors.",
           "url": "https://southernrenal.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Miranda Cardiology — Miranda",
           "details": "General cardiology; cardiovascular assessment in complex hypertension.",
           "url": "https://www.mirandacardiology.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Dr John Riskallah — Kogarah",
           "details": "Interventional cardiologist at St George Cardiac Clinic.",
           "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-john-riskallah/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
         }
       ],
       "cpd": [],
@@ -514,7 +712,10 @@
             "Australia"
           ],
           "url": "https://www.healthed.com.au/seminars/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "title": "GPCE Sydney (conference)",
@@ -524,7 +725,10 @@
             "CPD"
           ],
           "url": "https://www.gpce.com.au/sydney/en-gb.html",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
         }
       ],
       "pharma": [
@@ -533,21 +737,30 @@
           "product": "Perindopril (ACE inhibitor) portfolio",
           "url": "https://www.servier.com/en/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Novartis",
           "product": "ARBs/CCBs portfolio (check AU medicines list)",
           "url": "https://www.novartis.com/au-en",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Pfizer",
           "product": "Amlodipine legacy branding (Norvasc®) / CV medicines",
           "url": "https://www.pfizer.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         }
       ]
     },
@@ -567,68 +780,104 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Asthma",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=asthma",
-            "description": "Quick reference for asthma diagnosis, stepwise therapy, exacerbation management, and preventive care."
+            "description": "Quick reference for asthma diagnosis, stepwise therapy, exacerbation management, and preventive care.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Asthma",
             "url": "https://sesydney.communityhealthpathways.org/search?q=asthma",
-            "description": "Localised asthma investigation, management, and referral guidance."
+            "description": "Localised asthma investigation, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Australian Asthma Handbook",
             "url": "https://www.asthmahandbook.org.au",
-            "description": "National evidence-based guidance for asthma diagnosis, treatment escalation, and action plans."
+            "description": "National evidence-based guidance for asthma diagnosis, treatment escalation, and action plans.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Asthma",
             "url": "https://amhonline.amh.net.au/search?t=monograph&q=asthma",
-            "description": "Dosing, inhaler selection, adverse effects, and comparative prescribing information for asthma medications."
+            "description": "Dosing, inhaler selection, adverse effects, and comparative prescribing information for asthma medications.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "National Asthma Council – Inhaler Technique Resources",
             "url": "https://www.nationalasthma.org.au/health-professionals/inhaler-technique",
-            "description": "Practical inhaler device comparison charts and technique education resources."
+            "description": "Practical inhaler device comparison charts and technique education resources.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Asthma Australia – Medication Resources",
             "url": "https://asthma.org.au",
-            "description": "Patient and clinician resources covering preventers, relievers, and asthma self-management."
+            "description": "Patient and clinician resources covering preventers, relievers, and asthma self-management.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [
           {
             "name": "Asthma Action Plan Generator",
             "url": "https://www.nationalasthma.org.au/health-professionals/asthma-action-plans/asthma-action-plan-library",
-            "description": "Customisable Australian asthma action plans for patient management."
+            "description": "Customisable Australian asthma action plans for patient management.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "factsheets": [
           {
             "name": "Asthma Australia – Asthma Factsheets",
             "url": "https://asthma.org.au/about-asthma/resources",
-            "description": "High-quality Australian patient handouts covering triggers, inhalers, and asthma management."
+            "description": "High-quality Australian patient handouts covering triggers, inhalers, and asthma management.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "National Asthma Council – Inhaler Technique Videos",
             "url": "https://www.nationalasthma.org.au/living-with-asthma/how-to-videos",
-            "description": "Patient-friendly inhaler technique demonstration videos for common asthma devices."
+            "description": "Patient-friendly inhaler technique demonstration videos for common asthma devices.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "National Asthma Council – Spacer Use Video",
             "url": "https://www.nationalasthma.org.au/health-professionals/how-to-videos",
-            "description": "Step-by-step spacer technique video suitable for patient education and reinforcement."
+            "description": "Step-by-step spacer technique video suitable for patient education and reinforcement.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – Asthma",
             "url": "https://www.healthdirect.gov.au/asthma",
-            "description": "Simple patient-facing overview of asthma symptoms, triggers, and treatment."
+            "description": "Simple patient-facing overview of asthma symptoms, triggers, and treatment.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Better Health Channel – Asthma",
             "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/asthma",
-            "description": "Consumer-friendly education resource for asthma symptoms, treatment, and prevention."
+            "description": "Consumer-friendly education resource for asthma symptoms, treatment, and prevention.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -637,13 +886,19 @@
           "name": "Dr Clarissa Susanto — Miranda",
           "details": "Respiratory physician, Shire Specialists; complex or persistent Asthma; specialist respiratory assessment.",
           "url": "https://www.shirespecialists.com.au/dr-clarissa-susanto",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Dr Graham Radford — Miranda",
           "details": "Respiratory physician; asthma/COPD management; confirm appointments with consulting rooms.",
           "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-graham-radford/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -656,7 +911,10 @@
             "Australia"
           ],
           "url": "https://www.healthed.com.au/seminars/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "title": "GPCE Sydney (conference)",
@@ -666,7 +924,10 @@
             "CPD"
           ],
           "url": "https://www.gpce.com.au/sydney/en-gb.html",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
         }
       ],
       "pharma": [
@@ -675,21 +936,30 @@
           "product": "Symbicort® (budesonide/formoterol)",
           "url": "https://www.astrazeneca.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "GSK",
           "product": "Flixotide® / Seretide® (fluticasone +/- salmeterol)",
           "url": "https://au.gsk.com/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Chiesi",
           "product": "Fostair® (beclometasone/formoterol)",
           "url": "https://www.chiesi.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         }
       ]
     },
@@ -709,68 +979,104 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Croup",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=croup",
-            "description": "Quick reference for assessment, severity stratification, steroid therapy, and escalation pathways in croup."
+            "description": "Quick reference for assessment, severity stratification, steroid therapy, and escalation pathways in croup.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Croup",
             "url": "https://sesydney.communityhealthpathways.org/search?q=croup",
-            "description": "Localised paediatric assessment, referral, and emergency escalation guidance for croup."
+            "description": "Localised paediatric assessment, referral, and emergency escalation guidance for croup.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RCH Clinical Practice Guideline – Croup",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Croup_Laryngotracheobronchitis/",
-            "description": "Evidence-based paediatric guideline covering diagnosis, severity assessment, dexamethasone dosing, and indications for escalation."
+            "description": "Evidence-based paediatric guideline covering diagnosis, severity assessment, dexamethasone dosing, and indications for escalation.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Croup",
             "url": "https://amhonline.amh.net.au/search?t=class&q=croup",
-            "description": "Dosing, adverse effects, contraindications, and prescribing guidance for corticosteroid therapy in croup."
+            "description": "Dosing, adverse effects, contraindications, and prescribing guidance for corticosteroid therapy in croup.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "NSW Kids Health – Croup Medicines Information",
             "url": "https://www.schn.health.nsw.gov.au/croup",
-            "description": "Overview of common medication approaches and supportive management in paediatric croup."
+            "description": "Overview of common medication approaches and supportive management in paediatric croup.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [
           {
             "name": "RCH Clinical Practice Guideline – Dehydration",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/dehydration/",
-            "description": "Reference guide for differentiating stridor severity and respiratory distress signs."
+            "description": "Reference guide for differentiating stridor severity and respiratory distress signs.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "factsheets": [
           {
             "name": "RCH Kids Health Info – Croup",
             "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Croup/",
-            "description": "High-quality Australian parent factsheet covering symptoms, home care, and when to seek urgent review."
+            "description": "High-quality Australian parent factsheet covering symptoms, home care, and when to seek urgent review.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – Croup",
             "url": "https://www.healthdirect.gov.au/croup",
-            "description": "Simple parent-facing overview of croup symptoms, management, and emergency warning signs."
+            "description": "Simple parent-facing overview of croup symptoms, management, and emergency warning signs.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Better Health Channel – Croup",
             "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/croup",
-            "description": "Consumer-friendly education resource for croup symptoms and treatment."
+            "description": "Consumer-friendly education resource for croup symptoms and treatment.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "YouTube – Typical Croupy Cough Video",
             "url": "https://www.youtube.com/results?search_query=croupy+cough+child",
-            "description": "Video examples of the characteristic barking cough useful for parent education."
+            "description": "Video examples of the characteristic barking cough useful for parent education.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "YouTube – Stridor in Children Video",
             "url": "https://www.youtube.com/results?search_query=stridor+child",
-            "description": "Audio/video examples of inspiratory stridor to assist with recognition and severity discussions."
+            "description": "Audio/video examples of inspiratory stridor to assist with recognition and severity discussions.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "YouTube – Increase Work of Breathing in Children Video",
             "url": "https://www.youtube.com/results?search_query=increase+work+of+breathing+in+child",
-            "description": "Audio/video examples of inspiratory stridor to assist with recognition and severity discussions."
+            "description": "Audio/video examples of inspiratory stridor to assist with recognition and severity discussions.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -779,7 +1085,10 @@
           "name": "Southside Paediatrics — Miranda",
           "details": "General paediatric review for recurrent/ongoing concerns after acute assessment; not an urgent-care service.",
           "url": "https://southsidepaediatrics.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -803,58 +1112,88 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Otitis Media",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=otitis%20media",
-            "description": "Quick reference for diagnosis, analgesia, antibiotic indications, watchful waiting, and recurrent otitis media management."
+            "description": "Quick reference for diagnosis, analgesia, antibiotic indications, watchful waiting, and recurrent otitis media management.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Otitis Media",
             "url": "https://sesydney.communityhealthpathways.org/search?q=otitis%20media",
-            "description": "Localised referral, hearing assessment, and management guidance for otitis media."
+            "description": "Localised referral, hearing assessment, and management guidance for otitis media.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RCH Clinical Practice Guideline – Acute Otitis Media",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_otitis_media/",
-            "description": "Evidence-based paediatric guideline covering diagnosis, red flags, antibiotic indications, and follow-up recommendations."
+            "description": "Evidence-based paediatric guideline covering diagnosis, red flags, antibiotic indications, and follow-up recommendations.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Ear Infections",
             "url": "https://amhonline.amh.net.au/search?t=class&q=ear%20infections",
-            "description": "Dosing, adverse effects, and prescribing guidance for first-line otitis media antibiotics."
+            "description": "Dosing, adverse effects, and prescribing guidance for first-line otitis media antibiotics.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Australian Medicines Handbook (AMH) – Analgaesia in Children",
             "url": "https://amhonline.amh.net.au/search?t=class&q=analgesics%20children",
-            "description": "Dosing, weight-based prescribing, contraindications, and safety guidance for common paediatric analgesics including paracetamol and ibuprofen."
+            "description": "Dosing, weight-based prescribing, contraindications, and safety guidance for common paediatric analgesics including paracetamol and ibuprofen.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – Ear Infection Medicines Information",
             "url": "https://www.healthdirect.gov.au/ear-infection",
-            "description": "General information regarding symptom management and appropriate antibiotic use in ear infections."
+            "description": "General information regarding symptom management and appropriate antibiotic use in ear infections.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [
           {
             "name": "RCH Clinical Practice Guideline – Dehydration",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/dehydration/",
-            "description": "Reference guide for differentiating stridor severity and respiratory distress signs."
+            "description": "Reference guide for differentiating stridor severity and respiratory distress signs.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "factsheets": [
           {
             "name": "RCH Kids Health Info – Ear Infections and Otitis Media",
             "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Ear_infections_and_otitis_media/",
-            "description": "High-quality Australian parent factsheet explaining symptoms, expected course, and management."
+            "description": "High-quality Australian parent factsheet explaining symptoms, expected course, and management.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – Ear Infection in Children",
             "url": "https://www.healthdirect.gov.au/ear-infection",
-            "description": "Simple parent-facing overview of ear infections, pain relief, and warning signs."
+            "description": "Simple parent-facing overview of ear infections, pain relief, and warning signs.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Better Health Channel – Ear Infections",
             "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/ear-infections",
-            "description": "Consumer-friendly resource covering causes, symptoms, and management of ear infections."
+            "description": "Consumer-friendly resource covering causes, symptoms, and management of ear infections.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -863,7 +1202,10 @@
           "name": "Dr Edward Smith — Miranda",
           "details": "Adult/paediatric ENT; recurrent middle-ear infections, effusion, hearing concerns and grommet assessment.",
           "url": "https://smithent.com.au/childrens-ent/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -876,7 +1218,10 @@
             "Australia"
           ],
           "url": "https://www.healthed.com.au/seminars/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "title": "GPCE Sydney (conference)",
@@ -886,7 +1231,10 @@
             "CPD"
           ],
           "url": "https://www.gpce.com.au/sydney/en-gb.html",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
         }
       ],
       "pharma": [
@@ -895,21 +1243,30 @@
           "product": "Antibiotics portfolio (generics)",
           "url": "https://www.sandoz.com/au-en",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Viatris",
           "product": "Antibiotics portfolio (generics)",
           "url": "https://www.viatris.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Haleon",
           "product": "Analgesics (paracetamol/ibuprofen brands vary)",
           "url": "https://www.haleon.com/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         }
       ]
     },
@@ -928,24 +1285,36 @@
           {
             "name": "Therapeutic Guidelines (eTG) – COPD",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=copd",
-            "description": "Quick reference for COPD diagnosis, inhaler therapy, exacerbation management, smoking cessation, and long-term care."
+            "description": "Quick reference for COPD diagnosis, inhaler therapy, exacerbation management, smoking cessation, and long-term care.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – COPD",
             "url": "https://sesydney.communityhealthpathways.org/search?q=copd",
-            "description": "Localised referral, spirometry interpretation, oxygen therapy, and COPD management guidance."
+            "description": "Localised referral, spirometry interpretation, oxygen therapy, and COPD management guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "COPD-X Guidelines",
             "url": "https://copdx.org.au/copd-x-plan/",
-            "description": "Evidence-based Australian guideline covering diagnosis, spirometry interpretation, pharmacotherapy, pulmonary rehabilitation, and exacerbation management."
+            "description": "Evidence-based Australian guideline covering diagnosis, spirometry interpretation, pharmacotherapy, pulmonary rehabilitation, and exacerbation management.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – COPD",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=copd",
-            "description": "Dosing, inhaler selection, adverse effects, and comparative prescribing information for COPD therapies."
+            "description": "Dosing, inhaler selection, adverse effects, and comparative prescribing information for COPD therapies.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -953,27 +1322,42 @@
           {
             "name": "Lung Foundation Australia – COPD Factsheets",
             "url": "https://lungfoundation.com.au/patients-carers/living-with-a-lung-disease/copd/resources/",
-            "description": "High-quality Australian patient education resources covering COPD symptoms, inhalers, and self-management."
+            "description": "High-quality Australian patient education resources covering COPD symptoms, inhalers, and self-management.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "National Asthma Council – Inhaler Technique Videos",
             "url": "https://www.nationalasthma.org.au/living-with-asthma/how-to-videos",
-            "description": "Patient-friendly inhaler technique videos applicable to COPD inhaler devices."
+            "description": "Patient-friendly inhaler technique videos applicable to COPD inhaler devices.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "National Asthma Council – Spacer Use Video",
             "url": "https://www.nationalasthma.org.au/health-professionals/how-to-videos",
-            "description": "Step-by-step spacer technique video suitable for patient education and reinforcement."
+            "description": "Step-by-step spacer technique video suitable for patient education and reinforcement.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – COPD",
             "url": "https://www.healthdirect.gov.au/copd",
-            "description": "Simple patient-facing overview of COPD symptoms, treatment, and prevention."
+            "description": "Simple patient-facing overview of COPD symptoms, treatment, and prevention.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Better Health Channel – COPD",
             "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/chronic-obstructive-pulmonary-disease-copd",
-            "description": "Consumer-friendly education resource for COPD symptoms, smoking cessation, and treatment."
+            "description": "Consumer-friendly education resource for COPD symptoms, smoking cessation, and treatment.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -982,13 +1366,19 @@
           "name": "Dr Clarissa Susanto — Miranda",
           "details": "Respiratory physician, Shire Specialists; complex or persistent COPD; specialist respiratory assessment.",
           "url": "https://www.shirespecialists.com.au/dr-clarissa-susanto",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Dr Graham Radford — Miranda",
           "details": "Respiratory physician; asthma/COPD management; confirm appointments with consulting rooms.",
           "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-graham-radford/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1001,7 +1391,10 @@
             "Australia"
           ],
           "url": "https://www.healthed.com.au/seminars/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "title": "GPCE Sydney (conference)",
@@ -1011,7 +1404,10 @@
             "CPD"
           ],
           "url": "https://www.gpce.com.au/sydney/en-gb.html",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
         }
       ],
       "pharma": [
@@ -1020,21 +1416,30 @@
           "product": "Breo® Ellipta / Anoro® Ellipta (varies by market) • COPD portfolio",
           "url": "https://au.gsk.com/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "AstraZeneca",
           "product": "Respiratory portfolio (e.g., Symbicort®)",
           "url": "https://www.astrazeneca.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Chiesi",
           "product": "Respiratory portfolio (COPD)",
           "url": "https://www.chiesi.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         }
       ]
     },
@@ -1054,73 +1459,112 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Anxiety Disorders",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=generalised%20anxiety%20disorder",
-            "description": "Quick reference for assessment, diagnostic approach, psychological therapy, pharmacotherapy, and follow-up of anxiety disorders."
+            "description": "Quick reference for assessment, diagnostic approach, psychological therapy, pharmacotherapy, and follow-up of anxiety disorders.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Anxiety",
             "url": "https://sesydney.communityhealthpathways.org/search?q=anxiety",
-            "description": "Localised mental health assessment, referral pathways, and escalation guidance for anxiety presentations."
+            "description": "Localised mental health assessment, referral pathways, and escalation guidance for anxiety presentations.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RACGP – Anxiety Disorders Guidance",
             "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/guidelines-for-preventive-activities-in-general-practice/mental-health",
-            "description": "Australian primary care guidance for recognising and managing anxiety disorders in general practice."
+            "description": "Australian primary care guidance for recognising and managing anxiety disorders in general practice.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Anxiety",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=anxiety",
-            "description": "Dosing, adverse effects, interactions, and comparative prescribing guidance for anxiolytics and antidepressants."
+            "description": "Dosing, adverse effects, interactions, and comparative prescribing guidance for anxiolytics and antidepressants.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Black Dog Institute – Anxiety Treatment Resources",
             "url": "https://www.blackdoginstitute.org.au/resources-support/anxiety/",
-            "description": "Practical information regarding evidence-based treatment options and medication approaches for anxiety disorders."
+            "description": "Practical information regarding evidence-based treatment options and medication approaches for anxiety disorders.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Beyond Blue – Anxiety Support Resources",
             "url": "https://www.beyondblue.org.au/the-facts/anxiety",
-            "description": "Patient and clinician resources supporting anxiety recognition, treatment, and self-management."
+            "description": "Patient and clinician resources supporting anxiety recognition, treatment, and self-management.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [
           {
             "name": "K10 Psychological Distress Scale",
             "url": "https://www.health.gov.au/resources/apps-and-tools/k10-calculator",
-            "description": "Validated psychological distress screening tool commonly used in Australian primary care."
+            "description": "Validated psychological distress screening tool commonly used in Australian primary care.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "DASS-21 Questionnaire",
             "url": "https://www.rap-el.com.au/documents/DASS_21_module.pdf",
-            "description": "Validated depression, anxiety, and stress screening tool commonly used in Australian primary care and mental health assessment."
+            "description": "Validated depression, anxiety, and stress screening tool commonly used in Australian primary care and mental health assessment.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "GP Psychiatry Support Line",
             "url": "https://www.gpsupport.org.au",
-            "description": "Free Australian psychiatrist hotline for GPs providing advice on diagnosis, medications, risk assessment, and mental health management planning."
+            "description": "Free Australian psychiatrist hotline for GPs providing advice on diagnosis, medications, risk assessment, and mental health management planning.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "factsheets": [
           {
             "name": "Beyond Blue – Anxiety Factsheets",
             "url": "https://www.beyondblue.org.au/the-facts/anxiety",
-            "description": "High-quality Australian patient education resources covering anxiety symptoms, treatment, and support options."
+            "description": "High-quality Australian patient education resources covering anxiety symptoms, treatment, and support options.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Black Dog Institute – Anxiety Resources",
             "url": "https://www.blackdoginstitute.org.au/resources-support/anxiety/",
-            "description": "Consumer-friendly anxiety education and self-management resources."
+            "description": "Consumer-friendly anxiety education and self-management resources.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – Anxiety",
             "url": "https://www.healthdirect.gov.au/anxiety",
-            "description": "Simple patient-facing overview of anxiety symptoms, causes, and treatment options."
+            "description": "Simple patient-facing overview of anxiety symptoms, causes, and treatment options.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Better Health Channel – Anxiety Disorders",
             "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/anxiety-disorders",
-            "description": "Consumer-friendly education resource explaining anxiety disorders and available treatments."
+            "description": "Consumer-friendly education resource explaining anxiety disorders and available treatments.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1129,7 +1573,10 @@
           "name": "Dr Greg Wilkins — Miranda",
           "details": "Adult psychiatrist; anxiety. RANZCP profile last updated Mar 2021: confirm availability before referral.",
           "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/2544/dr-gregory-wilkins",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1142,7 +1589,10 @@
             "Australia"
           ],
           "url": "https://www.healthed.com.au/seminars/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "title": "GPCE Sydney (conference)",
@@ -1152,7 +1602,10 @@
             "CPD"
           ],
           "url": "https://www.gpce.com.au/sydney/en-gb.html",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
         }
       ],
       "pharma": [
@@ -1161,21 +1614,30 @@
           "product": "SSRIs (e.g., escitalopram) portfolio",
           "url": "https://www.lundbeck.com/au",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Pfizer",
           "product": "Sertraline legacy branding / SSRIs",
           "url": "https://www.pfizer.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Viatris",
           "product": "Generic SSRIs/SNRIs portfolio",
           "url": "https://www.viatris.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         }
       ]
     },
@@ -1195,43 +1657,64 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Urinary Tract Infection",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=urinary%20tract%20infection",
-            "description": "Quick reference for cystitis, pyelonephritis, recurrent UTI, pregnancy-associated UTI, and antibiotic selection."
+            "description": "Quick reference for cystitis, pyelonephritis, recurrent UTI, pregnancy-associated UTI, and antibiotic selection.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – UTI",
             "url": "https://sesydney.communityhealthpathways.org/search?q=uti",
-            "description": "Localised investigation, antibiotic recommendations, and referral guidance for UTIs."
+            "description": "Localised investigation, antibiotic recommendations, and referral guidance for UTIs.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RCH Clinical Practice Guideline – Urinary Tract Infection",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Urinary_tract_infection/",
-            "description": "Evidence-based paediatric guideline covering diagnosis, investigation, imaging indications, antibiotic therapy, and follow-up for urinary tract infections in children."
+            "description": "Evidence-based paediatric guideline covering diagnosis, investigation, imaging indications, antibiotic therapy, and follow-up for urinary tract infections in children.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Urinary Infections",
             "url": "https://amhonline.amh.net.au/search?t=other&q=urinary%20infections",
-            "description": "Dosing, contraindications, interactions, pregnancy considerations, and antibiotic prescribing guidance for urinary tract infections."
+            "description": "Dosing, contraindications, interactions, pregnancy considerations, and antibiotic prescribing guidance for urinary tract infections.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [
           {
             "name": "Urine Dipstick Interpretation Guide",
             "url": "https://bpac.org.nz/bt/2013/june/urine-tests.aspx",
-            "description": "Quick interpretation guide for urine dipstick findings in primary care."
+            "description": "Quick interpretation guide for urine dipstick findings in primary care.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "factsheets": [
           {
             "name": "Better Health Channel – Urinary Tract Infection",
             "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/urinary-tract-infections-uti",
-            "description": "Consumer-friendly education resource explaining UTI symptoms, causes, and treatment."
+            "description": "Consumer-friendly education resource explaining UTI symptoms, causes, and treatment.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RCH Kids Health Info – Urinary Tract Infection",
             "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Urinary_tract_infection_UTI/",
-            "description": "High-quality paediatric parent factsheet covering symptoms, antibiotics, and when to seek review."
+            "description": "High-quality paediatric parent factsheet covering symptoms, antibiotics, and when to seek review.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1240,7 +1723,10 @@
           "name": "Dr Anthony Hutton — Miranda",
           "details": "Urologist; recurrent urinary tract infections and structural/urological assessment. 50–52 Urunga Parade.",
           "url": "https://dranthonyhutton.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1253,7 +1739,10 @@
             "Australia"
           ],
           "url": "https://www.healthed.com.au/seminars/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "title": "GPCE Sydney (conference)",
@@ -1263,7 +1752,10 @@
             "CPD"
           ],
           "url": "https://www.gpce.com.au/sydney/en-gb.html",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
         }
       ],
       "pharma": [
@@ -1272,21 +1764,30 @@
           "product": "Antibiotics portfolio (e.g., trimethoprim/sulfamethoxazole generics)",
           "url": "https://www.viatris.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Sandoz",
           "product": "Antibiotics portfolio (generics)",
           "url": "https://www.sandoz.com/au-en",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         },
         {
           "company": "Pfizer",
           "product": "Antimicrobials portfolio",
           "url": "https://www.pfizer.com.au/",
           "orderSamples": true,
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "national"
+          ]
         }
       ]
     },
@@ -1306,24 +1807,36 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Eczema",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=atopic%20dermatitis",
-            "description": "Search eTG for eczema assessment and management guidance."
+            "description": "Search eTG for eczema assessment and management guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Eczema",
             "url": "https://sesydney.communityhealthpathways.org/search?q=eczema",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RCH Clinical Practice Guideline – Eczema",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/eczema/",
-            "description": "Paediatric skin care, flare management, topical therapy, and infection assessment."
+            "description": "Paediatric skin care, flare management, topical therapy, and infection assessment.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Eczema",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=atopic%20dermatitis",
-            "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -1331,12 +1844,18 @@
           {
             "name": "RCH Kids Health Info – Eczema",
             "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Eczema/",
-            "description": "Parent education on everyday skin care, topical treatment, and flare recognition."
+            "description": "Parent education on everyday skin care, topical treatment, and flare recognition.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – Eczema",
             "url": "https://www.healthdirect.gov.au/eczema",
-            "description": "Patient overview of eczema symptoms, triggers, treatment, and support."
+            "description": "Patient overview of eczema symptoms, triggers, treatment, and support.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1345,13 +1864,19 @@
           "name": "Kingsway Dermatology & Aesthetics — Miranda",
           "details": "Specialist dermatology; persistent or difficult-to-control eczema.",
           "url": "https://www.kdaa.com.au/medical-dermatology/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Sutherland Shire Dermatology — Miranda",
           "details": "Dermatologists managing eczema; Suite 8, 50 Urunga Parade.",
           "url": "https://sydneyderm.com.au/sutherland-shire-doctors/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1375,24 +1900,36 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Hypothyroidism",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=hypothyroidism",
-            "description": "Search eTG for hypothyroidism assessment and management guidance."
+            "description": "Search eTG for hypothyroidism assessment and management guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Hypothyroidism",
             "url": "https://sesydney.communityhealthpathways.org/search?q=hypothyroidism",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RACGP – Hypothyroidism: Investigation and Management (2012)",
             "url": "https://www.racgp.org.au/afp/2012/august/hypothyroidism",
-            "description": "Background review of investigation and management; published 2012, use alongside current eTG and AMH."
+            "description": "Background review of investigation and management; published 2012, use alongside current eTG and AMH.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Hypothyroidism",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=hypothyroidism",
-            "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -1400,12 +1937,18 @@
           {
             "name": "Healthdirect – Hypothyroidism",
             "url": "https://www.healthdirect.gov.au/hypothyroidism",
-            "description": "Patient overview of underactive thyroid, testing, and treatment."
+            "description": "Patient overview of underactive thyroid, testing, and treatment.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – Hashimoto’s Disease",
             "url": "https://www.healthdirect.gov.au/hashimotos-disease",
-            "description": "Patient education on autoimmune thyroiditis and its relationship to hypothyroidism."
+            "description": "Patient education on autoimmune thyroiditis and its relationship to hypothyroidism.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1414,7 +1957,10 @@
           "name": "South Sydney Medical Specialists — Miranda",
           "details": "Endocrinologists; thyroid disorders. Confirm clinician and Miranda appointments.",
           "url": "https://www.southsydneymedicalspecialists.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1438,29 +1984,44 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Pneumonia",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=community%20acquired%20pneumonia",
-            "description": "Search eTG for pneumonia assessment and management guidance."
+            "description": "Search eTG for pneumonia assessment and management guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Pneumonia",
             "url": "https://sesydney.communityhealthpathways.org/search?q=pneumonia",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RCH Clinical Practice Guideline – Community Acquired Pneumonia",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Community_acquired_pneumonia/",
-            "description": "Paediatric pneumonia assessment, investigation, treatment, and admission considerations."
+            "description": "Paediatric pneumonia assessment, investigation, treatment, and admission considerations.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Respiratory Infections",
             "url": "https://amhonline.amh.net.au/chapters/anti-infectives/tables/respiratory-infections-table",
-            "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Australian Medicines Handbook (AMH) – Amoxicillin",
             "url": "https://amhonline.amh.net.au/search?t=monograph&q=amoxicillin",
-            "description": "Search for amoxicillin dosing, contraindications, interactions, and precautions."
+            "description": "Search for amoxicillin dosing, contraindications, interactions, and precautions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -1468,12 +2029,18 @@
           {
             "name": "RCH Kids Health Info – Pneumonia",
             "url": "https://www.rch.org.au/kidsinfo/fact_sheets/pneumonia/",
-            "description": "Parent information on pneumonia, treatment, recovery, and when to seek review."
+            "description": "Parent information on pneumonia, treatment, recovery, and when to seek review.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Healthdirect – Pneumonia",
             "url": "https://www.healthdirect.gov.au/pneumonia",
-            "description": "Patient overview of pneumonia symptoms, causes, treatment, and prevention."
+            "description": "Patient overview of pneumonia symptoms, causes, treatment, and prevention.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1482,13 +2049,19 @@
           "name": "Dr Clarissa Susanto — Miranda",
           "details": "Respiratory physician, Shire Specialists; review of recurrent or persistent respiratory infection after acute assessment.",
           "url": "https://www.shirespecialists.com.au/dr-clarissa-susanto",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Dr Graham Radford — Miranda",
           "details": "Respiratory physician; pneumonia assessment/follow-up; acute deterioration requires urgent care.",
           "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-graham-radford/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1511,19 +2084,28 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Acne",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=acne",
-            "description": "Search eTG for acne assessment, management, and referral guidance."
+            "description": "Search eTG for acne assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Acne",
             "url": "https://sesydney.communityhealthpathways.org/search?q=acne",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Acne",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=acne",
-            "description": "Search AMH for acne prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for acne prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -1531,7 +2113,10 @@
           {
             "name": "Healthdirect – Acne",
             "url": "https://www.healthdirect.gov.au/acne",
-            "description": "Patient information on acne, symptoms, assessment, and management."
+            "description": "Patient information on acne, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1540,13 +2125,19 @@
           "name": "Kingsway Dermatology & Aesthetics — Miranda",
           "details": "Specialist dermatology; persistent, severe or treatment-resistant acne.",
           "url": "https://www.kdaa.com.au/medical-dermatology/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Sutherland Shire Dermatology — Miranda",
           "details": "Dermatologists managing acne; Suite 8, 50 Urunga Parade.",
           "url": "https://sydneyderm.com.au/sutherland-shire-doctors/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1567,24 +2158,36 @@
           {
             "name": "Therapeutic Guidelines (eTG) – ADHD",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=attention%20deficit%20hyperactivity%20disorder",
-            "description": "Search eTG for attention deficit hyperactivity disorder assessment, management, and referral guidance."
+            "description": "Search eTG for attention deficit hyperactivity disorder assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – ADHD",
             "url": "https://sesydney.communityhealthpathways.org/search?q=adhd",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Australian ADHD Professionals Association – ADHD Guideline",
             "url": "https://adhdguideline.aadpa.com.au/",
-            "description": "Australian evidence-based guidance for ADHD assessment and management."
+            "description": "Australian evidence-based guidance for ADHD assessment and management.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Attention deficit hyperactivity disorder",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=attention%20deficit%20hyperactivity%20disorder",
-            "description": "Search AMH for attention deficit hyperactivity disorder prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for attention deficit hyperactivity disorder prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -1592,7 +2195,10 @@
           {
             "name": "Healthdirect – ADHD",
             "url": "https://www.healthdirect.gov.au/attention-deficit-disorder-add-or-adhd",
-            "description": "Patient information on attention deficit hyperactivity disorder, symptoms, assessment, and management."
+            "description": "Patient information on attention deficit hyperactivity disorder, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1601,13 +2207,19 @@
           "name": "Dr Greg Wilkins — Miranda",
           "details": "Adult psychiatrist; ADHD assessment/management. RANZCP profile last updated Mar 2021: confirm current scope and availability.",
           "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/2544/dr-gregory-wilkins",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Southside Paediatrics — Miranda",
           "details": "Child/adolescent paediatrics; ADHD and developmental assessment. Confirm age range and clinician availability.",
           "url": "https://southsidepaediatrics.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1628,24 +2240,36 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Bronchiolitis",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=bronchiolitis",
-            "description": "Search eTG for bronchiolitis assessment, management, and referral guidance."
+            "description": "Search eTG for bronchiolitis assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Bronchiolitis",
             "url": "https://sesydney.communityhealthpathways.org/search?q=bronchiolitis",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RCH Clinical Practice Guideline – Bronchiolitis",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/",
-            "description": "Paediatric assessment, supportive management, and escalation guidance."
+            "description": "Paediatric assessment, supportive management, and escalation guidance.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Respiratory Infections",
             "url": "https://amhonline.amh.net.au/chapters/anti-infectives/tables/respiratory-infections-table",
-            "description": "Search AMH for prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -1653,12 +2277,18 @@
           {
             "name": "Healthdirect – Bronchiolitis",
             "url": "https://www.healthdirect.gov.au/bronchiolitis",
-            "description": "Patient information on bronchiolitis, symptoms, assessment, and management."
+            "description": "Patient information on bronchiolitis, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "YouTube – Increase Work of Breathing in Children Video",
             "url": "https://www.youtube.com/results?search_query=increase+work+of+breathing+in+child",
-            "description": "Audio/video examples of inspiratory stridor to assist with recognition and severity discussions."
+            "description": "Audio/video examples of inspiratory stridor to assist with recognition and severity discussions.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1667,7 +2297,10 @@
           "name": "Southside Paediatrics — Miranda",
           "details": "General paediatric review for recurrent/ongoing concerns after acute assessment; not an urgent-care service.",
           "url": "https://southsidepaediatrics.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1689,24 +2322,36 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Cellulitis",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=cellulitis",
-            "description": "Search eTG for cellulitis assessment, management, and referral guidance."
+            "description": "Search eTG for cellulitis assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Cellulitis",
             "url": "https://sesydney.communityhealthpathways.org/search?q=cellulitis",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RCH Clinical Practice Guideline – Cellulitis",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Cellulitis_and_other_bacterial_skin_infections/",
-            "description": "Paediatric bacterial skin infection assessment and antibiotic guidance."
+            "description": "Paediatric bacterial skin infection assessment and antibiotic guidance.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Skin and Soft Tissue Infections",
             "url": "https://amhonline.amh.net.au/chapters/anti-infectives/tables/skin-soft-tissue-infections-table",
-            "description": "Search AMH for cellulitis prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for cellulitis prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -1714,7 +2359,10 @@
           {
             "name": "Healthdirect – Cellulitis",
             "url": "https://www.healthdirect.gov.au/cellulitis",
-            "description": "Patient information on cellulitis, symptoms, assessment, and management."
+            "description": "Patient information on cellulitis, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1723,7 +2371,10 @@
           "name": "Sutherland Hospital — Infectious Diseases Clinic",
           "details": "Caringbah; recurrent skin/soft-tissue infections or specialist review. Electronic GP referral; acute deterioration needs urgent assessment.",
           "url": "https://www.seslhd.health.nsw.gov.au/sutherland-hospital/infectious-diseases-outpatient-clinic",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1746,19 +2397,28 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Chest Pain",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=chest%20pain",
-            "description": "Search eTG for chest pain assessment, management, and referral guidance."
+            "description": "Search eTG for chest pain assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Chest Pain",
             "url": "https://sesydney.communityhealthpathways.org/search?q=chest%20pain",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Acute coronary syndromes",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=acute%20coronary%20syndromes",
-            "description": "Prescribing reference for suspected acute coronary syndromes; medication use depends on diagnosis and emergency assessment."
+            "description": "Prescribing reference for suspected acute coronary syndromes; medication use depends on diagnosis and emergency assessment.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -1766,7 +2426,10 @@
           {
             "name": "Healthdirect – Chest Pain",
             "url": "https://www.healthdirect.gov.au/chest-pain",
-            "description": "Patient information on chest pain, symptoms, assessment, and management."
+            "description": "Patient information on chest pain, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1775,13 +2438,19 @@
           "name": "Dr Matthew Allan — Miranda",
           "details": "Cardiologist; coronary disease and general cardiology. Outpatient review after acute causes have been assessed; not an emergency service.",
           "url": "https://www.mirandacardiology.com.au/copy-of-dr-andrew-hopkins",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Dr John Riskallah — Kogarah",
           "details": "Interventional cardiologist at St George Cardiac Clinic.",
           "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-john-riskallah/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
         }
       ],
       "cpd": [],
@@ -1804,24 +2473,36 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Chronic Kidney Disease",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=chronic%20kidney%20disease",
-            "description": "Search eTG for chronic kidney disease assessment, management, and referral guidance."
+            "description": "Search eTG for chronic kidney disease assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Chronic Kidney Disease",
             "url": "https://sesydney.communityhealthpathways.org/search?q=chronic%20kidney%20disease",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "Kidney Health Australia – Health Professionals",
             "url": "https://kidney.org.au/health-professionals",
-            "description": "Australian clinician resource hub for CKD detection and management."
+            "description": "Australian clinician resource hub for CKD detection and management.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Renal impairment",
             "url": "https://amhonline.amh.net.au/search?t=other&q=renal%20impairment",
-            "description": "Search AMH for renal impairment prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for renal impairment prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -1829,7 +2510,10 @@
           {
             "name": "Healthdirect – Chronic Kidney Disease",
             "url": "https://www.healthdirect.gov.au/chronic-kidney-disease",
-            "description": "Patient information on chronic kidney disease, symptoms, assessment, and management."
+            "description": "Patient information on chronic kidney disease, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1838,7 +2522,10 @@
           "name": "Southern Renal Specialists — Miranda",
           "details": "Nephrology; CKD assessment and follow-up. Suite 15, 20–24 Gibbs Street; GP referral required.",
           "url": "https://southernrenal.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1861,24 +2548,36 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Constipation",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=constipation",
-            "description": "Search eTG for constipation assessment, management, and referral guidance."
+            "description": "Search eTG for constipation assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Constipation",
             "url": "https://sesydney.communityhealthpathways.org/search?q=constipation",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RCH Clinical Practice Guideline – Constipation",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Constipation/",
-            "description": "Paediatric assessment, disimpaction, maintenance therapy, and follow-up."
+            "description": "Paediatric assessment, disimpaction, maintenance therapy, and follow-up.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Laxatives",
             "url": "https://amhonline.amh.net.au/search?t=class&q=laxatives",
-            "description": "Search AMH for laxatives prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for laxatives prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -1886,7 +2585,10 @@
           {
             "name": "Healthdirect – Constipation",
             "url": "https://www.healthdirect.gov.au/constipation",
-            "description": "Patient information on constipation, symptoms, assessment, and management."
+            "description": "Patient information on constipation, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1895,13 +2597,19 @@
           "name": "Gastroenterology Associates Miranda",
           "details": "Adult gastroenterology for persistent/refractory bowel symptoms; 12/42–44 Urunga Parade.",
           "url": "https://www.gastroenterologyassociatesmiranda.com.au/service/irritable-bowel-syndrome-ibs/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Southside Paediatrics — Miranda",
           "details": "General paediatrics and paediatric gastroenterology; persistent childhood constipation. Confirm appropriate clinician.",
           "url": "https://southsidepaediatrics.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1926,38 +2634,56 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Depression",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=depression",
-            "description": "Search eTG for depression assessment, management, and referral guidance."
+            "description": "Search eTG for depression assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Depression",
             "url": "https://sesydney.communityhealthpathways.org/search?q=depression",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Depression",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=depression",
-            "description": "Search AMH for depression prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for depression prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [
           {
             "name": "DASS-21 Questionnaire",
             "url": "https://www.rap-el.com.au/documents/DASS_21_module.pdf",
-            "description": "Depression, anxiety, and stress symptom questionnaire; supports assessment and monitoring."
+            "description": "Depression, anxiety, and stress symptom questionnaire; supports assessment and monitoring.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "GP Psychiatry Support Line",
             "url": "https://www.gpsupport.org.au",
-            "description": "Psychiatrist advice service for GPs on mental health assessment and management."
+            "description": "Psychiatrist advice service for GPs on mental health assessment and management.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "factsheets": [
           {
             "name": "Healthdirect – Depression",
             "url": "https://www.healthdirect.gov.au/depression",
-            "description": "Patient information on depression, symptoms, assessment, and management."
+            "description": "Patient information on depression, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -1966,7 +2692,10 @@
           "name": "Dr Greg Wilkins — Miranda",
           "details": "Adult psychiatrist; depression. RANZCP profile last updated Mar 2021: confirm availability before referral.",
           "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/2544/dr-gregory-wilkins",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -1989,19 +2718,28 @@
           {
             "name": "Therapeutic Guidelines (eTG) – GORD",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=gastro-oesophageal%20reflux",
-            "description": "Search eTG for gastro-oesophageal reflux disease assessment, management, and referral guidance."
+            "description": "Search eTG for gastro-oesophageal reflux disease assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – GORD",
             "url": "https://sesydney.communityhealthpathways.org/search?q=gord",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Proton pump inhibitors",
             "url": "https://amhonline.amh.net.au/search?t=class&q=proton%20pump%20inhibitors",
-            "description": "Search AMH for proton pump inhibitors prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for proton pump inhibitors prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -2009,7 +2747,10 @@
           {
             "name": "Healthdirect – GORD (Reflux)",
             "url": "https://www.healthdirect.gov.au/gord-reflux",
-            "description": "Patient information on gastro-oesophageal reflux disease, symptoms, assessment, and management."
+            "description": "Patient information on gastro-oesophageal reflux disease, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -2018,7 +2759,10 @@
           "name": "Gastroenterology Associates Miranda",
           "details": "Gastroenterologists; persistent/refractory reflux assessment and endoscopy where indicated.",
           "url": "https://www.gastroenterologyassociatesmiranda.com.au/service/reflux-oesophagitis/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -2041,19 +2785,28 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Gout",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=gout",
-            "description": "Search eTG for gout assessment, management, and referral guidance."
+            "description": "Search eTG for gout assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Gout",
             "url": "https://sesydney.communityhealthpathways.org/search?q=gout",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Gout",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=gout",
-            "description": "Search AMH for gout prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for gout prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -2061,7 +2814,10 @@
           {
             "name": "Healthdirect – Gout",
             "url": "https://www.healthdirect.gov.au/gout",
-            "description": "Patient information on gout, symptoms, assessment, and management."
+            "description": "Patient information on gout, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -2070,7 +2826,10 @@
           "name": "Dr Ken Cai — Miranda",
           "details": "Rheumatologist; gout/crystal arthritis, recurrent attacks or complex disease. Shire Specialists, 26–28 Gibbs Street.",
           "url": "https://drkencai.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -2095,24 +2854,36 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Headache",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=headache",
-            "description": "Search eTG for headache assessment, management, and referral guidance."
+            "description": "Search eTG for headache assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Headache",
             "url": "https://sesydney.communityhealthpathways.org/search?q=headache",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RCH Clinical Practice Guideline – Headache",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Headache/",
-            "description": "Paediatric headache assessment, red flags, and investigation guidance."
+            "description": "Paediatric headache assessment, red flags, and investigation guidance.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Analgesics",
             "url": "https://amhonline.amh.net.au/search?t=class&q=analgesics",
-            "description": "Search AMH for analgesics prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for analgesics prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -2120,7 +2891,10 @@
           {
             "name": "Healthdirect – Headache",
             "url": "https://www.healthdirect.gov.au/headaches",
-            "description": "Patient information on headache, symptoms, assessment, and management."
+            "description": "Patient information on headache, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -2129,7 +2903,10 @@
           "name": "Shire Neurology — Miranda",
           "details": "Neurology assessment; persistent/recurrent headache assessment. Acute red flags require urgent assessment.",
           "url": "https://shireneurology.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -2153,19 +2930,28 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Heart Failure",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=heart%20failure",
-            "description": "Search eTG for heart failure assessment, management, and referral guidance."
+            "description": "Search eTG for heart failure assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Heart Failure",
             "url": "https://sesydney.communityhealthpathways.org/search?q=heart%20failure",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Heart failure",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=heart%20failure",
-            "description": "Search AMH for heart failure prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for heart failure prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -2173,7 +2959,10 @@
           {
             "name": "Healthdirect – Heart Failure",
             "url": "https://www.healthdirect.gov.au/heart-failure",
-            "description": "Patient information on heart failure, symptoms, assessment, and management."
+            "description": "Patient information on heart failure, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -2182,13 +2971,19 @@
           "name": "Dr Andrew Hopkins — Miranda",
           "details": "Cardiologist; heart failure, echocardiography and device therapy.",
           "url": "https://www.mirandacardiology.com.au/dr-andrew-hopkins",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Dr John Riskallah — Kogarah",
           "details": "Interventional cardiologist at St George Cardiac Clinic.",
           "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-john-riskallah/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
         }
       ],
       "cpd": [],
@@ -2211,19 +3006,28 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Iron Deficiency",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=iron%20deficiency",
-            "description": "Search eTG for iron deficiency assessment, management, and referral guidance."
+            "description": "Search eTG for iron deficiency assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Iron Deficiency",
             "url": "https://sesydney.communityhealthpathways.org/search?q=iron%20deficiency",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Iron",
             "url": "https://amhonline.amh.net.au/search?t=class&q=iron",
-            "description": "Search AMH for iron prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for iron prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -2231,7 +3035,10 @@
           {
             "name": "Healthdirect – Iron Deficiency",
             "url": "https://www.healthdirect.gov.au/iron-deficiency",
-            "description": "Patient information on iron deficiency, symptoms, assessment, and management."
+            "description": "Patient information on iron deficiency, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -2240,7 +3047,10 @@
           "name": "Gastroenterology Associates Miranda",
           "details": "Assessment of gastrointestinal causes of unexplained/recurrent iron deficiency; endoscopic investigation where indicated.",
           "url": "https://www.gastroenterologyassociatesmiranda.com.au/service/iron-deficiency/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -2264,19 +3074,28 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Low Back Pain",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=low%20back%20pain",
-            "description": "Search eTG for low back pain assessment, management, and referral guidance."
+            "description": "Search eTG for low back pain assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Low Back Pain",
             "url": "https://sesydney.communityhealthpathways.org/search?q=low%20back%20pain",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Analgesics",
             "url": "https://amhonline.amh.net.au/search?t=class&q=analgesics",
-            "description": "Search AMH for analgesics prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for analgesics prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -2284,7 +3103,10 @@
           {
             "name": "Healthdirect – Low Back Pain",
             "url": "https://www.healthdirect.gov.au/back-pain",
-            "description": "Patient information on low back pain, symptoms, assessment, and management."
+            "description": "Patient information on low back pain, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -2293,7 +3115,10 @@
           "name": "Dr Stephen Gibson — Miranda",
           "details": "Pain medicine physician; persistent/complex pain assessment. Percallan Specialist Suites, 95 Kareena Road; not an acute red-flag pathway.",
           "url": "https://www.drstephengibson.com/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -2317,19 +3142,28 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Migraine",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=migraine",
-            "description": "Search eTG for migraine assessment, management, and referral guidance."
+            "description": "Search eTG for migraine assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Migraine",
             "url": "https://sesydney.communityhealthpathways.org/search?q=migraine",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Migraine",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=migraine",
-            "description": "Search AMH for migraine prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for migraine prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -2337,7 +3171,10 @@
           {
             "name": "Healthdirect – Migraine",
             "url": "https://www.healthdirect.gov.au/migraine",
-            "description": "Patient information on migraine, symptoms, assessment, and management."
+            "description": "Patient information on migraine, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -2346,7 +3183,10 @@
           "name": "Shire Neurology — Miranda",
           "details": "Neurology assessment; chronic migraine treatment including botulinum toxin where appropriate.",
           "url": "https://shireneurology.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -2370,19 +3210,28 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Osteoarthritis",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=osteoarthritis",
-            "description": "Search eTG for osteoarthritis assessment, management, and referral guidance."
+            "description": "Search eTG for osteoarthritis assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Osteoarthritis",
             "url": "https://sesydney.communityhealthpathways.org/search?q=osteoarthritis",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Osteoarthritis",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=osteoarthritis",
-            "description": "Search AMH for osteoarthritis prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for osteoarthritis prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -2390,7 +3239,10 @@
           {
             "name": "Healthdirect – Osteoarthritis",
             "url": "https://www.healthdirect.gov.au/osteoarthritis",
-            "description": "Patient information on osteoarthritis, symptoms, assessment, and management."
+            "description": "Patient information on osteoarthritis, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -2399,7 +3251,10 @@
           "name": "Dr Ken Cai — Miranda",
           "details": "Rheumatologist; osteoarthritis, diagnostic uncertainty and complex musculoskeletal symptoms.",
           "url": "https://drkencai.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -2421,24 +3276,36 @@
           {
             "name": "Therapeutic Guidelines (eTG) – Osteoporosis",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=osteoporosis",
-            "description": "Search eTG for osteoporosis assessment, management, and referral guidance."
+            "description": "Search eTG for osteoporosis assessment, management, and referral guidance.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "HealthPathways – Osteoporosis",
             "url": "https://sesydney.communityhealthpathways.org/search?q=osteoporosis",
-            "description": "Local investigation, management, and referral pathways; requires regional access."
+            "description": "Local investigation, management, and referral pathways; requires regional access.",
+            "regions": [
+              "national"
+            ]
           },
           {
             "name": "RACGP – Osteoporosis Guideline",
             "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/osteoporosis",
-            "description": "Australian primary care guidance on osteoporosis and fracture prevention."
+            "description": "Australian primary care guidance on osteoporosis and fracture prevention.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "medications": [
           {
             "name": "Australian Medicines Handbook (AMH) – Osteoporosis",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=osteoporosis",
-            "description": "Search AMH for osteoporosis prescribing, dosing, contraindications, and interactions."
+            "description": "Search AMH for osteoporosis prescribing, dosing, contraindications, and interactions.",
+            "regions": [
+              "national"
+            ]
           }
         ],
         "tools": [],
@@ -2446,7 +3313,10 @@
           {
             "name": "Healthdirect – Osteoporosis",
             "url": "https://www.healthdirect.gov.au/osteoporosis",
-            "description": "Patient information on osteoporosis, symptoms, assessment, and management."
+            "description": "Patient information on osteoporosis, symptoms, assessment, and management.",
+            "regions": [
+              "national"
+            ]
           }
         ]
       },
@@ -2455,13 +3325,19 @@
           "name": "South Sydney Medical Specialists — Miranda",
           "details": "Endocrinologists; osteoporosis and metabolic bone health. Confirm clinician and Miranda appointments.",
           "url": "https://www.southsydneymedicalspecialists.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         },
         {
           "name": "Dr Ken Cai — Miranda",
           "details": "Rheumatologist; osteoporosis and musculoskeletal assessment. Shire Specialists, 26–28 Gibbs Street.",
           "url": "https://drkencai.com.au/",
-          "sponsored": false
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
         }
       ],
       "cpd": [],
@@ -2545,6 +3421,32 @@
         "national"
       ],
       "sponsored": false
+    }
+  ],
+  "regions": [
+    {
+      "id": "national",
+      "name": "Australia",
+      "nearby": [],
+      "offered": false
+    },
+    {
+      "id": "nsw",
+      "name": "NSW",
+      "parent": "national",
+      "nearby": [],
+      "offered": true
+    },
+    {
+      "id": "sutherland_shire",
+      "name": "Sutherland Shire",
+      "parent": "nsw",
+      "nearby": [
+        "st_george",
+        "bankstown_canterbury",
+        "sydney_cbd_inner_south"
+      ],
+      "offered": true
     }
   ],
   "settings": {
