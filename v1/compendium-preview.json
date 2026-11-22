@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "1942b981302b",
-  "updatedAt": "2026-11-19T11:22:58Z",
+  "version": "3e660486127c",
+  "updatedAt": "2026-11-22T10:30:36Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -23,6 +23,11 @@
             "name": "Australian AF Guideline (Heart Foundation / CSANZ)",
             "url": "https://www.heartfoundation.org.au/for-professionals/fp-atrial-fibrillation-clinical-resources",
             "description": "Full Australian consensus guideline for AF screening, stroke prevention, rhythm control, and referral decisions."
+          },
+          {
+            "name": "HealthPathways – Atrial Fibrillation",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=atrial%20fibrillation",
+            "description": "Localised investigation, referral, anticoagulation, and cardiology pathway guidance."
           }
         ],
         "medications": [
@@ -165,6 +170,11 @@
             "name": "RACGP – Emergency Management of Hyperglycaemia",
             "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/emergency-management-of-hyperglycaemia",
             "description": "Australian general practice guideline covering assessment and initial management of severe hyperglycaemia, DKA, and hyperosmolar states in primary care."
+          },
+          {
+            "name": "HealthPathways – Type 2 Diabetes Mellitus",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=type%202%20diabetes%20mellitus",
+            "description": "Localised referral, insulin initiation, monitoring, and complication management pathways."
           }
         ],
         "medications": [
@@ -293,6 +303,11 @@
             "name": "Therapeutic Guidelines (eTG) – Hyperlipidaemia",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=hyperlipidaemia",
             "description": "Quick reference for lipid targets, statin initiation, cardiovascular risk reduction, and escalation therapy."
+          },
+          {
+            "name": "HealthPathways – Hyperlipidaemia",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=hyperlipidaemia",
+            "description": "Localised lipid investigation, management, and specialist referral guidance."
           }
         ],
         "medications": [
@@ -425,6 +440,11 @@
             "name": "National Heart Foundation – Hypertension Guidelines",
             "url": "https://www.heartfoundation.org.au/for-professionals/hypertension",
             "description": "Australian guidance for hypertension diagnosis, cardiovascular risk assessment, and treatment targets."
+          },
+          {
+            "name": "HealthPathways – Hypertension",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=hypertension",
+            "description": "Localised investigation, medication escalation, and referral guidance for hypertension management."
           }
         ],
         "medications": [
@@ -553,6 +573,11 @@
             "name": "Australian Asthma Handbook",
             "url": "https://www.asthmahandbook.org.au",
             "description": "National evidence-based guidance for asthma diagnosis, treatment escalation, and action plans."
+          },
+          {
+            "name": "HealthPathways – Asthma",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=asthma",
+            "description": "Localised asthma investigation, management, and referral guidance."
           }
         ],
         "medications": [
@@ -690,6 +715,11 @@
             "name": "RCH Clinical Practice Guideline – Croup",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Croup_Laryngotracheobronchitis/",
             "description": "Evidence-based paediatric guideline covering diagnosis, severity assessment, dexamethasone dosing, and indications for escalation."
+          },
+          {
+            "name": "HealthPathways – Croup",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=croup",
+            "description": "Localised paediatric assessment, referral, and emergency escalation guidance for croup."
           }
         ],
         "medications": [
@@ -779,6 +809,11 @@
             "name": "RCH Clinical Practice Guideline – Acute Otitis Media",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_otitis_media/",
             "description": "Evidence-based paediatric guideline covering diagnosis, red flags, antibiotic indications, and follow-up recommendations."
+          },
+          {
+            "name": "HealthPathways – Otitis Media",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=otitis%20media",
+            "description": "Localised referral, hearing assessment, and management guidance for otitis media."
           }
         ],
         "medications": [
@@ -899,6 +934,11 @@
             "name": "COPD-X Guidelines",
             "url": "https://copdx.org.au/copd-x-plan/",
             "description": "Evidence-based Australian guideline covering diagnosis, spirometry interpretation, pharmacotherapy, pulmonary rehabilitation, and exacerbation management."
+          },
+          {
+            "name": "HealthPathways – COPD",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=copd",
+            "description": "Localised referral, spirometry interpretation, oxygen therapy, and COPD management guidance."
           }
         ],
         "medications": [
@@ -1020,6 +1060,11 @@
             "name": "RACGP – Anxiety Disorders Guidance",
             "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/guidelines-for-preventive-activities-in-general-practice/mental-health",
             "description": "Australian primary care guidance for recognising and managing anxiety disorders in general practice."
+          },
+          {
+            "name": "HealthPathways – Anxiety",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=anxiety",
+            "description": "Localised mental health assessment, referral pathways, and escalation guidance for anxiety presentations."
           }
         ],
         "medications": [
@@ -1156,6 +1201,11 @@
             "name": "RCH Clinical Practice Guideline – Urinary Tract Infection",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Urinary_tract_infection/",
             "description": "Evidence-based paediatric guideline covering diagnosis, investigation, imaging indications, antibiotic therapy, and follow-up for urinary tract infections in children."
+          },
+          {
+            "name": "HealthPathways – UTI",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=uti",
+            "description": "Localised investigation, antibiotic recommendations, and referral guidance for UTIs."
           }
         ],
         "medications": [
@@ -1259,6 +1309,11 @@
             "description": "Search eTG for eczema assessment and management guidance."
           },
           {
+            "name": "HealthPathways – Eczema",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=eczema",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
+          },
+          {
             "name": "RCH Clinical Practice Guideline – Eczema",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/eczema/",
             "description": "Paediatric skin care, flare management, topical therapy, and infection assessment."
@@ -1323,6 +1378,11 @@
             "description": "Search eTG for hypothyroidism assessment and management guidance."
           },
           {
+            "name": "HealthPathways – Hypothyroidism",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=hypothyroidism",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
+          },
+          {
             "name": "RACGP – Hypothyroidism: Investigation and Management (2012)",
             "url": "https://www.racgp.org.au/afp/2012/august/hypothyroidism",
             "description": "Background review of investigation and management; published 2012, use alongside current eTG and AMH."
@@ -1379,6 +1439,11 @@
             "name": "Therapeutic Guidelines (eTG) – Pneumonia",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=community%20acquired%20pneumonia",
             "description": "Search eTG for pneumonia assessment and management guidance."
+          },
+          {
+            "name": "HealthPathways – Pneumonia",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=pneumonia",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           },
           {
             "name": "RCH Clinical Practice Guideline – Community Acquired Pneumonia",
@@ -1447,6 +1512,11 @@
             "name": "Therapeutic Guidelines (eTG) – Acne",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=acne",
             "description": "Search eTG for acne assessment, management, and referral guidance."
+          },
+          {
+            "name": "HealthPathways – Acne",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=acne",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -1503,6 +1573,11 @@
             "name": "Australian ADHD Professionals Association – ADHD Guideline",
             "url": "https://adhdguideline.aadpa.com.au/",
             "description": "Australian evidence-based guidance for ADHD assessment and management."
+          },
+          {
+            "name": "HealthPathways – ADHD",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=adhd",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -1559,6 +1634,11 @@
             "name": "RCH Clinical Practice Guideline – Bronchiolitis",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/",
             "description": "Paediatric assessment, supportive management, and escalation guidance."
+          },
+          {
+            "name": "HealthPathways – Bronchiolitis",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=bronchiolitis",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -1615,6 +1695,11 @@
             "name": "RCH Clinical Practice Guideline – Cellulitis",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Cellulitis_and_other_bacterial_skin_infections/",
             "description": "Paediatric bacterial skin infection assessment and antibiotic guidance."
+          },
+          {
+            "name": "HealthPathways – Cellulitis",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=cellulitis",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -1662,6 +1747,11 @@
             "name": "Therapeutic Guidelines (eTG) – Chest Pain",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=chest%20pain",
             "description": "Search eTG for chest pain assessment, management, and referral guidance."
+          },
+          {
+            "name": "HealthPathways – Chest Pain",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=chest%20pain",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -1720,6 +1810,11 @@
             "name": "Kidney Health Australia – Health Professionals",
             "url": "https://kidney.org.au/health-professionals",
             "description": "Australian clinician resource hub for CKD detection and management."
+          },
+          {
+            "name": "HealthPathways – Chronic Kidney Disease",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=chronic%20kidney%20disease",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -1772,6 +1867,11 @@
             "name": "RCH Clinical Practice Guideline – Constipation",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Constipation/",
             "description": "Paediatric assessment, disimpaction, maintenance therapy, and follow-up."
+          },
+          {
+            "name": "HealthPathways – Constipation",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=constipation",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -1827,6 +1927,11 @@
             "name": "Therapeutic Guidelines (eTG) – Depression",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=depression",
             "description": "Search eTG for depression assessment, management, and referral guidance."
+          },
+          {
+            "name": "HealthPathways – Depression",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=depression",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -1885,6 +1990,11 @@
             "name": "Therapeutic Guidelines (eTG) – GORD",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=gastro-oesophageal%20reflux",
             "description": "Search eTG for gastro-oesophageal reflux disease assessment, management, and referral guidance."
+          },
+          {
+            "name": "HealthPathways – GORD",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=gord",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -1932,6 +2042,11 @@
             "name": "Therapeutic Guidelines (eTG) – Gout",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=gout",
             "description": "Search eTG for gout assessment, management, and referral guidance."
+          },
+          {
+            "name": "HealthPathways – Gout",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=gout",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -1986,6 +2101,11 @@
             "name": "RCH Clinical Practice Guideline – Headache",
             "url": "https://www.rch.org.au/clinicalguide/guideline_index/Headache/",
             "description": "Paediatric headache assessment, red flags, and investigation guidance."
+          },
+          {
+            "name": "HealthPathways – Headache",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=headache",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -2034,6 +2154,11 @@
             "name": "Therapeutic Guidelines (eTG) – Heart Failure",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=heart%20failure",
             "description": "Search eTG for heart failure assessment, management, and referral guidance."
+          },
+          {
+            "name": "HealthPathways – Heart Failure",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=heart%20failure",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -2087,6 +2212,11 @@
             "name": "Therapeutic Guidelines (eTG) – Iron Deficiency",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=iron%20deficiency",
             "description": "Search eTG for iron deficiency assessment, management, and referral guidance."
+          },
+          {
+            "name": "HealthPathways – Iron Deficiency",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=iron%20deficiency",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -2135,6 +2265,11 @@
             "name": "Therapeutic Guidelines (eTG) – Low Back Pain",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=low%20back%20pain",
             "description": "Search eTG for low back pain assessment, management, and referral guidance."
+          },
+          {
+            "name": "HealthPathways – Low Back Pain",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=low%20back%20pain",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -2183,6 +2318,11 @@
             "name": "Therapeutic Guidelines (eTG) – Migraine",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=migraine",
             "description": "Search eTG for migraine assessment, management, and referral guidance."
+          },
+          {
+            "name": "HealthPathways – Migraine",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=migraine",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -2231,6 +2371,11 @@
             "name": "Therapeutic Guidelines (eTG) – Osteoarthritis",
             "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=osteoarthritis",
             "description": "Search eTG for osteoarthritis assessment, management, and referral guidance."
+          },
+          {
+            "name": "HealthPathways – Osteoarthritis",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=osteoarthritis",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
@@ -2282,6 +2427,11 @@
             "name": "RACGP – Osteoporosis Guideline",
             "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/osteoporosis",
             "description": "Australian primary care guidance on osteoporosis and fracture prevention."
+          },
+          {
+            "name": "HealthPathways – Osteoporosis",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=osteoporosis",
+            "description": "Local investigation, management, and referral pathways; requires regional access."
           }
         ],
         "medications": [
