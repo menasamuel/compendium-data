@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "b939d471a955",
-  "updatedAt": "2026-11-23T10:34:45Z",
+  "version": "9053abfff437",
+  "updatedAt": "2026-11-23T11:08:26Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -8282,6 +8282,460 @@
       "cpd": [],
       "events": [],
       "pharma": []
+    },
+    {
+      "id": "upper_respiratory_tract_infection",
+      "name": "URTI",
+      "speciality": "Respiratory",
+      "keywords": [
+        "upper respiratory tract infection",
+        "acute upper respiratory tract infection",
+        "common cold",
+        "viral URTI"
+      ],
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) - URTI",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=upper%20respiratory%20tract%20infection",
+            "description": "Search Therapeutic Guidelines for this topic.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "HealthPathways - URTI",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=upper%20respiratory%20tract%20infection",
+            "description": "Search South Eastern Sydney HealthPathways for local guidance.",
+            "regions": [
+              "sutherland_shire",
+              "st_george",
+              "eastern_suburbs"
+            ]
+          },
+          {
+            "name": "RCH – Cough",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/cough/",
+            "description": "Paediatric cough assessment and management.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) - URTI",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=upper%20respiratory%20tract%20infection",
+            "description": "Search AMH for relevant prescribing information.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Colds",
+            "url": "https://www.healthdirect.gov.au/conditions/viral-infections/colds",
+            "description": "Patient information on the common cold.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "Healthdirect – Coughs and Colds in Children",
+            "url": "https://www.healthdirect.gov.au/conditions/viral-infections/coughs-and-colds-in-children",
+            "description": "Parent information on coughs and colds.",
+            "regions": [
+              "national"
+            ]
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "immunisation",
+      "name": "Immunisation",
+      "speciality": "Preventive Care",
+      "keywords": [
+        "immunization",
+        "vaccination",
+        "vaccines",
+        "catch-up vaccination"
+      ],
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) - Immunisation",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=immunisation",
+            "description": "Search Therapeutic Guidelines for this topic.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "HealthPathways - Immunisation",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=immunisation",
+            "description": "Search South Eastern Sydney HealthPathways for local guidance.",
+            "regions": [
+              "sutherland_shire",
+              "st_george",
+              "eastern_suburbs"
+            ]
+          },
+          {
+            "name": "Australian Immunisation Handbook",
+            "url": "https://immunisationhandbook.health.gov.au/",
+            "description": "National clinical guidance on vaccination.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "National Immunisation Program Schedule",
+            "url": "https://ncirs.org.au/public/immunisation-schedules",
+            "description": "National and jurisdictional immunisation schedule resources.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) - Immunisation",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=vaccines",
+            "description": "Search AMH for relevant prescribing information.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "name": "National Immunisation Catch-up Calculator",
+            "url": "https://immunisationhandbook.health.gov.au/catch-up-calculator/calculator",
+            "description": "Generate a catch-up vaccination schedule.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "SKAI – Childhood Vaccinations at Four Years",
+            "url": "https://skai.org.au/childhood/vaccinating/vaccinations-4-years",
+            "description": "Parent information about vaccines at the four-year visit.",
+            "regions": [
+              "national"
+            ]
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "NSW Immunisation Specialist Service",
+          "details": "Specialist immunisation advice and referral services. Check the service page for referral and appointment details.",
+          "url": "https://ncirs.org.au/nswiss",
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
+        }
+      ],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "insomnia",
+      "name": "Insomnia",
+      "speciality": "Sleep Medicine",
+      "keywords": [
+        "sleep disturbance",
+        "sleeplessness",
+        "chronic insomnia",
+        "difficulty sleeping"
+      ],
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) - Insomnia",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=insomnia",
+            "description": "Search Therapeutic Guidelines for this topic.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "HealthPathways - Insomnia",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=insomnia",
+            "description": "Search South Eastern Sydney HealthPathways for local guidance.",
+            "regions": [
+              "sutherland_shire",
+              "st_george",
+              "eastern_suburbs"
+            ]
+          },
+          {
+            "name": "Australian Joint Position Statement – Management of Adult Insomnia",
+            "url": "https://psychology.org.au/about-us/position-statements/management-of-adult-insomnia-in-australia",
+            "description": "Australian guidance on assessment and management of adult insomnia.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) - Insomnia",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=insomnia",
+            "description": "Search AMH for relevant prescribing information.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "name": "NSW ACI – Sleep Diary",
+            "url": "https://aci.health.nsw.gov.au/__data/assets/pdf_file/0020/623810/Sleep-diary-guide.pdf",
+            "description": "Printable sleep diary and instructions.",
+            "regions": [
+              "nsw"
+            ]
+          },
+          {
+            "name": "THIS WAY UP – Insomnia Program",
+            "url": "https://thiswayup.org.au/what-we-treat/insomnia",
+            "description": "Online cognitive behavioural therapy program for insomnia.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Insomnia",
+            "url": "https://www.healthdirect.gov.au/conditions/sleep-disorders/insomnia",
+            "description": "Patient information on insomnia and available support.",
+            "regions": [
+              "national"
+            ]
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Endeavour Wellness – Insomnia and Sleep Difficulties",
+          "details": "Psychology service offering support for insomnia and sleep difficulties in Sutherland Shire and Blacktown.",
+          "url": "https://endeavourwellness.com.au/services/insomnia-and-sleep-difficulties/",
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire",
+            "blacktown_mount_druitt"
+          ]
+        }
+      ],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "acute_gastroenteritis",
+      "name": "Acute Gastroenteritis",
+      "speciality": "Gastroenterology",
+      "keywords": [
+        "gastroenteritis",
+        "gastro",
+        "infectious diarrhoea",
+        "vomiting and diarrhoea"
+      ],
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) - Acute Gastroenteritis",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=gastroenteritis",
+            "description": "Search Therapeutic Guidelines for this topic.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "HealthPathways - Acute Gastroenteritis",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=gastroenteritis",
+            "description": "Search South Eastern Sydney HealthPathways for local guidance.",
+            "regions": [
+              "sutherland_shire",
+              "st_george",
+              "eastern_suburbs"
+            ]
+          },
+          {
+            "name": "RCH – Gastroenteritis",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/Gastroenteritis/",
+            "description": "Paediatric assessment and management guidance.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "NSW ACI – Adult Diarrhoea and Vomiting Protocol",
+            "url": "https://aci.health.nsw.gov.au/ecat/adult/diarrhoea-vomiting",
+            "description": "Adult emergency-care assessment and treatment protocol.",
+            "regions": [
+              "nsw"
+            ]
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) - Acute Gastroenteritis",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=gastroenteritis",
+            "description": "Search AMH for relevant prescribing information.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "tools": [],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Gastroenteritis",
+            "url": "https://www.healthdirect.gov.au/conditions/gastro-intestinal-illnesses/gastroenteritis",
+            "description": "Patient information on symptoms, hydration and when to seek help.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "RCH – Gastroenteritis in Children",
+            "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Gastroenteritis_gastro/",
+            "description": "Parent information on home care and signs of dehydration.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "NHMRC – Gastroenteritis and Childcare Exclusion",
+            "url": "https://www.nhmrc.gov.au/about-us/publications/staying-healthy-guidelines/fact-sheets/diarrhoea-or-vomiting-gastroenteritis",
+            "description": "Early childhood education and care advice on gastroenteritis and exclusion.",
+            "regions": [
+              "national"
+            ]
+          }
+        ]
+      },
+      "specialists": [],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "shoulder_pain",
+      "name": "Shoulder Pain",
+      "speciality": "Musculoskeletal",
+      "keywords": [
+        "painful shoulder",
+        "rotator cuff",
+        "frozen shoulder",
+        "adhesive capsulitis",
+        "shoulder injury"
+      ],
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) - Shoulder Pain",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=shoulder%20pain",
+            "description": "Search Therapeutic Guidelines for this topic.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "HealthPathways - Shoulder Pain",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=shoulder%20pain",
+            "description": "Search South Eastern Sydney HealthPathways for local guidance.",
+            "regions": [
+              "sutherland_shire",
+              "st_george",
+              "eastern_suburbs"
+            ]
+          },
+          {
+            "name": "AJGP – Chronic Shoulder Pain",
+            "url": "https://doi.org/10.31128/ajgp-04-23-6790",
+            "description": "General practice review of chronic shoulder pain.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "NSW Health – Adult Shoulder Pain Referral Criteria",
+            "url": "https://www.health.nsw.gov.au/outpatients/referrals/Pages/shoulder-pain-adult.aspx",
+            "description": "NSW public outpatient referral criteria for adults.",
+            "regions": [
+              "nsw"
+            ]
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) - Shoulder Pain",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=analgesics",
+            "description": "Search AMH for relevant prescribing information.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "name": "QuickDASH Functional Score",
+            "url": "https://orthotoolkit.com/quickdash/",
+            "description": "Questionnaire and calculator for upper-limb function.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Shoulder Pain",
+            "url": "https://www.healthdirect.gov.au/symptoms/aches-and-pains/shoulder-pain",
+            "description": "Patient information on shoulder pain and when to seek help.",
+            "regions": [
+              "national"
+            ]
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Dr Harry Constantin – Miranda",
+          "details": "Orthopaedic surgeon with a practice focused on shoulder conditions in Miranda.",
+          "url": "https://www.drharryconstantin.com/shoulder-surgeon-miranda",
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Dr Geoffrey Smith – St George SportsMed",
+          "details": "Orthopaedic surgeon specialising in shoulder, elbow and upper-limb conditions.",
+          "url": "https://www.stgeorgesportsmed.com.au/our-team/geoffrey-smith/",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        }
+      ],
+      "cpd": [],
+      "events": [],
+      "pharma": []
     }
   ],
   "cpd": [
@@ -8368,6 +8822,42 @@
       "topics": [
         "chlamydia",
         "gonorrhoea"
+      ],
+      "regions": [
+        "national"
+      ],
+      "sponsored": false
+    },
+    {
+      "name": "Australian Commission – Antimicrobial Learning Modules",
+      "details": "Online antimicrobial stewardship education.",
+      "url": "https://learn.safetyandquality.gov.au/mod/page/view.php?id=4282",
+      "topics": [
+        "upper_respiratory_tract_infection"
+      ],
+      "regions": [
+        "national"
+      ],
+      "sponsored": false
+    },
+    {
+      "name": "SKAI E-learning Module",
+      "details": "Online training for health professionals on vaccine conversations.",
+      "url": "https://www.semphn.org.au/skai-e-learning-module",
+      "topics": [
+        "immunisation"
+      ],
+      "regions": [
+        "national"
+      ],
+      "sponsored": false
+    },
+    {
+      "name": "HealthCert – Physical Assessment and Management of Shoulder Problems and Sports Injuries",
+      "details": "Online course on assessment and management of shoulder problems and sports injuries.",
+      "url": "https://shop-au.healthcert.com/products/physical-assessment-and-management-of-shoulder-problems-and-sports-injuries",
+      "topics": [
+        "shoulder_pain"
       ],
       "regions": [
         "national"
