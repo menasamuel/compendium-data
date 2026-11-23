@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "9053abfff437",
-  "updatedAt": "2026-11-23T11:08:26Z",
+  "version": "57525d079de1",
+  "updatedAt": "2026-11-23T11:31:37Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -461,6 +461,96 @@
           "sponsored": false,
           "regions": [
             "lord_howe_island"
+          ]
+        },
+        {
+          "name": "DEMO — Miranda AF Cardiology",
+          "details": "Fictional demo listing for display testing only. Demo sponsorship dates: 23 Nov–23 Dec 2026.",
+          "url": "https://example.com/compendium-demo/af-1",
+          "sponsored": true,
+          "regions": [
+            "sutherland_shire"
+          ]
+        },
+        {
+          "name": "DEMO — Caringbah AF Cardiology",
+          "details": "Fictional demo listing for display testing only. Demo sponsorship dates: 23 Nov–23 Dec 2026.",
+          "url": "https://example.com/compendium-demo/af-2",
+          "sponsored": true,
+          "regions": [
+            "sutherland_shire"
+          ]
+        },
+        {
+          "name": "DEMO — Gymea AF Cardiology",
+          "details": "Fictional demo listing for display testing only. Demo sponsorship dates: 23 Nov–23 Dec 2026.",
+          "url": "https://example.com/compendium-demo/af-3",
+          "sponsored": true,
+          "regions": [
+            "sutherland_shire"
+          ]
+        },
+        {
+          "name": "DEMO — Sutherland AF Cardiology",
+          "details": "Fictional demo listing for display testing only. Demo sponsorship dates: 23 Nov–23 Dec 2026.",
+          "url": "https://example.com/compendium-demo/af-4",
+          "sponsored": true,
+          "regions": [
+            "sutherland_shire"
+          ]
+        },
+        {
+          "name": "DEMO — Cronulla AF Cardiology",
+          "details": "Fictional demo listing for display testing only.",
+          "url": "https://example.com/compendium-demo/af-5",
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
+        },
+        {
+          "name": "DEMO — Kirrawee AF Cardiology",
+          "details": "Fictional demo listing for display testing only.",
+          "url": "https://example.com/compendium-demo/af-6",
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
+        },
+        {
+          "name": "DEMO — Engadine AF Cardiology",
+          "details": "Fictional demo listing for display testing only.",
+          "url": "https://example.com/compendium-demo/af-7",
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
+        },
+        {
+          "name": "DEMO — Kogarah AF Cardiology",
+          "details": "Fictional demo listing for display testing only.",
+          "url": "https://example.com/compendium-demo/af-8",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "DEMO — Campsie AF Cardiology",
+          "details": "Fictional demo listing for display testing only.",
+          "url": "https://example.com/compendium-demo/af-9",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "DEMO — Sydney CBD AF Cardiology",
+          "details": "Fictional demo listing for display testing only.",
+          "url": "https://example.com/compendium-demo/af-10",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
           ]
         }
       ],
