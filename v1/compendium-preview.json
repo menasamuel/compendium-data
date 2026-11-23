@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "92e1078a026b",
-  "updatedAt": "2026-11-23T02:51:25Z",
+  "version": "7eced2ec418b",
+  "updatedAt": "2026-11-23T05:30:00Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -146,6 +146,321 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Dr Shruti Kapila – Key Health Sydney CBD",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.keyhealth.com.au/tab-teams-cbd/specialists",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Dr Grant Shalaby – Hornsby",
+          "details": "Cardiac electrophysiology. Cardiac electrophysiology. Confirm current consulting availability.",
+          "url": "https://norwestprivatehospital.com.au/application/files/7117/7070/3529/NWPH_Specialist_Directory_Feb_2026_100226.pdf",
+          "sponsored": false,
+          "regions": [
+            "upper_north_shore"
+          ]
+        },
+        {
+          "name": "Ryde Hospital – Denistone",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Ryde/Pages/Outpatient-services.aspx",
+          "sponsored": false,
+          "regions": [
+            "ryde_epping"
+          ]
+        },
+        {
+          "name": "Westmead Private Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.westmeadprivate.com.au/Services/Clinical-Services",
+          "sponsored": false,
+          "regions": [
+            "parramatta_cumberland"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Blacktown Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/wslhd/hospitals-and-facilities/blacktown-services",
+          "sponsored": false,
+          "regions": [
+            "blacktown_mount_druitt"
+          ]
+        },
+        {
+          "name": "Hawkesbury District Hospital – Windsor",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-health/service-directory/hawkesbury-hospital-contact",
+          "sponsored": false,
+          "regions": [
+            "hawkesbury_windsor"
+          ]
+        },
+        {
+          "name": "Nepean Hospital – Kingswood",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nbmlhd/service-directory/cardiology-outpatient-nepean",
+          "sponsored": false,
+          "regions": [
+            "penrith_st_marys"
+          ]
+        },
+        {
+          "name": "Fairfield Hospital – Prairiewood",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/fairfield/services.html",
+          "sponsored": false,
+          "regions": [
+            "fairfield"
+          ]
+        },
+        {
+          "name": "Liverpool Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/liverpool/services.html",
+          "sponsored": false,
+          "regions": [
+            "liverpool_green_valley"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "South West Cardiology – Camden",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://southwestcardio.com.au/our-services/",
+          "sponsored": false,
+          "regions": [
+            "camden_wollondilly"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Maitland Private Hospital – East Maitland",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://maitlandprivatehospital.com.au/specialties/other-specialties",
+          "sponsored": false,
+          "regions": [
+            "maitland_lower_hunter"
+          ]
+        },
+        {
+          "name": "Port Stephens Specialist Centre",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.portstephensspecialistcentre.com.au/",
+          "sponsored": false,
+          "regions": [
+            "port_stephens"
+          ]
+        },
+        {
+          "name": "Wollongong Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/wollongong-hospital/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "wollongong_dapto"
+          ]
+        },
+        {
+          "name": "Dr Oliver Gibbs – Bowral Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/bowral/outpatientclinics.html",
+          "sponsored": false,
+          "regions": [
+            "southern_highlands"
+          ]
+        },
+        {
+          "name": "Queanbeyan GP Super Clinic – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://qgpsc.com.au/specialists/",
+          "sponsored": false,
+          "regions": [
+            "queanbeyan"
+          ]
+        },
+        {
+          "name": "Dr Sharon Wilson – Cooma",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://aushealthpages.com.au/directory/listing/cardiology-sharon-wilson",
+          "sponsored": false,
+          "regions": [
+            "snowy_mountains"
+          ]
+        },
+        {
+          "name": "Sapphire Coast Cardiology – Bega",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.sapphirecoastcardiology.com.au/cardiology",
+          "sponsored": false,
+          "regions": [
+            "eurobodalla_bega_valley"
+          ]
+        },
+        {
+          "name": "Young District Medical Centre – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.ydmc.com.au/our-specialists/",
+          "sponsored": false,
+          "regions": [
+            "young_yass"
+          ]
+        },
+        {
+          "name": "Mudgee Medical Centre – visiting cardiologist",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.mudgeemedical.com.au/visiting-specialists/",
+          "sponsored": false,
+          "regions": [
+            "bathurst_lithgow_mudgee"
+          ]
+        },
+        {
+          "name": "Dubbo Hospital – Ambulatory Care Centre",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://engage.wnswlhd.health.nsw.gov.au/dubbo-outpatients-self-check",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Bourke Aboriginal Corporation Health Service – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://directory.wayahead.org.au/service/2181/",
+          "sponsored": false,
+          "regions": [
+            "bourke_cobar_coonamble"
+          ]
+        },
+        {
+          "name": "Griffith Aboriginal Medical Service – visiting specialists",
+          "details": "Cardiology. GP referral required. The service prioritises Aboriginal clients. Confirm eligibility and visit dates.",
+          "url": "https://www.griffithams.org.au/specialist",
+          "sponsored": false,
+          "regions": [
+            "griffith_western_riverina"
+          ]
+        },
+        {
+          "name": "Riverina Cardiology – Wagga Wagga",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.riverinacardiology.com.au/doctors",
+          "sponsored": false,
+          "regions": [
+            "wagga_wagga"
+          ]
+        },
+        {
+          "name": "Hume Cardiac Clinic – Albury",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://humecardiaccentre.com.au/services/",
+          "sponsored": false,
+          "regions": [
+            "albury_upper_murray"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "Coffs Cardiology",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://coffscardiology.com.au/contact/",
+          "sponsored": false,
+          "regions": [
+            "coffs_harbour"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
+        },
+        {
+          "name": "Tweed Valley Hospital – Cudgen",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://nnswlhd.health.nsw.gov.au/hospitals/tweed-valley-hospital/outpatient-clinics",
+          "sponsored": false,
+          "regions": [
+            "tweed_valley"
+          ]
+        },
+        {
+          "name": "Prof Greg Cranney – visiting Lord Howe Island",
+          "details": "Cardiology. Visiting cardiologist. Dates are unconfirmed. Check with the island practice before referral.",
+          "url": "https://lordhowegp.com.au/visiting-specialists-and-allied-health-professionals/",
+          "sponsored": false,
+          "regions": [
+            "lord_howe_island"
           ]
         }
       ],
@@ -339,12 +654,13 @@
           ]
         },
         {
-          "name": "Dr Nicholas Shoung — Bankstown",
-          "details": "Endocrinologist for specialist diabetes review.",
+          "name": "Dr Nicholas Shoung",
+          "details": "Endocrinologist for diabetes review.\nBankstown: https://www.sydneyendocrinology.com.au/dr-nicholas-shoung\nKey Health Sydney CBD: https://www.keyhealth.com.au/tab-teams-cbd/specialists\nCheck referral criteria and availability.",
           "url": "https://www.sydneyendocrinology.com.au/dr-nicholas-shoung",
           "sponsored": false,
           "regions": [
-            "bankstown_canterbury"
+            "bankstown_canterbury",
+            "sydney_cbd_inner_south"
           ]
         },
         {
@@ -363,6 +679,150 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Ryde Hospital – Denistone",
+          "details": "Diabetes service. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Ryde/Pages/Outpatient-services.aspx",
+          "sponsored": false,
+          "regions": [
+            "ryde_epping"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Fairfield Hospital – Prairiewood",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/fairfield/services.html",
+          "sponsored": false,
+          "regions": [
+            "fairfield"
+          ]
+        },
+        {
+          "name": "Liverpool Hospital",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/liverpool/services.html",
+          "sponsored": false,
+          "regions": [
+            "liverpool_green_valley"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "Central Coast Specialist Centre – Gosford",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.cclhd.health.nsw.gov.au/services/central-coast-specialist-centre/specialist-services/",
+          "sponsored": false,
+          "regions": [
+            "central_coast"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Diabetes service. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Young District Medical Centre – visiting specialists",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.ydmc.com.au/our-specialists/",
+          "sponsored": false,
+          "regions": [
+            "young_yass"
+          ]
+        },
+        {
+          "name": "Orange Specialist Clinic",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://orangespecialistclinic.com.au/contact/",
+          "sponsored": false,
+          "regions": [
+            "lachlan_orange"
+          ]
+        },
+        {
+          "name": "Griffith Aboriginal Medical Service – visiting specialists",
+          "details": "Endocrinology. GP referral required. The service prioritises Aboriginal clients. Confirm eligibility and visit dates.",
+          "url": "https://www.griffithams.org.au/specialist",
+          "sponsored": false,
+          "regions": [
+            "griffith_western_riverina"
+          ]
+        },
+        {
+          "name": "Nuclear Medicine & Endocrinology – Grafton",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.graftonnuclearendo.com.au/",
+          "sponsored": false,
+          "regions": [
+            "clarence_valley"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
+        },
+        {
+          "name": "Prof Bruce Robinson – visiting Lord Howe Island",
+          "details": "Endocrinology. GP referral required. The practice lists 8–9 December 2026. Confirm dates and availability directly.",
+          "url": "https://lordhowegp.com.au/visiting-specialists-and-allied-health-professionals/",
+          "sponsored": false,
+          "regions": [
+            "lord_howe_island"
+          ]
+        },
+        {
+          "name": "Marathon Health – Dubbo specialist outreach",
+          "details": "Visiting specialist services. Check the listed provider for the relevant specialty and confirm referral criteria and clinic dates.",
+          "url": "https://www.marathonhealth.com.au/service/outreach-specialist-services/",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
           ]
         }
       ],
@@ -597,6 +1057,312 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Dr Shruti Kapila – Key Health Sydney CBD",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.keyhealth.com.au/tab-teams-cbd/specialists",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Ryde Hospital – Denistone",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Ryde/Pages/Outpatient-services.aspx",
+          "sponsored": false,
+          "regions": [
+            "ryde_epping"
+          ]
+        },
+        {
+          "name": "Westmead Private Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.westmeadprivate.com.au/Services/Clinical-Services",
+          "sponsored": false,
+          "regions": [
+            "parramatta_cumberland"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Blacktown Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/wslhd/hospitals-and-facilities/blacktown-services",
+          "sponsored": false,
+          "regions": [
+            "blacktown_mount_druitt"
+          ]
+        },
+        {
+          "name": "Hawkesbury District Hospital – Windsor",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-health/service-directory/hawkesbury-hospital-contact",
+          "sponsored": false,
+          "regions": [
+            "hawkesbury_windsor"
+          ]
+        },
+        {
+          "name": "Nepean Hospital – Kingswood",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nbmlhd/service-directory/cardiology-outpatient-nepean",
+          "sponsored": false,
+          "regions": [
+            "penrith_st_marys"
+          ]
+        },
+        {
+          "name": "Fairfield Hospital – Prairiewood",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/fairfield/services.html",
+          "sponsored": false,
+          "regions": [
+            "fairfield"
+          ]
+        },
+        {
+          "name": "Liverpool Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/liverpool/services.html",
+          "sponsored": false,
+          "regions": [
+            "liverpool_green_valley"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "South West Cardiology – Camden",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://southwestcardio.com.au/our-services/",
+          "sponsored": false,
+          "regions": [
+            "camden_wollondilly"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Maitland Private Hospital – East Maitland",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://maitlandprivatehospital.com.au/specialties/other-specialties",
+          "sponsored": false,
+          "regions": [
+            "maitland_lower_hunter"
+          ]
+        },
+        {
+          "name": "Port Stephens Specialist Centre",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.portstephensspecialistcentre.com.au/",
+          "sponsored": false,
+          "regions": [
+            "port_stephens"
+          ]
+        },
+        {
+          "name": "Wollongong Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/wollongong-hospital/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "wollongong_dapto"
+          ]
+        },
+        {
+          "name": "Dr Oliver Gibbs – Bowral Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/bowral/outpatientclinics.html",
+          "sponsored": false,
+          "regions": [
+            "southern_highlands"
+          ]
+        },
+        {
+          "name": "Queanbeyan GP Super Clinic – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://qgpsc.com.au/specialists/",
+          "sponsored": false,
+          "regions": [
+            "queanbeyan"
+          ]
+        },
+        {
+          "name": "Dr Sharon Wilson – Cooma",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://aushealthpages.com.au/directory/listing/cardiology-sharon-wilson",
+          "sponsored": false,
+          "regions": [
+            "snowy_mountains"
+          ]
+        },
+        {
+          "name": "Sapphire Coast Cardiology – Bega",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.sapphirecoastcardiology.com.au/cardiology",
+          "sponsored": false,
+          "regions": [
+            "eurobodalla_bega_valley"
+          ]
+        },
+        {
+          "name": "Young District Medical Centre – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.ydmc.com.au/our-specialists/",
+          "sponsored": false,
+          "regions": [
+            "young_yass"
+          ]
+        },
+        {
+          "name": "Mudgee Medical Centre – visiting cardiologist",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.mudgeemedical.com.au/visiting-specialists/",
+          "sponsored": false,
+          "regions": [
+            "bathurst_lithgow_mudgee"
+          ]
+        },
+        {
+          "name": "Dubbo Hospital – Ambulatory Care Centre",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://engage.wnswlhd.health.nsw.gov.au/dubbo-outpatients-self-check",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Bourke Aboriginal Corporation Health Service – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://directory.wayahead.org.au/service/2181/",
+          "sponsored": false,
+          "regions": [
+            "bourke_cobar_coonamble"
+          ]
+        },
+        {
+          "name": "Griffith Aboriginal Medical Service – visiting specialists",
+          "details": "Cardiology. GP referral required. The service prioritises Aboriginal clients. Confirm eligibility and visit dates.",
+          "url": "https://www.griffithams.org.au/specialist",
+          "sponsored": false,
+          "regions": [
+            "griffith_western_riverina"
+          ]
+        },
+        {
+          "name": "Riverina Cardiology – Wagga Wagga",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.riverinacardiology.com.au/doctors",
+          "sponsored": false,
+          "regions": [
+            "wagga_wagga"
+          ]
+        },
+        {
+          "name": "Hume Cardiac Clinic – Albury",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://humecardiaccentre.com.au/services/",
+          "sponsored": false,
+          "regions": [
+            "albury_upper_murray"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "Coffs Cardiology",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://coffscardiology.com.au/contact/",
+          "sponsored": false,
+          "regions": [
+            "coffs_harbour"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
+        },
+        {
+          "name": "Tweed Valley Hospital – Cudgen",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://nnswlhd.health.nsw.gov.au/hospitals/tweed-valley-hospital/outpatient-clinics",
+          "sponsored": false,
+          "regions": [
+            "tweed_valley"
+          ]
+        },
+        {
+          "name": "Prof Greg Cranney – visiting Lord Howe Island",
+          "details": "Cardiology. Visiting cardiologist. Dates are unconfirmed. Check with the island practice before referral.",
+          "url": "https://lordhowegp.com.au/visiting-specialists-and-allied-health-professionals/",
+          "sponsored": false,
+          "regions": [
+            "lord_howe_island"
+          ]
         }
       ],
       "cpd": [],
@@ -807,6 +1573,312 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Dr Shruti Kapila – Key Health Sydney CBD",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.keyhealth.com.au/tab-teams-cbd/specialists",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Ryde Hospital – Denistone",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Ryde/Pages/Outpatient-services.aspx",
+          "sponsored": false,
+          "regions": [
+            "ryde_epping"
+          ]
+        },
+        {
+          "name": "Westmead Private Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.westmeadprivate.com.au/Services/Clinical-Services",
+          "sponsored": false,
+          "regions": [
+            "parramatta_cumberland"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Blacktown Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/wslhd/hospitals-and-facilities/blacktown-services",
+          "sponsored": false,
+          "regions": [
+            "blacktown_mount_druitt"
+          ]
+        },
+        {
+          "name": "Hawkesbury District Hospital – Windsor",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-health/service-directory/hawkesbury-hospital-contact",
+          "sponsored": false,
+          "regions": [
+            "hawkesbury_windsor"
+          ]
+        },
+        {
+          "name": "Nepean Hospital – Kingswood",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nbmlhd/service-directory/cardiology-outpatient-nepean",
+          "sponsored": false,
+          "regions": [
+            "penrith_st_marys"
+          ]
+        },
+        {
+          "name": "Fairfield Hospital – Prairiewood",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/fairfield/services.html",
+          "sponsored": false,
+          "regions": [
+            "fairfield"
+          ]
+        },
+        {
+          "name": "Liverpool Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/liverpool/services.html",
+          "sponsored": false,
+          "regions": [
+            "liverpool_green_valley"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "South West Cardiology – Camden",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://southwestcardio.com.au/our-services/",
+          "sponsored": false,
+          "regions": [
+            "camden_wollondilly"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Maitland Private Hospital – East Maitland",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://maitlandprivatehospital.com.au/specialties/other-specialties",
+          "sponsored": false,
+          "regions": [
+            "maitland_lower_hunter"
+          ]
+        },
+        {
+          "name": "Port Stephens Specialist Centre",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.portstephensspecialistcentre.com.au/",
+          "sponsored": false,
+          "regions": [
+            "port_stephens"
+          ]
+        },
+        {
+          "name": "Wollongong Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/wollongong-hospital/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "wollongong_dapto"
+          ]
+        },
+        {
+          "name": "Dr Oliver Gibbs – Bowral Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/bowral/outpatientclinics.html",
+          "sponsored": false,
+          "regions": [
+            "southern_highlands"
+          ]
+        },
+        {
+          "name": "Queanbeyan GP Super Clinic – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://qgpsc.com.au/specialists/",
+          "sponsored": false,
+          "regions": [
+            "queanbeyan"
+          ]
+        },
+        {
+          "name": "Dr Sharon Wilson – Cooma",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://aushealthpages.com.au/directory/listing/cardiology-sharon-wilson",
+          "sponsored": false,
+          "regions": [
+            "snowy_mountains"
+          ]
+        },
+        {
+          "name": "Sapphire Coast Cardiology – Bega",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.sapphirecoastcardiology.com.au/cardiology",
+          "sponsored": false,
+          "regions": [
+            "eurobodalla_bega_valley"
+          ]
+        },
+        {
+          "name": "Young District Medical Centre – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.ydmc.com.au/our-specialists/",
+          "sponsored": false,
+          "regions": [
+            "young_yass"
+          ]
+        },
+        {
+          "name": "Mudgee Medical Centre – visiting cardiologist",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.mudgeemedical.com.au/visiting-specialists/",
+          "sponsored": false,
+          "regions": [
+            "bathurst_lithgow_mudgee"
+          ]
+        },
+        {
+          "name": "Dubbo Hospital – Ambulatory Care Centre",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://engage.wnswlhd.health.nsw.gov.au/dubbo-outpatients-self-check",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Bourke Aboriginal Corporation Health Service – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://directory.wayahead.org.au/service/2181/",
+          "sponsored": false,
+          "regions": [
+            "bourke_cobar_coonamble"
+          ]
+        },
+        {
+          "name": "Griffith Aboriginal Medical Service – visiting specialists",
+          "details": "Cardiology. GP referral required. The service prioritises Aboriginal clients. Confirm eligibility and visit dates.",
+          "url": "https://www.griffithams.org.au/specialist",
+          "sponsored": false,
+          "regions": [
+            "griffith_western_riverina"
+          ]
+        },
+        {
+          "name": "Riverina Cardiology – Wagga Wagga",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.riverinacardiology.com.au/doctors",
+          "sponsored": false,
+          "regions": [
+            "wagga_wagga"
+          ]
+        },
+        {
+          "name": "Hume Cardiac Clinic – Albury",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://humecardiaccentre.com.au/services/",
+          "sponsored": false,
+          "regions": [
+            "albury_upper_murray"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "Coffs Cardiology",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://coffscardiology.com.au/contact/",
+          "sponsored": false,
+          "regions": [
+            "coffs_harbour"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
+        },
+        {
+          "name": "Tweed Valley Hospital – Cudgen",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://nnswlhd.health.nsw.gov.au/hospitals/tweed-valley-hospital/outpatient-clinics",
+          "sponsored": false,
+          "regions": [
+            "tweed_valley"
+          ]
+        },
+        {
+          "name": "Prof Greg Cranney – visiting Lord Howe Island",
+          "details": "Cardiology. Visiting cardiologist. Dates are unconfirmed. Check with the island practice before referral.",
+          "url": "https://lordhowegp.com.au/visiting-specialists-and-allied-health-professionals/",
+          "sponsored": false,
+          "regions": [
+            "lord_howe_island"
           ]
         }
       ],
@@ -1043,6 +2115,96 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Wollongong Hospital",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/wollongong-hospital/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "wollongong_dapto"
+          ]
+        },
+        {
+          "name": "Dubbo Hospital – Ambulatory Care Centre",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://engage.wnswlhd.health.nsw.gov.au/dubbo-outpatients-self-check",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Mayo Specialist Centre – Taree",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://mayoprivate.com.au/services/mayo-specialist-centre",
+          "sponsored": false,
+          "regions": [
+            "taree_great_lakes"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
         }
       ],
       "cpd": [],
@@ -1269,6 +2431,150 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Royal North Shore Hospital – Paediatric Outpatients",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/RNSH/Pages/Outpatient-services.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Northern Beaches Hospital – Frenchs Forest",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/northernbeaches/Pages/Outpatient-clinics.aspx",
+          "sponsored": false,
+          "regions": [
+            "northern_beaches"
+          ]
+        },
+        {
+          "name": "Westmead Private Hospital",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.westmeadprivate.com.au/Services/Clinical-Services",
+          "sponsored": false,
+          "regions": [
+            "parramatta_cumberland"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital – Children’s Outpatients",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/ccq/outpatients.html",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "Dr Vivek Akkera – visiting Singleton",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://medivik.com.au/paediatrician-newcastle/",
+          "sponsored": false,
+          "regions": [
+            "upper_hunter"
+          ]
+        },
+        {
+          "name": "Shellharbour Hospital – Paediatric Outpatients",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/shellharbour-hospital/services-clinics/paediatric-medical-staff-specialist-outpatients",
+          "sponsored": false,
+          "regions": [
+            "shellharbour_kiama"
+          ]
+        },
+        {
+          "name": "Bourke Aboriginal Corporation Health Service – visiting specialists",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://directory.wayahead.org.au/service/2181/",
+          "sponsored": false,
+          "regions": [
+            "bourke_cobar_coonamble"
+          ]
+        },
+        {
+          "name": "Wagga Wagga Base Hospital Paediatric Outreach – Tumut",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Visiting paediatric service in Tumut. Eligibility restrictions apply. Confirm current schedule and eligibility through the outreach team.",
+          "url": "https://www.riverinapaediatrics.com.au/our-services",
+          "sponsored": false,
+          "regions": [
+            "tumut_snowy_valleys"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Armajun – visiting paediatrics, Inverell",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.armajun.org.au/locations/index/inverell",
+          "sponsored": false,
+          "regions": [
+            "inverell_tenterfield"
+          ]
+        },
+        {
+          "name": "Dr Kimberley Farage – visiting Narrabri",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://healthwise.org.au/wp-content/uploads/2025/10/Annual-Report-2025-DIGITAL.pdf",
+          "sponsored": false,
+          "regions": [
+            "moree_narrabri"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "Grafton Base Hospital – Paediatric Outpatients",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/health-and-wellbeing/health-infrastructure-projects/grafton-ambulatory-care",
+          "sponsored": false,
+          "regions": [
+            "clarence_valley"
+          ]
+        },
+        {
+          "name": "Hornsby Ku-ring-gai Hospital – Paediatric Medical Outpatient Clinic",
+          "details": "General paediatric referrals for children aged 0–15. For selected recurrent or persistent concerns after acute assessment.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/PaediatricMedicalOutpatientClinic.aspx",
+          "sponsored": false,
+          "regions": [
+            "upper_north_shore"
+          ]
+        },
+        {
+          "name": "Riverina Paediatrics – Wagga Wagga",
+          "details": "General paediatric outpatient review for selected persistent or recurrent concerns after acute assessment.",
+          "url": "https://www.riverinapaediatrics.com.au/paediatricians",
+          "sponsored": false,
+          "regions": [
+            "wagga_wagga"
+          ]
         }
       ],
       "cpd": [],
@@ -1421,6 +2727,159 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Royal North Shore Hospital – Paediatric Outpatients",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/RNSH/Pages/Outpatient-services.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Northern Beaches Hospital – Frenchs Forest",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/northernbeaches/Pages/Outpatient-clinics.aspx",
+          "sponsored": false,
+          "regions": [
+            "northern_beaches"
+          ]
+        },
+        {
+          "name": "Westmead Private Hospital",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://www.westmeadprivate.com.au/Services/Clinical-Services",
+          "sponsored": false,
+          "regions": [
+            "parramatta_cumberland"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital – Children’s Outpatients",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/ccq/outpatients.html",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "Dr Vivek Akkera – visiting Singleton",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://medivik.com.au/paediatrician-newcastle/",
+          "sponsored": false,
+          "regions": [
+            "upper_hunter"
+          ]
+        },
+        {
+          "name": "Shellharbour Hospital – Paediatric Outpatients",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/shellharbour-hospital/services-clinics/paediatric-medical-staff-specialist-outpatients",
+          "sponsored": false,
+          "regions": [
+            "shellharbour_kiama"
+          ]
+        },
+        {
+          "name": "Bourke Aboriginal Corporation Health Service – visiting specialists",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://directory.wayahead.org.au/service/2181/",
+          "sponsored": false,
+          "regions": [
+            "bourke_cobar_coonamble"
+          ]
+        },
+        {
+          "name": "Wagga Wagga Base Hospital Paediatric Outreach – Tumut",
+          "details": "General paediatrics. Visiting paediatric service in Tumut. Eligibility restrictions apply. Confirm current schedule and eligibility through the outreach team.",
+          "url": "https://www.riverinapaediatrics.com.au/our-services",
+          "sponsored": false,
+          "regions": [
+            "tumut_snowy_valleys"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Armajun – visiting paediatrics, Inverell",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://www.armajun.org.au/locations/index/inverell",
+          "sponsored": false,
+          "regions": [
+            "inverell_tenterfield"
+          ]
+        },
+        {
+          "name": "Dr Kimberley Farage – visiting Narrabri",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://healthwise.org.au/wp-content/uploads/2025/10/Annual-Report-2025-DIGITAL.pdf",
+          "sponsored": false,
+          "regions": [
+            "moree_narrabri"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "Grafton Base Hospital – Paediatric Outpatients",
+          "details": "General paediatrics. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/health-and-wellbeing/health-infrastructure-projects/grafton-ambulatory-care",
+          "sponsored": false,
+          "regions": [
+            "clarence_valley"
+          ]
+        },
+        {
+          "name": "Hornsby Ku-ring-gai Hospital – Paediatric Medical Outpatient Clinic",
+          "details": "General paediatric referrals for children aged 0–15. For selected recurrent or persistent concerns after acute assessment.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/PaediatricMedicalOutpatientClinic.aspx",
+          "sponsored": false,
+          "regions": [
+            "upper_north_shore"
+          ]
+        },
+        {
+          "name": "Riverina Paediatrics – Wagga Wagga",
+          "details": "General paediatric outpatient review for selected persistent or recurrent concerns after acute assessment.",
+          "url": "https://www.riverinapaediatrics.com.au/paediatricians",
+          "sponsored": false,
+          "regions": [
+            "wagga_wagga"
+          ]
+        },
+        {
+          "name": "Griffith Aboriginal Medical Service – visiting ENT",
+          "details": "Visiting ENT for selected recurrent or persistent ear problems. GP referral required. Confirm eligibility and clinic dates.",
+          "url": "https://www.griffithams.org.au/specialist",
+          "sponsored": false,
+          "regions": [
+            "griffith_western_riverina"
           ]
         }
       ],
@@ -1630,6 +3089,96 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Wollongong Hospital",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/wollongong-hospital/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "wollongong_dapto"
+          ]
+        },
+        {
+          "name": "Dubbo Hospital – Ambulatory Care Centre",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://engage.wnswlhd.health.nsw.gov.au/dubbo-outpatients-self-check",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Mayo Specialist Centre – Taree",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://mayoprivate.com.au/services/mayo-specialist-centre",
+          "sponsored": false,
+          "regions": [
+            "taree_great_lakes"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Respiratory medicine. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
           ]
         }
       ],
@@ -1865,6 +3414,33 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Dr David Graham – Sydney Medical Specialists",
+          "details": "Mental health. Check referral criteria and availability.",
+          "url": "https://www.sydneymedicalspecialists.com.au/for-patients/",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "Deniliquin Community Mental Health and Drug and Alcohol Service",
+          "details": "Mental health. Community mental health assessment and treatment for eligible patients. Confirm intake criteria and which clinician will review.",
+          "url": "https://directory.wayahead.org.au/service/636/",
+          "sponsored": false,
+          "regions": [
+            "lower_murray"
+          ]
+        },
+        {
+          "name": "Mid North Coast Specialist Outreach Clinic – Coffs Harbour",
+          "details": "Mental health. Check referral criteria and availability.",
+          "url": "https://hnc.org.au/mnc-specialist-outreach-clinic/",
+          "sponsored": false,
+          "regions": [
+            "coffs_harbour"
+          ]
         }
       ],
       "cpd": [],
@@ -2050,6 +3626,51 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Urology. For selected recurrent or complex cases. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Urology. For selected recurrent or complex cases. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Urology. For selected recurrent or complex cases. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "Urology. For selected recurrent or complex cases. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "Young District Medical Centre – visiting specialist directory",
+          "details": "The directory lists visiting Dermatology, Urology and Orthopaedics in Young. Check the relevant provider, scope and availability.",
+          "url": "https://www.ydmc.com.au/our-specialists/",
+          "sponsored": false,
+          "regions": [
+            "young_yass"
           ]
         }
       ],
@@ -2237,6 +3858,88 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Dr Burcu Kim – Sydney CBD",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://www.sydneymedicalspecialists.com.au/for-patients/",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Liverpool Hospital",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/liverpool/services.html",
+          "sponsored": false,
+          "regions": [
+            "liverpool_green_valley"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Goulburn Health Hub – Dermatology",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://goulburnhealthhub.com/book-specialist-appointment/",
+          "sponsored": false,
+          "regions": [
+            "goulburn"
+          ]
+        },
+        {
+          "name": "Marathon Health – Outreach Specialist Services",
+          "details": "Broken Hill: Visiting dermatology. Confirm the next clinic with Broken Hill Health Service.\nDubbo: Visiting specialist outreach. Confirm dermatology availability, referral criteria and clinic dates with the listed provider.",
+          "url": "https://www.marathonhealth.com.au/service/outreach-specialist-services/",
+          "sponsored": false,
+          "regions": [
+            "broken_hill_far_west",
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Mid North Coast Specialist Outreach Clinic – Coffs Harbour",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://hnc.org.au/mnc-specialist-outreach-clinic/",
+          "sponsored": false,
+          "regions": [
+            "coffs_harbour"
+          ]
+        },
+        {
+          "name": "Young District Medical Centre – visiting specialist directory",
+          "details": "The directory lists visiting Dermatology, Urology and Orthopaedics in Young. Check the relevant provider, scope and availability.",
+          "url": "https://www.ydmc.com.au/our-specialists/",
+          "sponsored": false,
+          "regions": [
+            "young_yass"
+          ]
         }
       ],
       "cpd": [],
@@ -2332,12 +4035,13 @@
           ]
         },
         {
-          "name": "Dr Nicholas Shoung — Bankstown",
-          "details": "Endocrinologist with a clinical interest in thyroid disorders.",
+          "name": "Dr Nicholas Shoung",
+          "details": "Endocrinologist with an interest in thyroid disorders.\nBankstown: https://www.sydneyendocrinology.com.au/dr-nicholas-shoung\nKey Health Sydney CBD: https://www.keyhealth.com.au/tab-teams-cbd/specialists\nCheck referral criteria and availability.",
           "url": "https://www.sydneyendocrinology.com.au/dr-nicholas-shoung",
           "sponsored": false,
           "regions": [
-            "bankstown_canterbury"
+            "bankstown_canterbury",
+            "sydney_cbd_inner_south"
           ]
         },
         {
@@ -2356,6 +4060,132 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Fairfield Hospital – Prairiewood",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/fairfield/services.html",
+          "sponsored": false,
+          "regions": [
+            "fairfield"
+          ]
+        },
+        {
+          "name": "Liverpool Hospital",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/liverpool/services.html",
+          "sponsored": false,
+          "regions": [
+            "liverpool_green_valley"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "Central Coast Specialist Centre – Gosford",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.cclhd.health.nsw.gov.au/services/central-coast-specialist-centre/specialist-services/",
+          "sponsored": false,
+          "regions": [
+            "central_coast"
+          ]
+        },
+        {
+          "name": "Young District Medical Centre – visiting specialists",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.ydmc.com.au/our-specialists/",
+          "sponsored": false,
+          "regions": [
+            "young_yass"
+          ]
+        },
+        {
+          "name": "Orange Specialist Clinic",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://orangespecialistclinic.com.au/contact/",
+          "sponsored": false,
+          "regions": [
+            "lachlan_orange"
+          ]
+        },
+        {
+          "name": "Griffith Aboriginal Medical Service – visiting specialists",
+          "details": "Endocrinology. GP referral required. The service prioritises Aboriginal clients. Confirm eligibility and visit dates.",
+          "url": "https://www.griffithams.org.au/specialist",
+          "sponsored": false,
+          "regions": [
+            "griffith_western_riverina"
+          ]
+        },
+        {
+          "name": "Nuclear Medicine & Endocrinology – Grafton",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.graftonnuclearendo.com.au/",
+          "sponsored": false,
+          "regions": [
+            "clarence_valley"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Endocrinology. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
+        },
+        {
+          "name": "Prof Bruce Robinson – visiting Lord Howe Island",
+          "details": "Endocrinology. GP referral required. The practice lists 8–9 December 2026. Confirm dates and availability directly.",
+          "url": "https://lordhowegp.com.au/visiting-specialists-and-allied-health-professionals/",
+          "sponsored": false,
+          "regions": [
+            "lord_howe_island"
+          ]
+        },
+        {
+          "name": "Marathon Health – Dubbo specialist outreach",
+          "details": "Visiting specialist services. Check the listed provider for the relevant specialty and confirm referral criteria and clinic dates.",
+          "url": "https://www.marathonhealth.com.au/service/outreach-specialist-services/",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
           ]
         }
       ],
@@ -2494,6 +4324,96 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Respiratory medicine. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Respiratory medicine. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Respiratory medicine. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Respiratory medicine. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Respiratory medicine. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Wollongong Hospital",
+          "details": "Respiratory medicine. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/wollongong-hospital/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "wollongong_dapto"
+          ]
+        },
+        {
+          "name": "Dubbo Hospital – Ambulatory Care Centre",
+          "details": "Respiratory medicine. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://engage.wnswlhd.health.nsw.gov.au/dubbo-outpatients-self-check",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Mayo Specialist Centre – Taree",
+          "details": "Respiratory medicine. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://mayoprivate.com.au/services/mayo-specialist-centre",
+          "sponsored": false,
+          "regions": [
+            "taree_great_lakes"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "Respiratory medicine. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Respiratory medicine. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
         }
       ],
       "cpd": [],
@@ -2605,6 +4525,88 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Dr Burcu Kim – Sydney CBD",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://www.sydneymedicalspecialists.com.au/for-patients/",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Liverpool Hospital",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/liverpool/services.html",
+          "sponsored": false,
+          "regions": [
+            "liverpool_green_valley"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Goulburn Health Hub – Dermatology",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://goulburnhealthhub.com/book-specialist-appointment/",
+          "sponsored": false,
+          "regions": [
+            "goulburn"
+          ]
+        },
+        {
+          "name": "Marathon Health – Outreach Specialist Services",
+          "details": "Broken Hill: Visiting dermatology. Confirm the next clinic with Broken Hill Health Service.\nDubbo: Visiting specialist outreach. Confirm dermatology availability, referral criteria and clinic dates with the listed provider.",
+          "url": "https://www.marathonhealth.com.au/service/outreach-specialist-services/",
+          "sponsored": false,
+          "regions": [
+            "broken_hill_far_west",
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Mid North Coast Specialist Outreach Clinic – Coffs Harbour",
+          "details": "Dermatology. Check referral criteria and availability.",
+          "url": "https://hnc.org.au/mnc-specialist-outreach-clinic/",
+          "sponsored": false,
+          "regions": [
+            "coffs_harbour"
+          ]
+        },
+        {
+          "name": "Young District Medical Centre – visiting specialist directory",
+          "details": "The directory lists visiting Dermatology, Urology and Orthopaedics in Young. Check the relevant provider, scope and availability.",
+          "url": "https://www.ydmc.com.au/our-specialists/",
+          "sponsored": false,
+          "regions": [
+            "young_yass"
           ]
         }
       ],
@@ -2724,6 +4726,24 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Dr Melinda Glover – Seaside Paediatrics",
+          "details": "Paediatrician with ADHD and developmental experience. Check referral criteria and availability.",
+          "url": "https://www.seasidepaeds.com.au/dr-melinda-glover",
+          "sponsored": false,
+          "regions": [
+            "shellharbour_kiama"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth – General Paediatrics",
+          "details": "Paediatric ADHD service. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/specialty/paediatrics/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
         }
       ],
       "cpd": [],
@@ -2841,6 +4861,150 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Royal North Shore Hospital – Paediatric Outpatients",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/RNSH/Pages/Outpatient-services.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Northern Beaches Hospital – Frenchs Forest",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/northernbeaches/Pages/Outpatient-clinics.aspx",
+          "sponsored": false,
+          "regions": [
+            "northern_beaches"
+          ]
+        },
+        {
+          "name": "Westmead Private Hospital",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.westmeadprivate.com.au/Services/Clinical-Services",
+          "sponsored": false,
+          "regions": [
+            "parramatta_cumberland"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital – Children’s Outpatients",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/ccq/outpatients.html",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "Dr Vivek Akkera – visiting Singleton",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://medivik.com.au/paediatrician-newcastle/",
+          "sponsored": false,
+          "regions": [
+            "upper_hunter"
+          ]
+        },
+        {
+          "name": "Shellharbour Hospital – Paediatric Outpatients",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/shellharbour-hospital/services-clinics/paediatric-medical-staff-specialist-outpatients",
+          "sponsored": false,
+          "regions": [
+            "shellharbour_kiama"
+          ]
+        },
+        {
+          "name": "Bourke Aboriginal Corporation Health Service – visiting specialists",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://directory.wayahead.org.au/service/2181/",
+          "sponsored": false,
+          "regions": [
+            "bourke_cobar_coonamble"
+          ]
+        },
+        {
+          "name": "Wagga Wagga Base Hospital Paediatric Outreach – Tumut",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Visiting paediatric service in Tumut. Eligibility restrictions apply. Confirm current schedule and eligibility through the outreach team.",
+          "url": "https://www.riverinapaediatrics.com.au/our-services",
+          "sponsored": false,
+          "regions": [
+            "tumut_snowy_valleys"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Armajun – visiting paediatrics, Inverell",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.armajun.org.au/locations/index/inverell",
+          "sponsored": false,
+          "regions": [
+            "inverell_tenterfield"
+          ]
+        },
+        {
+          "name": "Dr Kimberley Farage – visiting Narrabri",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://healthwise.org.au/wp-content/uploads/2025/10/Annual-Report-2025-DIGITAL.pdf",
+          "sponsored": false,
+          "regions": [
+            "moree_narrabri"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "Grafton Base Hospital – Paediatric Outpatients",
+          "details": "General paediatrics. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/health-and-wellbeing/health-infrastructure-projects/grafton-ambulatory-care",
+          "sponsored": false,
+          "regions": [
+            "clarence_valley"
+          ]
+        },
+        {
+          "name": "Hornsby Ku-ring-gai Hospital – Paediatric Medical Outpatient Clinic",
+          "details": "General paediatric referrals for children aged 0–15. For selected recurrent or persistent concerns after acute assessment.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/PaediatricMedicalOutpatientClinic.aspx",
+          "sponsored": false,
+          "regions": [
+            "upper_north_shore"
+          ]
+        },
+        {
+          "name": "Riverina Paediatrics – Wagga Wagga",
+          "details": "General paediatric outpatient review for selected persistent or recurrent concerns after acute assessment.",
+          "url": "https://www.riverinapaediatrics.com.au/paediatricians",
+          "sponsored": false,
+          "regions": [
+            "wagga_wagga"
+          ]
         }
       ],
       "cpd": [],
@@ -2941,6 +5105,24 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Infectious diseases. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Infectious diseases. For selected persistent, recurrent or complicated cases after acute assessment. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
           ]
         }
       ],
@@ -3044,6 +5226,312 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Dr Shruti Kapila – Key Health Sydney CBD",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.keyhealth.com.au/tab-teams-cbd/specialists",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Ryde Hospital – Denistone",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Ryde/Pages/Outpatient-services.aspx",
+          "sponsored": false,
+          "regions": [
+            "ryde_epping"
+          ]
+        },
+        {
+          "name": "Westmead Private Hospital",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.westmeadprivate.com.au/Services/Clinical-Services",
+          "sponsored": false,
+          "regions": [
+            "parramatta_cumberland"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Blacktown Hospital",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/wslhd/hospitals-and-facilities/blacktown-services",
+          "sponsored": false,
+          "regions": [
+            "blacktown_mount_druitt"
+          ]
+        },
+        {
+          "name": "Hawkesbury District Hospital – Windsor",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-health/service-directory/hawkesbury-hospital-contact",
+          "sponsored": false,
+          "regions": [
+            "hawkesbury_windsor"
+          ]
+        },
+        {
+          "name": "Nepean Hospital – Kingswood",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nbmlhd/service-directory/cardiology-outpatient-nepean",
+          "sponsored": false,
+          "regions": [
+            "penrith_st_marys"
+          ]
+        },
+        {
+          "name": "Fairfield Hospital – Prairiewood",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/fairfield/services.html",
+          "sponsored": false,
+          "regions": [
+            "fairfield"
+          ]
+        },
+        {
+          "name": "Liverpool Hospital",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/liverpool/services.html",
+          "sponsored": false,
+          "regions": [
+            "liverpool_green_valley"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "South West Cardiology – Camden",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://southwestcardio.com.au/our-services/",
+          "sponsored": false,
+          "regions": [
+            "camden_wollondilly"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Maitland Private Hospital – East Maitland",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://maitlandprivatehospital.com.au/specialties/other-specialties",
+          "sponsored": false,
+          "regions": [
+            "maitland_lower_hunter"
+          ]
+        },
+        {
+          "name": "Port Stephens Specialist Centre",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.portstephensspecialistcentre.com.au/",
+          "sponsored": false,
+          "regions": [
+            "port_stephens"
+          ]
+        },
+        {
+          "name": "Wollongong Hospital",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/wollongong-hospital/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "wollongong_dapto"
+          ]
+        },
+        {
+          "name": "Dr Oliver Gibbs – Bowral Hospital",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/bowral/outpatientclinics.html",
+          "sponsored": false,
+          "regions": [
+            "southern_highlands"
+          ]
+        },
+        {
+          "name": "Queanbeyan GP Super Clinic – visiting specialists",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://qgpsc.com.au/specialists/",
+          "sponsored": false,
+          "regions": [
+            "queanbeyan"
+          ]
+        },
+        {
+          "name": "Dr Sharon Wilson – Cooma",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://aushealthpages.com.au/directory/listing/cardiology-sharon-wilson",
+          "sponsored": false,
+          "regions": [
+            "snowy_mountains"
+          ]
+        },
+        {
+          "name": "Sapphire Coast Cardiology – Bega",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.sapphirecoastcardiology.com.au/cardiology",
+          "sponsored": false,
+          "regions": [
+            "eurobodalla_bega_valley"
+          ]
+        },
+        {
+          "name": "Young District Medical Centre – visiting specialists",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.ydmc.com.au/our-specialists/",
+          "sponsored": false,
+          "regions": [
+            "young_yass"
+          ]
+        },
+        {
+          "name": "Mudgee Medical Centre – visiting cardiologist",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.mudgeemedical.com.au/visiting-specialists/",
+          "sponsored": false,
+          "regions": [
+            "bathurst_lithgow_mudgee"
+          ]
+        },
+        {
+          "name": "Dubbo Hospital – Ambulatory Care Centre",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://engage.wnswlhd.health.nsw.gov.au/dubbo-outpatients-self-check",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Bourke Aboriginal Corporation Health Service – visiting specialists",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://directory.wayahead.org.au/service/2181/",
+          "sponsored": false,
+          "regions": [
+            "bourke_cobar_coonamble"
+          ]
+        },
+        {
+          "name": "Griffith Aboriginal Medical Service – visiting specialists",
+          "details": "Cardiology. Outpatient review after acute assessment. GP referral required. The service prioritises Aboriginal clients. Confirm eligibility and visit dates.",
+          "url": "https://www.griffithams.org.au/specialist",
+          "sponsored": false,
+          "regions": [
+            "griffith_western_riverina"
+          ]
+        },
+        {
+          "name": "Riverina Cardiology – Wagga Wagga",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.riverinacardiology.com.au/doctors",
+          "sponsored": false,
+          "regions": [
+            "wagga_wagga"
+          ]
+        },
+        {
+          "name": "Hume Cardiac Clinic – Albury",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://humecardiaccentre.com.au/services/",
+          "sponsored": false,
+          "regions": [
+            "albury_upper_murray"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "Coffs Cardiology",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://coffscardiology.com.au/contact/",
+          "sponsored": false,
+          "regions": [
+            "coffs_harbour"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
+        },
+        {
+          "name": "Tweed Valley Hospital – Cudgen",
+          "details": "Cardiology. Outpatient review after acute assessment. Check referral criteria and availability.",
+          "url": "https://nnswlhd.health.nsw.gov.au/hospitals/tweed-valley-hospital/outpatient-clinics",
+          "sponsored": false,
+          "regions": [
+            "tweed_valley"
+          ]
+        },
+        {
+          "name": "Prof Greg Cranney – visiting Lord Howe Island",
+          "details": "Cardiology. Outpatient review after acute assessment. Visiting cardiologist. Dates are unconfirmed. Check with the island practice before referral.",
+          "url": "https://lordhowegp.com.au/visiting-specialists-and-allied-health-professionals/",
+          "sponsored": false,
+          "regions": [
+            "lord_howe_island"
           ]
         }
       ],
@@ -3155,6 +5643,96 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Nephrology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Nephrology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Nephrology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Nephrology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Nephrology. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Port Stephens Specialist Centre",
+          "details": "Nephrology. Check referral criteria and availability.",
+          "url": "https://www.portstephensspecialistcentre.com.au/",
+          "sponsored": false,
+          "regions": [
+            "port_stephens"
+          ]
+        },
+        {
+          "name": "Wollongong Hospital",
+          "details": "Nephrology. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/wollongong-hospital/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "wollongong_dapto"
+          ]
+        },
+        {
+          "name": "Shoalhaven Hospital – Nowra",
+          "details": "Nephrology. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/shoalhaven/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "shoalhaven"
+          ]
+        },
+        {
+          "name": "Bourke Aboriginal Corporation Health Service – visiting specialists",
+          "details": "Nephrology. Check referral criteria and availability.",
+          "url": "https://directory.wayahead.org.au/service/2181/",
+          "sponsored": false,
+          "regions": [
+            "bourke_cobar_coonamble"
+          ]
+        },
+        {
+          "name": "Armidale Specialist Centre",
+          "details": "Nephrology. Check referral criteria and availability.",
+          "url": "https://armidalesc.com.au/specialists/",
+          "sponsored": false,
+          "regions": [
+            "armidale"
           ]
         }
       ],
@@ -3276,6 +5854,177 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Dr Jonas Woo – Key Health Sydney CBD",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.keyhealth.com.au/tab-teams-cbd/specialists",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Blue Mountains Hospital – Katoomba",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-health/service-directory/gastroenterology-outpatient-bm",
+          "sponsored": false,
+          "regions": [
+            "blue_mountains"
+          ]
+        },
+        {
+          "name": "Liverpool Hospital",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/liverpool/services.html",
+          "sponsored": false,
+          "regions": [
+            "liverpool_green_valley"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "Central Coast Specialist Centre – Gosford",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.cclhd.health.nsw.gov.au/services/central-coast-specialist-centre/specialist-services/",
+          "sponsored": false,
+          "regions": [
+            "central_coast"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Maitland Private Hospital – East Maitland",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://maitlandprivatehospital.com.au/specialties/other-specialties",
+          "sponsored": false,
+          "regions": [
+            "maitland_lower_hunter"
+          ]
+        },
+        {
+          "name": "Port Stephens Specialist Centre",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.portstephensspecialistcentre.com.au/",
+          "sponsored": false,
+          "regions": [
+            "port_stephens"
+          ]
+        },
+        {
+          "name": "Wollongong Hospital",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/wollongong-hospital/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "wollongong_dapto"
+          ]
+        },
+        {
+          "name": "Shoalhaven Hospital – Nowra",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/shoalhaven/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "shoalhaven"
+          ]
+        },
+        {
+          "name": "Queanbeyan GP Super Clinic – visiting specialists",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://qgpsc.com.au/specialists/",
+          "sponsored": false,
+          "regions": [
+            "queanbeyan"
+          ]
+        },
+        {
+          "name": "Orange Specialist Clinic",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://orangespecialistclinic.com.au/contact/",
+          "sponsored": false,
+          "regions": [
+            "lachlan_orange"
+          ]
+        },
+        {
+          "name": "Bourke Aboriginal Corporation Health Service – visiting specialists",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://directory.wayahead.org.au/service/2181/",
+          "sponsored": false,
+          "regions": [
+            "bourke_cobar_coonamble"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Mayo Specialist Centre – Taree",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://mayoprivate.com.au/services/mayo-specialist-centre",
+          "sponsored": false,
+          "regions": [
+            "taree_great_lakes"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
         }
       ],
       "cpd": [],
@@ -3389,6 +6138,33 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Dr David Graham – Sydney Medical Specialists",
+          "details": "Mental health. Check referral criteria and availability.",
+          "url": "https://www.sydneymedicalspecialists.com.au/for-patients/",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "Deniliquin Community Mental Health and Drug and Alcohol Service",
+          "details": "Mental health. Community mental health assessment and treatment for eligible patients. Confirm intake criteria and which clinician will review.",
+          "url": "https://directory.wayahead.org.au/service/636/",
+          "sponsored": false,
+          "regions": [
+            "lower_murray"
+          ]
+        },
+        {
+          "name": "Mid North Coast Specialist Outreach Clinic – Coffs Harbour",
+          "details": "Mental health. Check referral criteria and availability.",
+          "url": "https://hnc.org.au/mnc-specialist-outreach-clinic/",
+          "sponsored": false,
+          "regions": [
+            "coffs_harbour"
+          ]
         }
       ],
       "cpd": [],
@@ -3492,6 +6268,177 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Dr Jonas Woo – Key Health Sydney CBD",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.keyhealth.com.au/tab-teams-cbd/specialists",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Blue Mountains Hospital – Katoomba",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-health/service-directory/gastroenterology-outpatient-bm",
+          "sponsored": false,
+          "regions": [
+            "blue_mountains"
+          ]
+        },
+        {
+          "name": "Liverpool Hospital",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/liverpool/services.html",
+          "sponsored": false,
+          "regions": [
+            "liverpool_green_valley"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "Central Coast Specialist Centre – Gosford",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.cclhd.health.nsw.gov.au/services/central-coast-specialist-centre/specialist-services/",
+          "sponsored": false,
+          "regions": [
+            "central_coast"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Maitland Private Hospital – East Maitland",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://maitlandprivatehospital.com.au/specialties/other-specialties",
+          "sponsored": false,
+          "regions": [
+            "maitland_lower_hunter"
+          ]
+        },
+        {
+          "name": "Port Stephens Specialist Centre",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.portstephensspecialistcentre.com.au/",
+          "sponsored": false,
+          "regions": [
+            "port_stephens"
+          ]
+        },
+        {
+          "name": "Wollongong Hospital",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/wollongong-hospital/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "wollongong_dapto"
+          ]
+        },
+        {
+          "name": "Shoalhaven Hospital – Nowra",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/shoalhaven/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "shoalhaven"
+          ]
+        },
+        {
+          "name": "Queanbeyan GP Super Clinic – visiting specialists",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://qgpsc.com.au/specialists/",
+          "sponsored": false,
+          "regions": [
+            "queanbeyan"
+          ]
+        },
+        {
+          "name": "Orange Specialist Clinic",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://orangespecialistclinic.com.au/contact/",
+          "sponsored": false,
+          "regions": [
+            "lachlan_orange"
+          ]
+        },
+        {
+          "name": "Bourke Aboriginal Corporation Health Service – visiting specialists",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://directory.wayahead.org.au/service/2181/",
+          "sponsored": false,
+          "regions": [
+            "bourke_cobar_coonamble"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Mayo Specialist Centre – Taree",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://mayoprivate.com.au/services/mayo-specialist-centre",
+          "sponsored": false,
+          "regions": [
+            "taree_great_lakes"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Gastroenterology. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
         }
       ],
       "cpd": [],
@@ -3594,6 +6541,51 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Rheumatology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Rheumatology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Rheumatology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "Dubbo Hospital – Ambulatory Care Centre",
+          "details": "Rheumatology. Check referral criteria and availability.",
+          "url": "https://engage.wnswlhd.health.nsw.gov.au/dubbo-outpatients-self-check",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "Rheumatology. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
           ]
         }
       ],
@@ -3708,6 +6700,78 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Beaches Hospital – Frenchs Forest",
+          "details": "Rapid access neurology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/northernbeaches/Pages/Outpatient-clinics.aspx",
+          "sponsored": false,
+          "regions": [
+            "northern_beaches"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Mid North Coast Specialist Outreach Clinic – Coffs Harbour",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://hnc.org.au/mnc-specialist-outreach-clinic/",
+          "sponsored": false,
+          "regions": [
+            "coffs_harbour"
+          ]
+        },
+        {
+          "name": "Marathon Health – Dubbo specialist outreach",
+          "details": "Visiting specialist services. Check the listed provider for the relevant specialty and confirm referral criteria and clinic dates.",
+          "url": "https://www.marathonhealth.com.au/service/outreach-specialist-services/",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
         }
       ],
       "cpd": [],
@@ -3812,6 +6876,321 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Dr Shruti Kapila – Key Health Sydney CBD",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.keyhealth.com.au/tab-teams-cbd/specialists",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Hornsby Ku-ring-gai Hospital",
+          "details": "Heart failure service. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Hornsby/Pages/Outpatient.aspx",
+          "sponsored": false,
+          "regions": [
+            "upper_north_shore"
+          ]
+        },
+        {
+          "name": "Ryde Hospital – Denistone",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Ryde/Pages/Outpatient-services.aspx",
+          "sponsored": false,
+          "regions": [
+            "ryde_epping"
+          ]
+        },
+        {
+          "name": "Westmead Private Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.westmeadprivate.com.au/Services/Clinical-Services",
+          "sponsored": false,
+          "regions": [
+            "parramatta_cumberland"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Blacktown Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/wslhd/hospitals-and-facilities/blacktown-services",
+          "sponsored": false,
+          "regions": [
+            "blacktown_mount_druitt"
+          ]
+        },
+        {
+          "name": "Hawkesbury District Hospital – Windsor",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-health/service-directory/hawkesbury-hospital-contact",
+          "sponsored": false,
+          "regions": [
+            "hawkesbury_windsor"
+          ]
+        },
+        {
+          "name": "Nepean Hospital – Kingswood",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.nsw.gov.au/departments-and-agencies/nbmlhd/service-directory/cardiology-outpatient-nepean",
+          "sponsored": false,
+          "regions": [
+            "penrith_st_marys"
+          ]
+        },
+        {
+          "name": "Fairfield Hospital – Prairiewood",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/fairfield/services.html",
+          "sponsored": false,
+          "regions": [
+            "fairfield"
+          ]
+        },
+        {
+          "name": "Liverpool Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/liverpool/services.html",
+          "sponsored": false,
+          "regions": [
+            "liverpool_green_valley"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "South West Cardiology – Camden",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://southwestcardio.com.au/our-services/",
+          "sponsored": false,
+          "regions": [
+            "camden_wollondilly"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Maitland Private Hospital – East Maitland",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://maitlandprivatehospital.com.au/specialties/other-specialties",
+          "sponsored": false,
+          "regions": [
+            "maitland_lower_hunter"
+          ]
+        },
+        {
+          "name": "Port Stephens Specialist Centre",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.portstephensspecialistcentre.com.au/",
+          "sponsored": false,
+          "regions": [
+            "port_stephens"
+          ]
+        },
+        {
+          "name": "Wollongong Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.islhd.health.nsw.gov.au/hospitals/wollongong-hospital/services-clinics/medicine-services",
+          "sponsored": false,
+          "regions": [
+            "wollongong_dapto"
+          ]
+        },
+        {
+          "name": "Dr Oliver Gibbs – Bowral Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/bowral/outpatientclinics.html",
+          "sponsored": false,
+          "regions": [
+            "southern_highlands"
+          ]
+        },
+        {
+          "name": "Queanbeyan GP Super Clinic – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://qgpsc.com.au/specialists/",
+          "sponsored": false,
+          "regions": [
+            "queanbeyan"
+          ]
+        },
+        {
+          "name": "Dr Sharon Wilson – Cooma",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://aushealthpages.com.au/directory/listing/cardiology-sharon-wilson",
+          "sponsored": false,
+          "regions": [
+            "snowy_mountains"
+          ]
+        },
+        {
+          "name": "Sapphire Coast Cardiology – Bega",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.sapphirecoastcardiology.com.au/cardiology",
+          "sponsored": false,
+          "regions": [
+            "eurobodalla_bega_valley"
+          ]
+        },
+        {
+          "name": "Young District Medical Centre – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.ydmc.com.au/our-specialists/",
+          "sponsored": false,
+          "regions": [
+            "young_yass"
+          ]
+        },
+        {
+          "name": "Mudgee Medical Centre – visiting cardiologist",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.mudgeemedical.com.au/visiting-specialists/",
+          "sponsored": false,
+          "regions": [
+            "bathurst_lithgow_mudgee"
+          ]
+        },
+        {
+          "name": "Dubbo Hospital – Ambulatory Care Centre",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://engage.wnswlhd.health.nsw.gov.au/dubbo-outpatients-self-check",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Bourke Aboriginal Corporation Health Service – visiting specialists",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://directory.wayahead.org.au/service/2181/",
+          "sponsored": false,
+          "regions": [
+            "bourke_cobar_coonamble"
+          ]
+        },
+        {
+          "name": "Griffith Aboriginal Medical Service – visiting specialists",
+          "details": "Cardiology. GP referral required. The service prioritises Aboriginal clients. Confirm eligibility and visit dates.",
+          "url": "https://www.griffithams.org.au/specialist",
+          "sponsored": false,
+          "regions": [
+            "griffith_western_riverina"
+          ]
+        },
+        {
+          "name": "Riverina Cardiology – Wagga Wagga",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.riverinacardiology.com.au/doctors",
+          "sponsored": false,
+          "regions": [
+            "wagga_wagga"
+          ]
+        },
+        {
+          "name": "Hume Cardiac Clinic – Albury",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://humecardiaccentre.com.au/services/",
+          "sponsored": false,
+          "regions": [
+            "albury_upper_murray"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "Coffs Cardiology",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://coffscardiology.com.au/contact/",
+          "sponsored": false,
+          "regions": [
+            "coffs_harbour"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
+        },
+        {
+          "name": "Tweed Valley Hospital – Cudgen",
+          "details": "Cardiology. Check referral criteria and availability.",
+          "url": "https://nnswlhd.health.nsw.gov.au/hospitals/tweed-valley-hospital/outpatient-clinics",
+          "sponsored": false,
+          "regions": [
+            "tweed_valley"
+          ]
+        },
+        {
+          "name": "Prof Greg Cranney – visiting Lord Howe Island",
+          "details": "Cardiology. Visiting cardiologist. Dates are unconfirmed. Check with the island practice before referral.",
+          "url": "https://lordhowegp.com.au/visiting-specialists-and-allied-health-professionals/",
+          "sponsored": false,
+          "regions": [
+            "lord_howe_island"
+          ]
         }
       ],
       "cpd": [],
@@ -3905,6 +7284,61 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Haematology. Confirm intake for persistent or unexplained iron deficiency anaemia. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Specialist Centre – St Leonards",
+          "details": "Haematology. Confirm intake for persistent or unexplained iron deficiency anaemia. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Services/Pages/Northern-Specialist-Centre.aspx",
+          "sponsored": false,
+          "regions": [
+            "lower_north_shore"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Haematology. Confirm intake for persistent or unexplained iron deficiency anaemia. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Haematology. Confirm intake for persistent or unexplained iron deficiency anaemia. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "Port Stephens Specialist Centre",
+          "details": "Haematology. Confirm intake for persistent or unexplained iron deficiency anaemia. Check referral criteria and availability.",
+          "url": "https://www.portstephensspecialistcentre.com.au/",
+          "sponsored": false,
+          "regions": [
+            "port_stephens"
+          ]
+        },
+        {
+          "name": "Dr Louise Imlay-Gillespie",
+          "details": "Haematology. Confirm intake for persistent or unexplained iron deficiency anaemia. Check referral criteria and availability.\nClinics: Grafton Base Hospital and Lismore.",
+          "url": "https://www.drlouiseimlaygillespie.com.au/contact",
+          "sponsored": false,
+          "regions": [
+            "clarence_valley",
+            "lismore_ballina_byron"
           ]
         }
       ],
@@ -4000,6 +7434,51 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Pain medicine. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Fairfield Hospital – Prairiewood",
+          "details": "Pain medicine. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/fairfield/services.html",
+          "sponsored": false,
+          "regions": [
+            "fairfield"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Pain medicine. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Port Stephens Specialist Centre",
+          "details": "Pain medicine. Check referral criteria and availability.",
+          "url": "https://www.portstephensspecialistcentre.com.au/",
+          "sponsored": false,
+          "regions": [
+            "port_stephens"
+          ]
+        },
+        {
+          "name": "Mayo Specialist Centre – Taree",
+          "details": "Pain medicine. Check referral criteria and availability.",
+          "url": "https://mayoprivate.com.au/services/mayo-specialist-centre",
+          "sponsored": false,
+          "regions": [
+            "taree_great_lakes"
           ]
         }
       ],
@@ -4105,6 +7584,78 @@
           "regions": [
             "eastern_suburbs"
           ]
+        },
+        {
+          "name": "Concord Hospital",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://slhd.health.nsw.gov.au/sites/default/files/2023-02/strategic_plan_19-24_concord.pdf",
+          "sponsored": false,
+          "regions": [
+            "inner_west"
+          ]
+        },
+        {
+          "name": "Northern Beaches Hospital – Frenchs Forest",
+          "details": "Rapid access neurology. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/northernbeaches/Pages/Outpatient-clinics.aspx",
+          "sponsored": false,
+          "regions": [
+            "northern_beaches"
+          ]
+        },
+        {
+          "name": "Norwest Private Hospital – Bella Vista",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://norwestprivatehospital.com.au/services/services-overview",
+          "sponsored": false,
+          "regions": [
+            "hills_district"
+          ]
+        },
+        {
+          "name": "Campbelltown Hospital",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://www.swslhd.health.nsw.gov.au/pdfs/planning/Camden-Campbelltown%20Hospital-%20Operational%20Plan%202023-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "campbelltown"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Regional Specialists Tamworth",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://www.regionalspecialists.com.au/",
+          "sponsored": false,
+          "regions": [
+            "tamworth_gunnedah"
+          ]
+        },
+        {
+          "name": "Mid North Coast Specialist Outreach Clinic – Coffs Harbour",
+          "details": "Neurology. Check referral criteria and availability.",
+          "url": "https://hnc.org.au/mnc-specialist-outreach-clinic/",
+          "sponsored": false,
+          "regions": [
+            "coffs_harbour"
+          ]
+        },
+        {
+          "name": "Marathon Health – Dubbo specialist outreach",
+          "details": "Visiting specialist services. Check the listed provider for the relevant specialty and confirm referral criteria and clinic dates.",
+          "url": "https://www.marathonhealth.com.au/service/outreach-specialist-services/",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
         }
       ],
       "cpd": [],
@@ -4208,6 +7759,87 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Hornsby Ku-ring-gai Hospital",
+          "details": "Orthopaedics or osteoarthritis service. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Hornsby/Pages/Outpatient.aspx",
+          "sponsored": false,
+          "regions": [
+            "upper_north_shore"
+          ]
+        },
+        {
+          "name": "Ryde Hospital – Denistone",
+          "details": "Orthopaedics or osteoarthritis service. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/Ryde/Pages/Outpatient-services.aspx",
+          "sponsored": false,
+          "regions": [
+            "ryde_epping"
+          ]
+        },
+        {
+          "name": "Westmead Private Hospital",
+          "details": "Orthopaedics or osteoarthritis service. Check referral criteria and availability.",
+          "url": "https://www.westmeadprivate.com.au/Services/Clinical-Services",
+          "sponsored": false,
+          "regions": [
+            "parramatta_cumberland"
+          ]
+        },
+        {
+          "name": "John Hunter Hospital – New Lambton Heights",
+          "details": "Orthopaedics or osteoarthritis service. Check referral criteria and availability.",
+          "url": "https://d34ae0kamx009d.cloudfront.net/assets/src/uploads/images/PRES_JHH-Outpatients.pdf",
+          "sponsored": false,
+          "regions": [
+            "newcastle_lake_macquarie"
+          ]
+        },
+        {
+          "name": "Dubbo Hospital – Ambulatory Care Centre",
+          "details": "Orthopaedics or osteoarthritis service. Check referral criteria and availability.",
+          "url": "https://engage.wnswlhd.health.nsw.gov.au/dubbo-outpatients-self-check",
+          "sponsored": false,
+          "regions": [
+            "dubbo"
+          ]
+        },
+        {
+          "name": "Armidale Specialist Centre",
+          "details": "Orthopaedics or osteoarthritis service. Check referral criteria and availability.",
+          "url": "https://armidalesc.com.au/specialists/",
+          "sponsored": false,
+          "regions": [
+            "armidale"
+          ]
+        },
+        {
+          "name": "Port Macquarie Base Hospital",
+          "details": "Orthopaedics or osteoarthritis service. Check referral criteria and availability.",
+          "url": "https://mnclhd.health.nsw.gov.au/hospital/port-macquarie-base-hospital/",
+          "sponsored": false,
+          "regions": [
+            "port_macquarie_kempsey"
+          ]
+        },
+        {
+          "name": "St Vincent’s Private Hospital – Lismore",
+          "details": "Orthopaedics or osteoarthritis service. Check referral criteria and availability.",
+          "url": "https://www.svh.org.au/services/",
+          "sponsored": false,
+          "regions": [
+            "lismore_ballina_byron"
+          ]
+        },
+        {
+          "name": "Young District Medical Centre – visiting specialist directory",
+          "details": "The directory lists visiting Dermatology, Urology and Orthopaedics in Young. Check the relevant provider, scope and availability.",
+          "url": "https://www.ydmc.com.au/our-specialists/",
+          "sponsored": false,
+          "regions": [
+            "young_yass"
           ]
         }
       ],
@@ -4327,6 +7959,15 @@
           "sponsored": false,
           "regions": [
             "eastern_suburbs"
+          ]
+        },
+        {
+          "name": "Northern Beaches Hospital – Frenchs Forest",
+          "details": "Osteoporosis clinic. Check referral criteria and availability.",
+          "url": "https://www.nslhd.health.nsw.gov.au/northernbeaches/Pages/Outpatient-clinics.aspx",
+          "sponsored": false,
+          "regions": [
+            "northern_beaches"
           ]
         }
       ],
@@ -4461,6 +8102,28 @@
       "offered": true
     },
     {
+      "id": "sydney_cbd_inner_south",
+      "name": "Sydney CBD–Inner South",
+      "parent": "nsw",
+      "nearby": [
+        "eastern_suburbs",
+        "inner_west",
+        "lower_north_shore"
+      ],
+      "offered": true
+    },
+    {
+      "id": "inner_west",
+      "name": "Inner West",
+      "parent": "nsw",
+      "nearby": [
+        "sydney_cbd_inner_south",
+        "bankstown_canterbury",
+        "ryde_epping"
+      ],
+      "offered": true
+    },
+    {
       "id": "eastern_suburbs",
       "name": "Eastern Suburbs",
       "parent": "nsw",
@@ -4469,6 +8132,541 @@
         "inner_west",
         "lower_north_shore"
       ],
+      "offered": true
+    },
+    {
+      "id": "lower_north_shore",
+      "name": "Lower North Shore",
+      "parent": "nsw",
+      "nearby": [
+        "upper_north_shore",
+        "northern_beaches",
+        "sydney_cbd_inner_south"
+      ],
+      "offered": true
+    },
+    {
+      "id": "upper_north_shore",
+      "name": "Upper North Shore",
+      "parent": "nsw",
+      "nearby": [
+        "lower_north_shore",
+        "ryde_epping",
+        "hills_district"
+      ],
+      "offered": true
+    },
+    {
+      "id": "northern_beaches",
+      "name": "Northern Beaches",
+      "parent": "nsw",
+      "nearby": [
+        "lower_north_shore",
+        "upper_north_shore",
+        "sydney_cbd_inner_south"
+      ],
+      "offered": true
+    },
+    {
+      "id": "ryde_epping",
+      "name": "Ryde–Epping",
+      "parent": "nsw",
+      "nearby": [
+        "parramatta_cumberland",
+        "upper_north_shore",
+        "inner_west"
+      ],
+      "offered": true
+    },
+    {
+      "id": "parramatta_cumberland",
+      "name": "Parramatta–Cumberland",
+      "parent": "nsw",
+      "nearby": [
+        "hills_district",
+        "ryde_epping",
+        "blacktown_mount_druitt"
+      ],
+      "offered": true
+    },
+    {
+      "id": "hills_district",
+      "name": "Hills District",
+      "parent": "nsw",
+      "nearby": [
+        "parramatta_cumberland",
+        "blacktown_mount_druitt",
+        "ryde_epping"
+      ],
+      "offered": true
+    },
+    {
+      "id": "blacktown_mount_druitt",
+      "name": "Blacktown–Mount Druitt",
+      "parent": "nsw",
+      "nearby": [
+        "parramatta_cumberland",
+        "penrith_st_marys",
+        "hills_district"
+      ],
+      "offered": true
+    },
+    {
+      "id": "hawkesbury_windsor",
+      "name": "Hawkesbury–Windsor",
+      "parent": "nsw",
+      "nearby": [
+        "penrith_st_marys",
+        "blacktown_mount_druitt",
+        "hills_district"
+      ],
+      "offered": true
+    },
+    {
+      "id": "penrith_st_marys",
+      "name": "Penrith–St Marys",
+      "parent": "nsw",
+      "nearby": [
+        "blacktown_mount_druitt",
+        "blue_mountains",
+        "hawkesbury_windsor"
+      ],
+      "offered": true
+    },
+    {
+      "id": "blue_mountains",
+      "name": "Blue Mountains",
+      "parent": "nsw",
+      "nearby": [
+        "penrith_st_marys",
+        "bathurst_lithgow_mudgee",
+        "hawkesbury_windsor"
+      ],
+      "offered": true
+    },
+    {
+      "id": "fairfield",
+      "name": "Fairfield",
+      "parent": "nsw",
+      "nearby": [
+        "liverpool_green_valley",
+        "parramatta_cumberland",
+        "bankstown_canterbury"
+      ],
+      "offered": true
+    },
+    {
+      "id": "liverpool_green_valley",
+      "name": "Liverpool–Green Valley",
+      "parent": "nsw",
+      "nearby": [
+        "fairfield",
+        "campbelltown",
+        "bankstown_canterbury"
+      ],
+      "offered": true
+    },
+    {
+      "id": "campbelltown",
+      "name": "Campbelltown",
+      "parent": "nsw",
+      "nearby": [
+        "camden_wollondilly",
+        "liverpool_green_valley",
+        "fairfield"
+      ],
+      "offered": true
+    },
+    {
+      "id": "camden_wollondilly",
+      "name": "Camden–Wollondilly",
+      "parent": "nsw",
+      "nearby": [
+        "campbelltown",
+        "liverpool_green_valley",
+        "southern_highlands"
+      ],
+      "offered": true
+    },
+    {
+      "id": "central_coast",
+      "name": "Central Coast",
+      "parent": "nsw",
+      "nearby": [
+        "newcastle_lake_macquarie",
+        "upper_north_shore",
+        "maitland_lower_hunter"
+      ],
+      "offered": true
+    },
+    {
+      "id": "newcastle_lake_macquarie",
+      "name": "Newcastle–Lake Macquarie",
+      "parent": "nsw",
+      "nearby": [
+        "maitland_lower_hunter",
+        "port_stephens",
+        "central_coast"
+      ],
+      "offered": true
+    },
+    {
+      "id": "maitland_lower_hunter",
+      "name": "Maitland–Lower Hunter",
+      "parent": "nsw",
+      "nearby": [
+        "newcastle_lake_macquarie",
+        "port_stephens",
+        "upper_hunter"
+      ],
+      "offered": true
+    },
+    {
+      "id": "port_stephens",
+      "name": "Port Stephens",
+      "parent": "nsw",
+      "nearby": [
+        "newcastle_lake_macquarie",
+        "maitland_lower_hunter",
+        "taree_great_lakes"
+      ],
+      "offered": true
+    },
+    {
+      "id": "upper_hunter",
+      "name": "Upper Hunter",
+      "parent": "nsw",
+      "nearby": [
+        "maitland_lower_hunter",
+        "newcastle_lake_macquarie",
+        "tamworth_gunnedah"
+      ],
+      "offered": true
+    },
+    {
+      "id": "wollongong_dapto",
+      "name": "Wollongong–Dapto",
+      "parent": "nsw",
+      "nearby": [
+        "shellharbour_kiama",
+        "sutherland_shire",
+        "campbelltown"
+      ],
+      "offered": true
+    },
+    {
+      "id": "shellharbour_kiama",
+      "name": "Shellharbour–Kiama",
+      "parent": "nsw",
+      "nearby": [
+        "wollongong_dapto",
+        "shoalhaven",
+        "southern_highlands"
+      ],
+      "offered": true
+    },
+    {
+      "id": "shoalhaven",
+      "name": "Shoalhaven",
+      "parent": "nsw",
+      "nearby": [
+        "shellharbour_kiama",
+        "wollongong_dapto",
+        "southern_highlands"
+      ],
+      "offered": true
+    },
+    {
+      "id": "southern_highlands",
+      "name": "Southern Highlands",
+      "parent": "nsw",
+      "nearby": [
+        "goulburn",
+        "camden_wollondilly",
+        "wollongong_dapto"
+      ],
+      "offered": true
+    },
+    {
+      "id": "goulburn",
+      "name": "Goulburn",
+      "parent": "nsw",
+      "nearby": [
+        "southern_highlands",
+        "queanbeyan",
+        "young_yass"
+      ],
+      "offered": true
+    },
+    {
+      "id": "queanbeyan",
+      "name": "Queanbeyan",
+      "parent": "nsw",
+      "nearby": [
+        "goulburn",
+        "young_yass",
+        "snowy_mountains"
+      ],
+      "offered": true
+    },
+    {
+      "id": "snowy_mountains",
+      "name": "Snowy Mountains",
+      "parent": "nsw",
+      "nearby": [
+        "queanbeyan",
+        "eurobodalla_bega_valley",
+        "tumut_snowy_valleys"
+      ],
+      "offered": true
+    },
+    {
+      "id": "eurobodalla_bega_valley",
+      "name": "Eurobodalla–Bega Valley",
+      "parent": "nsw",
+      "nearby": [
+        "shoalhaven",
+        "queanbeyan",
+        "snowy_mountains"
+      ],
+      "offered": true
+    },
+    {
+      "id": "young_yass",
+      "name": "Young–Yass",
+      "parent": "nsw",
+      "nearby": [
+        "goulburn",
+        "queanbeyan",
+        "lachlan_orange"
+      ],
+      "offered": true
+    },
+    {
+      "id": "bathurst_lithgow_mudgee",
+      "name": "Bathurst–Lithgow–Mudgee",
+      "parent": "nsw",
+      "nearby": [
+        "lachlan_orange",
+        "blue_mountains",
+        "dubbo"
+      ],
+      "offered": true
+    },
+    {
+      "id": "lachlan_orange",
+      "name": "Lachlan–Orange",
+      "parent": "nsw",
+      "nearby": [
+        "bathurst_lithgow_mudgee",
+        "dubbo",
+        "young_yass"
+      ],
+      "offered": true
+    },
+    {
+      "id": "dubbo",
+      "name": "Dubbo",
+      "parent": "nsw",
+      "nearby": [
+        "lachlan_orange",
+        "bourke_cobar_coonamble",
+        "bathurst_lithgow_mudgee"
+      ],
+      "offered": true
+    },
+    {
+      "id": "bourke_cobar_coonamble",
+      "name": "Bourke–Cobar–Coonamble",
+      "parent": "nsw",
+      "nearby": [
+        "dubbo",
+        "lachlan_orange",
+        "broken_hill_far_west"
+      ],
+      "offered": true
+    },
+    {
+      "id": "broken_hill_far_west",
+      "name": "Broken Hill–Far West",
+      "parent": "nsw",
+      "nearby": [
+        "bourke_cobar_coonamble",
+        "lower_murray",
+        "dubbo"
+      ],
+      "offered": true
+    },
+    {
+      "id": "griffith_western_riverina",
+      "name": "Griffith–Western Riverina",
+      "parent": "nsw",
+      "nearby": [
+        "wagga_wagga",
+        "lower_murray",
+        "albury_upper_murray"
+      ],
+      "offered": true
+    },
+    {
+      "id": "wagga_wagga",
+      "name": "Wagga Wagga",
+      "parent": "nsw",
+      "nearby": [
+        "tumut_snowy_valleys",
+        "albury_upper_murray",
+        "griffith_western_riverina"
+      ],
+      "offered": true
+    },
+    {
+      "id": "tumut_snowy_valleys",
+      "name": "Tumut–Snowy Valleys",
+      "parent": "nsw",
+      "nearby": [
+        "wagga_wagga",
+        "young_yass",
+        "albury_upper_murray"
+      ],
+      "offered": true
+    },
+    {
+      "id": "albury_upper_murray",
+      "name": "Albury–Upper Murray",
+      "parent": "nsw",
+      "nearby": [
+        "wagga_wagga",
+        "tumut_snowy_valleys",
+        "lower_murray"
+      ],
+      "offered": true
+    },
+    {
+      "id": "lower_murray",
+      "name": "Lower Murray",
+      "parent": "nsw",
+      "nearby": [
+        "griffith_western_riverina",
+        "albury_upper_murray",
+        "wagga_wagga"
+      ],
+      "offered": true
+    },
+    {
+      "id": "tamworth_gunnedah",
+      "name": "Tamworth–Gunnedah",
+      "parent": "nsw",
+      "nearby": [
+        "armidale",
+        "moree_narrabri",
+        "inverell_tenterfield"
+      ],
+      "offered": true
+    },
+    {
+      "id": "armidale",
+      "name": "Armidale",
+      "parent": "nsw",
+      "nearby": [
+        "tamworth_gunnedah",
+        "inverell_tenterfield",
+        "coffs_harbour"
+      ],
+      "offered": true
+    },
+    {
+      "id": "inverell_tenterfield",
+      "name": "Inverell–Tenterfield",
+      "parent": "nsw",
+      "nearby": [
+        "armidale",
+        "moree_narrabri",
+        "tamworth_gunnedah"
+      ],
+      "offered": true
+    },
+    {
+      "id": "moree_narrabri",
+      "name": "Moree–Narrabri",
+      "parent": "nsw",
+      "nearby": [
+        "tamworth_gunnedah",
+        "inverell_tenterfield",
+        "armidale"
+      ],
+      "offered": true
+    },
+    {
+      "id": "taree_great_lakes",
+      "name": "Taree–Great Lakes",
+      "parent": "nsw",
+      "nearby": [
+        "port_macquarie_kempsey",
+        "port_stephens",
+        "newcastle_lake_macquarie"
+      ],
+      "offered": true
+    },
+    {
+      "id": "port_macquarie_kempsey",
+      "name": "Port Macquarie–Kempsey",
+      "parent": "nsw",
+      "nearby": [
+        "taree_great_lakes",
+        "coffs_harbour",
+        "newcastle_lake_macquarie"
+      ],
+      "offered": true
+    },
+    {
+      "id": "coffs_harbour",
+      "name": "Coffs Harbour",
+      "parent": "nsw",
+      "nearby": [
+        "clarence_valley",
+        "port_macquarie_kempsey",
+        "armidale"
+      ],
+      "offered": true
+    },
+    {
+      "id": "clarence_valley",
+      "name": "Clarence Valley",
+      "parent": "nsw",
+      "nearby": [
+        "coffs_harbour",
+        "lismore_ballina_byron",
+        "tweed_valley"
+      ],
+      "offered": true
+    },
+    {
+      "id": "lismore_ballina_byron",
+      "name": "Lismore–Ballina–Byron",
+      "parent": "nsw",
+      "nearby": [
+        "tweed_valley",
+        "clarence_valley",
+        "coffs_harbour"
+      ],
+      "offered": true
+    },
+    {
+      "id": "tweed_valley",
+      "name": "Tweed Valley",
+      "parent": "nsw",
+      "nearby": [
+        "lismore_ballina_byron",
+        "clarence_valley",
+        "coffs_harbour"
+      ],
+      "offered": true
+    },
+    {
+      "id": "lord_howe_island",
+      "name": "Lord Howe Island",
+      "parent": "nsw",
+      "nearby": [],
       "offered": true
     }
   ],
