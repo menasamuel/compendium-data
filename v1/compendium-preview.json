@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "53eb22fd3445",
-  "updatedAt": "2026-11-22T22:31:12Z",
+  "version": "92e1078a026b",
+  "updatedAt": "2026-11-23T02:51:25Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -137,6 +137,15 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Cardiology, Randwick",
+          "details": "Hospital cardiology services. Confirm which outpatient clinic accepts the specific referral indication.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/medical-and-surgical-services",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -327,6 +336,33 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Dr Nicholas Shoung — Bankstown",
+          "details": "Endocrinologist for specialist diabetes review.",
+          "url": "https://www.sydneyendocrinology.com.au/dr-nicholas-shoung",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "A/Prof Terry Diamond — Kogarah",
+          "details": "Endocrinologist listing diabetes, thyroid disorders and metabolic bone disease.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/assoc-prof-terry-diamond/",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Endocrinology, Randwick",
+          "details": "Public endocrinology and diabetes referrals. Check clinic-specific intake criteria.",
+          "url": "https://www.seslhd.health.nsw.gov.au/electronic-referrals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -543,6 +579,24 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Dr Kunwardeep Bhatia — Bankstown",
+          "details": "Preventive cardiology and cardiovascular risk assessment for complex dyslipidaemia.",
+          "url": "https://www.bankstownheart.com.au/doctor/dr-kunwardeep-bhatia/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Cardiology, Randwick",
+          "details": "Hospital cardiology services. Confirm which outpatient clinic accepts the specific referral indication.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/medical-and-surgical-services",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -735,6 +789,24 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Dr Kunwardeep Bhatia — Bankstown",
+          "details": "General cardiology and cardiovascular risk assessment where a specialist opinion is indicated.",
+          "url": "https://www.bankstownheart.com.au/doctor/dr-kunwardeep-bhatia/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Cardiology, Randwick",
+          "details": "Hospital cardiology services. Confirm which outpatient clinic accepts the specific referral indication.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/medical-and-surgical-services",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -944,6 +1016,33 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Bankstown-Lidcombe Hospital — Respiratory Clinic",
+          "details": "Public respiratory outpatient clinic for complex or difficult-to-control adult asthma. Confirm referral criteria.",
+          "url": "https://swsphn.com.au/wp-content/uploads/2025/10/Final-SWSLHD-Medical-Clinic-Directory-Sept-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Respiratory and Sleep Department",
+          "details": "Adult respiratory specialist outpatient clinic for complex or persistent symptoms after initial assessment.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/respiratory-and-sleep-department",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Respiratory, Randwick",
+          "details": "Public respiratory outpatient referral for selected persistent or complex cases after initial assessment.",
+          "url": "https://www.seslhd.health.nsw.gov.au/electronic-referrals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -1143,6 +1242,33 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "The Kids Clinic — Bankstown",
+          "details": "General paediatric review for recurrent or atypical croup after acute assessment.",
+          "url": "https://kids-clinic.com.au/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Paediatric Outpatients",
+          "details": "General paediatric follow-up for recurrent or persistent concerns after acute assessment. Check catchment and intake.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/services-clinics/directory/st-george-paediatrics-department/outpatient-clinics-and-mri",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Sydney Children’s Hospital — General Paediatrics, Randwick",
+          "details": "General paediatric outpatient review for recurrent or persistent concerns after acute assessment. Local catchment applies.",
+          "url": "https://www.schn.health.nsw.gov.au/general-paediatric-medicine-sydney-childrens-hospital-randwick",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -1268,6 +1394,33 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Dr Andrew Talbot — Bankstown",
+          "details": "ENT surgeon with Bankstown consulting rooms. Check paediatric age range and referral scope.",
+          "url": "https://www.drandrewtalbot.com.au/contact-info",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Dr Cara Morris — Kogarah",
+          "details": "Paediatric ENT assessment for recurrent middle-ear disease or persistent effusion.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/dr-cara-morris/",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Sydney Children’s Hospital — ENT, Randwick",
+          "details": "Paediatric ENT service. Check referral criteria for recurrent otitis media or persistent effusion.",
+          "url": "https://www.schn.health.nsw.gov.au/ear-nose-and-throat-ent-sydney-childrens-hospital-randwick",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -1450,6 +1603,33 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Bankstown-Lidcombe Hospital — Respiratory Clinic",
+          "details": "Public respiratory outpatient clinic for specialist COPD review. Confirm referral criteria.",
+          "url": "https://swsphn.com.au/wp-content/uploads/2025/10/Final-SWSLHD-Medical-Clinic-Directory-Sept-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Respiratory and Sleep Department",
+          "details": "Adult respiratory specialist outpatient clinic for complex or persistent symptoms after initial assessment.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/respiratory-and-sleep-department",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Respiratory, Randwick",
+          "details": "Public respiratory outpatient referral for selected persistent or complex cases after initial assessment.",
+          "url": "https://www.seslhd.health.nsw.gov.au/electronic-referrals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -1658,6 +1838,33 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Dr Ashraf Philips — Bankstown",
+          "details": "Adult psychiatrist with a listed interest in anxiety disorders. Confirm current Bankstown intake.",
+          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/7087/dr-ashraf-philips",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Dr Jenny McGoldrick — Hurstville / Kogarah",
+          "details": "Consultant adult psychiatrist with a listed interest in anxiety and mood disorders.",
+          "url": "https://waratahprivate.com.au/doctor/dr-jenny-mcgoldrick/",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Randwick Psychiatry — Randwick",
+          "details": "Private psychiatry practice. Confirm clinician availability and referral scope.",
+          "url": "https://www.randwickpsychiatry.com.au/",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -1816,6 +2023,33 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "A/Prof Paul Sved — Bankstown",
+          "details": "Urologist with Bankstown consulting rooms for adult urological assessment when indicated for recurrent or complicated UTI.",
+          "url": "https://www.slhd.nsw.gov.au/rpa/urology/staff.html",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Urology — Kogarah",
+          "details": "Urology rooms for specialist assessment where indicated for recurrent or complicated adult UTI.",
+          "url": "https://stgeorgeurology.com.au/patient-info/frequently-asked-questions",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Murnaghan Urology Centre — Randwick",
+          "details": "Adult urology service for specialist assessment when indicated. Check recurrent UTI triage criteria.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/directory/murnaghan-urology-centre",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -1976,6 +2210,33 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Bankstown Dermatology — Bankstown",
+          "details": "Specialist dermatology rooms at 52 Meredith Street. Confirm current intake for eczema referrals.",
+          "url": "https://healthengine.com.au/dermatologist/nsw/bankstown/bankstown-dermatology/s66915",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Dermatology Department",
+          "details": "Public dermatology outpatient clinic for cases requiring specialist review. Check referral eligibility.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/services-clinics/directory/dermatology-department",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Dermatology, Randwick",
+          "details": "Public dermatology outpatient clinic. Check eligibility for the specific referral.",
+          "url": "https://www.seslhd.health.nsw.gov.au/electronic-referrals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -2068,6 +2329,33 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Dr Nicholas Shoung — Bankstown",
+          "details": "Endocrinologist with a clinical interest in thyroid disorders.",
+          "url": "https://www.sydneyendocrinology.com.au/dr-nicholas-shoung",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "A/Prof Terry Diamond — Kogarah",
+          "details": "Endocrinologist listing diabetes, thyroid disorders and metabolic bone disease.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/assoc-prof-terry-diamond/",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Endocrinology, Randwick",
+          "details": "Public endocrinology and diabetes referrals. Check clinic-specific intake criteria.",
+          "url": "https://www.seslhd.health.nsw.gov.au/electronic-referrals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -2179,6 +2467,33 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Bankstown-Lidcombe Hospital — Respiratory Clinic",
+          "details": "Respiratory outpatient assessment for recurrent pneumonia or persistent concerns after acute assessment.",
+          "url": "https://swsphn.com.au/wp-content/uploads/2025/10/Final-SWSLHD-Medical-Clinic-Directory-Sept-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Respiratory and Sleep Department",
+          "details": "Adult respiratory specialist outpatient clinic for complex or persistent symptoms after initial assessment.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/respiratory-and-sleep-department",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Respiratory, Randwick",
+          "details": "Public respiratory outpatient referral for selected persistent or complex cases after initial assessment.",
+          "url": "https://www.seslhd.health.nsw.gov.au/electronic-referrals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -2264,6 +2579,33 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Bankstown Dermatology — Bankstown",
+          "details": "Specialist dermatology rooms at 52 Meredith Street. Confirm current intake for acne referrals.",
+          "url": "https://healthengine.com.au/dermatologist/nsw/bankstown/bankstown-dermatology/s66915",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Dermatology Department",
+          "details": "Public dermatology outpatient clinic for cases requiring specialist review. Check referral eligibility.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/services-clinics/directory/dermatology-department",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Dermatology, Randwick",
+          "details": "Public dermatology outpatient clinic. Check eligibility for the specific referral.",
+          "url": "https://www.seslhd.health.nsw.gov.au/electronic-referrals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -2348,12 +2690,39 @@
           ]
         },
         {
-          "name": "Dr George Liangas — Campsie",
-          "details": "Child and adolescent psychiatrist with a listed interest in ADHD. Confirm age range and availability.",
-          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/6515/dr-georgios-liangas",
+          "name": "The Kids Clinic — Bankstown",
+          "details": "Paediatric assessment for attention and developmental concerns. Confirm current intake.",
+          "url": "https://kids-clinic.com.au/",
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Dr Ashraf Philips — Bankstown",
+          "details": "Adult psychiatrist with a listed interest in ADHD. Confirm current Bankstown intake.",
+          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/7087/dr-ashraf-philips",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Dr David Grace — Kogarah",
+          "details": "Adult psychiatrist whose RANZCP profile lists ADHD. Confirm current intake.",
+          "url": "https://www.yourhealthinmind.org/find-a-psychiatrist/profile/1213/dr-david-grace",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Dr Quinton Matepi — Randwick",
+          "details": "Consultant psychiatrist whose RANZCP profile lists ADHD. Confirm age range and intake.",
+          "url": "https://www.drmatepi.com.au/",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -2445,6 +2814,33 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "The Kids Clinic — Bankstown",
+          "details": "General paediatric review for persistent or recurrent respiratory concerns after acute assessment.",
+          "url": "https://kids-clinic.com.au/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Paediatric Outpatients",
+          "details": "General paediatric follow-up for recurrent or persistent concerns after acute assessment. Check catchment and intake.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/services-clinics/directory/st-george-paediatrics-department/outpatient-clinics-and-mri",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Sydney Children’s Hospital — General Paediatrics, Randwick",
+          "details": "General paediatric outpatient review for recurrent or persistent concerns after acute assessment. Local catchment applies.",
+          "url": "https://www.schn.health.nsw.gov.au/general-paediatric-medicine-sydney-childrens-hospital-randwick",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -2527,6 +2923,24 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Infectious Diseases Department",
+          "details": "Outpatient infectious diseases advice for selected recurrent or complicated cases after acute assessment.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/infectious-diseases-department",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Infectious Diseases, Randwick",
+          "details": "General infectious diseases outpatient clinic. Confirm intake for selected recurrent or complicated infections after acute assessment.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/directory/infectious-diseases-department/infectious-disease-clinics-information-for-health-professionals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -2613,6 +3027,24 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Dr Kais Hyasat — Bankstown",
+          "details": "Interventional cardiologist for outpatient assessment of stable suspected coronary symptoms.",
+          "url": "https://www.bankstownheart.com.au/doctor/dr-kais-hyasat/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Cardiology, Randwick",
+          "details": "Hospital cardiology services. Confirm which outpatient clinic accepts the specific referral indication.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/medical-and-surgical-services",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -2696,6 +3128,33 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Bankstown-Lidcombe Hospital — Renal Clinic",
+          "details": "Public nephrology outpatient clinic for chronic kidney disease referrals. Confirm intake criteria.",
+          "url": "https://swsphn.com.au/wp-content/uploads/2025/10/Final-SWSLHD-Medical-Clinic-Directory-Sept-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Renal Department",
+          "details": "Public nephrology service. GP or specialist referral required.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/renal-department",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Kidney Care Centre, Randwick",
+          "details": "Public kidney care referral pathway. Check nephrology referral eligibility.",
+          "url": "https://www.seslhd.health.nsw.gov.au/electronic-referrals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -2789,6 +3248,33 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Dr Tady Kordian — Bankstown",
+          "details": "Gastroenterologist with Bankstown rooms for specialist assessment of persistent gastrointestinal symptoms.",
+          "url": "https://healthygutandmind.com.au/dr-tady-kordian-2/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "South Sydney Gastroenterology & Hepatology — Kogarah",
+          "details": "Gastroenterology practice with expertise in functional and oesophageal disorders.",
+          "url": "https://www.southsydneygastro.com.au/",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Gastroenterology, Randwick",
+          "details": "Gastroenterology outpatient clinics. Check which clinic accepts the specific indication.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/directory/endoscopy-at-billington-centre/gastroenterology-and-hepatology-outpatient-clinics",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -2885,6 +3371,24 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Dr Jenny McGoldrick — Hurstville / Kogarah",
+          "details": "Consultant adult psychiatrist with a listed interest in anxiety and mood disorders.",
+          "url": "https://waratahprivate.com.au/doctor/dr-jenny-mcgoldrick/",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Randwick Psychiatry — Randwick",
+          "details": "Private psychiatry practice. Confirm clinician availability and referral scope.",
+          "url": "https://www.randwickpsychiatry.com.au/",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -2961,6 +3465,33 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Dr Tady Kordian — Bankstown",
+          "details": "Gastroenterologist with Bankstown rooms for specialist review of persistent or complicated reflux.",
+          "url": "https://healthygutandmind.com.au/dr-tady-kordian-2/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "South Sydney Gastroenterology & Hepatology — Kogarah",
+          "details": "Gastroenterology practice with expertise in functional and oesophageal disorders.",
+          "url": "https://www.southsydneygastro.com.au/",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Gastroenterology, Randwick",
+          "details": "Gastroenterology outpatient clinics. Check which clinic accepts the specific indication.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/directory/endoscopy-at-billington-centre/gastroenterology-and-hepatology-outpatient-clinics",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -3036,6 +3567,33 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Bankstown Rheumatology Clinic — Dr Harry Patapanian",
+          "details": "Rheumatologist listed for gout and crystal arthritis. Confirm current consulting and intake details.",
+          "url": "https://www.ausdocfinder.com/doctors/dr-harry-patapanian/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Integrated Specialist Medical Care — Rheumatology, Kogarah",
+          "details": "Rheumatology service listing gout and other forms of arthritis.",
+          "url": "https://www.integratedspecialistmedicalcare.com.au/kogarah/",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Rheumatology, Randwick",
+          "details": "Public rheumatology outpatient service. Review criteria for complex gout.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/directory/rheumatology-department/rheumatology-department-information-for-health-professionals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -3123,6 +3681,33 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Bankstown-Lidcombe Hospital — Neurology Clinic",
+          "details": "Public neurology outpatient clinic for specialist assessment of persistent or atypical headache after initial assessment.",
+          "url": "https://swsphn.com.au/wp-content/uploads/2025/10/Final-SWSLHD-Medical-Clinic-Directory-Sept-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Neurology Department",
+          "details": "General adult neurology outpatient review for persistent or complex symptoms.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/neurology-department",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Headache Clinic, Randwick",
+          "details": "Hospital headache clinic listed in the Randwick services directory. Check referral criteria.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -3209,6 +3794,24 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Dr Avalon Bryan — Bankstown",
+          "details": "Cardiologist with advanced heart failure and structural heart disease training.",
+          "url": "https://www.bankstownheart.com.au/doctor/dr-avalon-bryan/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Cardiology, Randwick",
+          "details": "Hospital cardiology services. Confirm which outpatient clinic accepts the specific referral indication.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/medical-and-surgical-services",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -3284,6 +3887,24 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Haematology",
+          "details": "Public haematology service listing iron deficiency anaemia. Review the clinic’s referral criteria.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/services-clinics/directory/haematology",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Dr Shivan Agrawal — Randwick",
+          "details": "Haematologist listing non-malignant haematology. Confirm scope for persistent or unexplained iron deficiency anaemia.",
+          "url": "https://princeofwalesprivatehospital.com.au/application/files/8817/7630/3722/POWPH_Specialist_Directory_2026_A4_140426.pdf",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -3362,6 +3983,24 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "St George Hospital — Pain Management Unit",
+          "details": "Specialist pain service for persistent pain. Check referral eligibility.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/pain-management-unit",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Pain Management, Randwick",
+          "details": "Multidisciplinary pain clinic for selected persistent pain referrals. Check criteria.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/directory/pain-management-department/pain-management-information-for-health-professionals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -3439,6 +4078,33 @@
           "regions": [
             "bankstown_canterbury"
           ]
+        },
+        {
+          "name": "Bankstown-Lidcombe Hospital — Neurology Clinic",
+          "details": "Public neurology outpatient clinic for specialist review of complex or persistent migraine. Confirm referral criteria.",
+          "url": "https://swsphn.com.au/wp-content/uploads/2025/10/Final-SWSLHD-Medical-Clinic-Directory-Sept-2025.pdf",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "St George Hospital — Neurology Department",
+          "details": "General adult neurology outpatient review for persistent or complex symptoms.",
+          "url": "https://www.seslhd.health.nsw.gov.au/st-george-hospital/neurology-department",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Headache Clinic, Randwick",
+          "details": "Hospital headache clinic listed in the Randwick services directory. Check referral criteria.",
+          "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
+          ]
         }
       ],
       "cpd": [],
@@ -3515,6 +4181,33 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "A/Prof Daniel Rahme — Bankstown",
+          "details": "Orthopaedic hip and knee surgeon for surgical assessment when indicated.",
+          "url": "https://drdanielrahme.com.au/",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Dr Stephen Rimmer — Kogarah",
+          "details": "Hip and knee orthopaedic surgeon for surgical assessment where indicated.",
+          "url": "https://www.stgeorgeprivate.com.au/Our-Doctors/Specialists/st-george-private-hospital/orthopaedic-surgery-hip-and-knee/101286/dr-stephen-rimmer",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Orthopaedics, Randwick",
+          "details": "Public orthopaedic outpatient referral pathway. Check joint-specific eligibility.",
+          "url": "https://www.seslhd.health.nsw.gov.au/electronic-referrals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -3607,6 +4300,33 @@
           "sponsored": false,
           "regions": [
             "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "Dr Eddy Tabet — Bankstown",
+          "details": "Endocrinologist with Bankstown rooms who lists osteoporosis among his areas of practice.",
+          "url": "https://www.dreddytabet.com/areasofexpertise",
+          "sponsored": false,
+          "regions": [
+            "bankstown_canterbury"
+          ]
+        },
+        {
+          "name": "A/Prof Terry Diamond — Kogarah",
+          "details": "Endocrinologist listing diabetes, thyroid disorders and metabolic bone disease.",
+          "url": "https://www.ramsayhealth.com.au/en/specialists-and-practitioners/assoc-prof-terry-diamond/",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Prince of Wales Hospital — Endocrinology, Randwick",
+          "details": "Public endocrinology and diabetes referrals. Check clinic-specific intake criteria.",
+          "url": "https://www.seslhd.health.nsw.gov.au/electronic-referrals",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
@@ -3715,6 +4435,39 @@
         "st_george",
         "bankstown_canterbury",
         "sydney_cbd_inner_south"
+      ],
+      "offered": true
+    },
+    {
+      "id": "st_george",
+      "name": "St George",
+      "parent": "nsw",
+      "nearby": [
+        "sutherland_shire",
+        "inner_west",
+        "bankstown_canterbury"
+      ],
+      "offered": true
+    },
+    {
+      "id": "bankstown_canterbury",
+      "name": "Bankstown–Canterbury",
+      "parent": "nsw",
+      "nearby": [
+        "st_george",
+        "inner_west",
+        "liverpool_green_valley"
+      ],
+      "offered": true
+    },
+    {
+      "id": "eastern_suburbs",
+      "name": "Eastern Suburbs",
+      "parent": "nsw",
+      "nearby": [
+        "sydney_cbd_inner_south",
+        "inner_west",
+        "lower_north_shore"
       ],
       "offered": true
     }
