@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "7eced2ec418b",
-  "updatedAt": "2026-11-23T05:30:00Z",
+  "version": "68cd883be572",
+  "updatedAt": "2026-11-23T10:06:33Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -7974,6 +7974,314 @@
       "cpd": [],
       "events": [],
       "pharma": []
+    },
+    {
+      "id": "chlamydia",
+      "name": "Chlamydia",
+      "speciality": "Sexual Health",
+      "keywords": [
+        "chlamydia trachomatis",
+        "chlamydial infection"
+      ],
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Australian STI Guidelines – Chlamydia",
+            "url": "https://sti.guidelines.org.au/sexually-transmissible-infections/chlamydia/",
+            "description": "Australian primary care guidance on testing, management, follow-up and partner notification.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "NSW Health Control Guideline – Chlamydia",
+            "url": "https://www.health.nsw.gov.au/Infectious/controlguideline/Pages/chlamydia.aspx",
+            "description": "NSW public health guidance on case and contact management.",
+            "regions": [
+              "nsw"
+            ]
+          },
+          {
+            "name": "Therapeutic Guidelines (eTG) – Chlamydia",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=chlamydia",
+            "description": "Search Therapeutic Guidelines for clinical management and prescribing.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "South Eastern Sydney HealthPathways – Chlamydia",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=chlamydia",
+            "description": "Search local HealthPathways for assessment and referral pathways.",
+            "regions": [
+              "sutherland_shire",
+              "st_george",
+              "eastern_suburbs"
+            ]
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Chlamydia",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=chlamydia",
+            "description": "Search AMH for therapeutic and prescribing information.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "name": "Australian STI Guidelines – Standard Asymptomatic Check-up",
+            "url": "https://sti.guidelines.org.au/standard-asymptomatic-checkup/",
+            "description": "Reference for selecting tests in an asymptomatic STI check-up.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "Australian STI Guidelines – Contact Tracing",
+            "url": "https://sti.guidelines.org.au/contact-tracing/",
+            "description": "Contact-tracing guidance for clinicians.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "Let Them Know",
+            "url": "https://letthemknow.org.au/",
+            "description": "Send an anonymous SMS or email to notify sexual partners.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "NSW Health STI Testing Tool",
+            "url": "https://www.health.nsw.gov.au/sexualhealth/documents/sti-testing-tool.pdf",
+            "description": "NSW Health quick reference for STI testing.",
+            "regions": [
+              "nsw"
+            ]
+          },
+          {
+            "name": "NSW Health – Patient Delivered Partner Therapy",
+            "url": "https://www.health.nsw.gov.au/sexualhealth/Pages/sti-health-professionals.aspx",
+            "description": "NSW clinician resources for patient delivered partner therapy for genital chlamydia.",
+            "regions": [
+              "nsw"
+            ]
+          },
+          {
+            "name": "Short Street Sexual Health Outreach Clinic – Caringbah",
+            "url": "https://www.seslhd.health.nsw.gov.au/services-clinics/planning-population-and-equity/short-street-centre/krc-southssc-%E2%80%93-outreach-clinic",
+            "description": "Asymptomatic sexual health screening for eligible groups at The Sutherland Hospital. Check eligibility and booking details.",
+            "regions": [
+              "sutherland_shire"
+            ]
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Chlamydia",
+            "url": "https://www.healthdirect.gov.au/conditions/sexually-transmitted-infections-sti/chlamydia",
+            "description": "Australian patient information on symptoms, testing and treatment.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "NSW Health – Chlamydia Fact Sheet",
+            "url": "https://www.health.nsw.gov.au/Infectious/factsheets/Pages/chlamydia.aspx",
+            "description": "NSW patient fact sheet on symptoms, testing, treatment and partner notification.",
+            "regions": [
+              "nsw"
+            ]
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Short Street Centre – Kogarah",
+          "details": "Public specialist sexual health service at St George Hospital. Check eligibility and contact the clinic for referral advice.",
+          "url": "https://www.seslhd.health.nsw.gov.au/services-clinics/directory/short-street-centre/about-short-street-centre-ssc",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Sydney Sexual Health Centre – Sydney Hospital",
+          "details": "Public specialist sexual health service at Sydney Hospital. Check eligibility and booking information.",
+          "url": "https://www.seslhd.health.nsw.gov.au/sydney-sexual-health-centre",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "NSW Health – Public Sexual Health Clinic Directory",
+          "details": "Find public sexual health clinics by area and check local contact and access details.",
+          "url": "https://www.health.nsw.gov.au/sexualhealth/Pages/sexual-health-clinics.aspx",
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
+        }
+      ],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "gonorrhoea",
+      "name": "Gonorrhoea",
+      "speciality": "Sexual Health",
+      "keywords": [
+        "gonorrhea",
+        "gonococcal infection",
+        "neisseria gonorrhoeae",
+        "the clap"
+      ],
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Australian STI Guidelines – Gonorrhoea",
+            "url": "https://sti.guidelines.org.au/sexually-transmissible-infections/gonorrhoea/",
+            "description": "Australian primary care guidance on testing, management, follow-up and partner notification.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "NSW Health Control Guideline – Gonorrhoea",
+            "url": "https://www.health.nsw.gov.au/Infectious/controlguideline/Pages/gonorrhoea.aspx",
+            "description": "NSW public health guidance on case and contact management.",
+            "regions": [
+              "nsw"
+            ]
+          },
+          {
+            "name": "Therapeutic Guidelines (eTG) – Gonorrhoea",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=gonorrhoea",
+            "description": "Search Therapeutic Guidelines for clinical management and prescribing.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "South Eastern Sydney HealthPathways – Gonorrhoea",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=gonorrhoea",
+            "description": "Search local HealthPathways for assessment and referral pathways.",
+            "regions": [
+              "sutherland_shire",
+              "st_george",
+              "eastern_suburbs"
+            ]
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) – Gonorrhoea",
+            "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=gonorrhoea",
+            "description": "Search AMH for therapeutic and prescribing information.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "name": "Australian STI Guidelines – Standard Asymptomatic Check-up",
+            "url": "https://sti.guidelines.org.au/standard-asymptomatic-checkup/",
+            "description": "Reference for selecting tests in an asymptomatic STI check-up.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "Australian STI Guidelines – Contact Tracing",
+            "url": "https://sti.guidelines.org.au/contact-tracing/",
+            "description": "Contact-tracing guidance for clinicians.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "Let Them Know",
+            "url": "https://letthemknow.org.au/",
+            "description": "Send an anonymous SMS or email to notify sexual partners.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "NSW Health STI Testing Tool",
+            "url": "https://www.health.nsw.gov.au/sexualhealth/documents/sti-testing-tool.pdf",
+            "description": "NSW Health quick reference for STI testing.",
+            "regions": [
+              "nsw"
+            ]
+          },
+          {
+            "name": "Short Street Sexual Health Outreach Clinic – Caringbah",
+            "url": "https://www.seslhd.health.nsw.gov.au/services-clinics/planning-population-and-equity/short-street-centre/krc-southssc-%E2%80%93-outreach-clinic",
+            "description": "Asymptomatic sexual health screening for eligible groups at The Sutherland Hospital. Check eligibility and booking details.",
+            "regions": [
+              "sutherland_shire"
+            ]
+          }
+        ],
+        "factsheets": [
+          {
+            "name": "Healthdirect – Gonorrhoea",
+            "url": "https://www.healthdirect.gov.au/conditions/sexually-transmitted-infections-sti/gonorrhoea-the-clap",
+            "description": "Australian patient information on symptoms, testing and treatment.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "NSW Health – Gonorrhoea Fact Sheet",
+            "url": "https://www.health.nsw.gov.au/Infectious/factsheets/Pages/gonorrhoea.aspx",
+            "description": "NSW patient fact sheet on symptoms, testing, treatment and partner notification.",
+            "regions": [
+              "nsw"
+            ]
+          }
+        ]
+      },
+      "specialists": [
+        {
+          "name": "Short Street Centre – Kogarah",
+          "details": "Public specialist sexual health service at St George Hospital. Check eligibility and contact the clinic for referral advice.",
+          "url": "https://www.seslhd.health.nsw.gov.au/services-clinics/directory/short-street-centre/about-short-street-centre-ssc",
+          "sponsored": false,
+          "regions": [
+            "st_george"
+          ]
+        },
+        {
+          "name": "Sydney Sexual Health Centre – Sydney Hospital",
+          "details": "Public specialist sexual health service at Sydney Hospital. Check eligibility and booking information.",
+          "url": "https://www.seslhd.health.nsw.gov.au/sydney-sexual-health-centre",
+          "sponsored": false,
+          "regions": [
+            "sydney_cbd_inner_south"
+          ]
+        },
+        {
+          "name": "NSW Health – Public Sexual Health Clinic Directory",
+          "details": "Find public sexual health clinics by area and check local contact and access details.",
+          "url": "https://www.health.nsw.gov.au/sexualhealth/Pages/sexual-health-clinics.aspx",
+          "sponsored": false,
+          "regions": [
+            "nsw"
+          ]
+        }
+      ],
+      "cpd": [],
+      "events": [],
+      "pharma": []
     }
   ],
   "cpd": [
@@ -8047,6 +8355,19 @@
       "url": "https://www.racgp.org.au/racgp-digital-events-calendar/search-events?searchmode=anyword&searchtext=type%202%20diabetes",
       "topics": [
         "type_2_diabetes_mellitus"
+      ],
+      "regions": [
+        "national"
+      ],
+      "sponsored": false
+    },
+    {
+      "name": "ASHM – Clinical Foundations of Sexual Health",
+      "details": "Free, on-demand RACGP-approved course covering chlamydia, gonorrhoea, STI testing and contact tracing. 1 CPD hour.",
+      "url": "https://ashm.org.au/education/sexual-health-fundamentals/",
+      "topics": [
+        "chlamydia",
+        "gonorrhoea"
       ],
       "regions": [
         "national"
