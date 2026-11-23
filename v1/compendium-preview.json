@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "68cd883be572",
-  "updatedAt": "2026-11-23T10:06:33Z",
+  "version": "fb6085a542f3",
+  "updatedAt": "2026-11-23T10:15:47Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -23,7 +23,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Atrial Fibrillation",
+            "name": "HealthPathways - Atrial Fibrillation",
             "url": "https://sesydney.communityhealthpathways.org/search?q=atrial%20fibrillation",
             "description": "Localised investigation, referral, anticoagulation, and cardiology pathway guidance.",
             "regions": [
@@ -41,7 +41,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Atrial Fibrillation",
+            "name": "Australian Medicines Handbook (AMH) - Atrial Fibrillation",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=atrial%20fibrillation",
             "description": "Dosing, contraindications, renal adjustment, interactions, and comparative prescribing guidance for anticoagulants and AF medications.",
             "regions": [
@@ -547,7 +547,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Type 2 Diabetes Mellitus",
+            "name": "HealthPathways - Type 2 Diabetes Mellitus",
             "url": "https://sesydney.communityhealthpathways.org/search?q=type%202%20diabetes%20mellitus",
             "description": "Localised referral, insulin initiation, monitoring, and complication management pathways.",
             "regions": [
@@ -581,7 +581,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Type 2 Diabetes Mellitus",
+            "name": "Australian Medicines Handbook (AMH) - Type 2 Diabetes Mellitus",
             "url": "https://amhonline.amh.net.au/search?t=class&q=type%202%20diabetes%20mellitus",
             "description": "Dosing, contraindications, renal adjustment, PBS considerations, and comparison of diabetes medications.",
             "regions": [
@@ -933,7 +933,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Hyperlipidaemia",
+            "name": "HealthPathways - Hyperlipidaemia",
             "url": "https://sesydney.communityhealthpathways.org/search?q=hyperlipidaemia",
             "description": "Localised lipid investigation, management, and specialist referral guidance.",
             "regions": [
@@ -943,7 +943,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Statins",
+            "name": "Australian Medicines Handbook (AMH) - Hyperlipidaemia",
             "url": "https://amhonline.amh.net.au/search?t=class&q=statins",
             "description": "Dosing, interactions, adverse effects, and comparison of statins and other lipid-lowering therapies.",
             "regions": [
@@ -1449,7 +1449,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Hypertension",
+            "name": "HealthPathways - Hypertension",
             "url": "https://sesydney.communityhealthpathways.org/search?q=hypertension",
             "description": "Localised investigation, medication escalation, and referral guidance for hypertension management.",
             "regions": [
@@ -1467,7 +1467,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Antihypertensives",
+            "name": "Australian Medicines Handbook (AMH) - Hypertension",
             "url": "https://amhonline.amh.net.au/search?t=class&q=antihypertensives",
             "description": "Dosing, contraindications, interactions, and comparison of antihypertensive medication classes.",
             "regions": [
@@ -1966,7 +1966,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Asthma",
+            "name": "HealthPathways - Asthma",
             "url": "https://sesydney.communityhealthpathways.org/search?q=asthma",
             "description": "Localised asthma investigation, management, and referral guidance.",
             "regions": [
@@ -1984,7 +1984,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Asthma",
+            "name": "Australian Medicines Handbook (AMH) - Asthma",
             "url": "https://amhonline.amh.net.au/search?t=monograph&q=asthma",
             "description": "Dosing, inhaler selection, adverse effects, and comparative prescribing information for asthma medications.",
             "regions": [
@@ -2291,7 +2291,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Croup",
+            "name": "HealthPathways - Croup",
             "url": "https://sesydney.communityhealthpathways.org/search?q=croup",
             "description": "Localised paediatric assessment, referral, and emergency escalation guidance for croup.",
             "regions": [
@@ -2309,7 +2309,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Croup",
+            "name": "Australian Medicines Handbook (AMH) - Croup",
             "url": "https://amhonline.amh.net.au/search?t=class&q=croup",
             "description": "Dosing, adverse effects, contraindications, and prescribing guidance for corticosteroid therapy in croup.",
             "regions": [
@@ -2604,7 +2604,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Otitis Media",
+            "name": "HealthPathways - Otitis Media",
             "url": "https://sesydney.communityhealthpathways.org/search?q=otitis%20media",
             "description": "Localised referral, hearing assessment, and management guidance for otitis media.",
             "regions": [
@@ -2622,7 +2622,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Ear Infections",
+            "name": "Australian Medicines Handbook (AMH) - Otitis Media",
             "url": "https://amhonline.amh.net.au/search?t=class&q=ear%20infections",
             "description": "Dosing, adverse effects, and prescribing guidance for first-line otitis media antibiotics.",
             "regions": [
@@ -2966,7 +2966,7 @@
             ]
           },
           {
-            "name": "HealthPathways – COPD",
+            "name": "HealthPathways - COPD",
             "url": "https://sesydney.communityhealthpathways.org/search?q=copd",
             "description": "Localised referral, spirometry interpretation, oxygen therapy, and COPD management guidance.",
             "regions": [
@@ -2984,7 +2984,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – COPD",
+            "name": "Australian Medicines Handbook (AMH) - COPD",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=copd",
             "description": "Dosing, inhaler selection, adverse effects, and comparative prescribing information for COPD therapies.",
             "regions": [
@@ -3266,7 +3266,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Anxiety",
+            "name": "HealthPathways - Anxiety",
             "url": "https://sesydney.communityhealthpathways.org/search?q=anxiety",
             "description": "Localised mental health assessment, referral pathways, and escalation guidance for anxiety presentations.",
             "regions": [
@@ -3284,7 +3284,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Anxiety",
+            "name": "Australian Medicines Handbook (AMH) - Anxiety",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=anxiety",
             "description": "Dosing, adverse effects, interactions, and comparative prescribing guidance for anxiolytics and antidepressants.",
             "regions": [
@@ -3527,7 +3527,7 @@
             ]
           },
           {
-            "name": "HealthPathways – UTI",
+            "name": "HealthPathways - UTI",
             "url": "https://sesydney.communityhealthpathways.org/search?q=uti",
             "description": "Localised investigation, antibiotic recommendations, and referral guidance for UTIs.",
             "regions": [
@@ -3545,7 +3545,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Urinary Infections",
+            "name": "Australian Medicines Handbook (AMH) - UTI",
             "url": "https://amhonline.amh.net.au/search?t=other&q=urinary%20infections",
             "description": "Dosing, contraindications, interactions, pregnancy considerations, and antibiotic prescribing guidance for urinary tract infections.",
             "regions": [
@@ -3758,7 +3758,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Eczema",
+            "name": "HealthPathways - Eczema",
             "url": "https://sesydney.communityhealthpathways.org/search?q=eczema",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -3776,7 +3776,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Eczema",
+            "name": "Australian Medicines Handbook (AMH) - Eczema",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=atopic%20dermatitis",
             "description": "Search AMH for prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -3969,7 +3969,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Hypothyroidism",
+            "name": "HealthPathways - Hypothyroidism",
             "url": "https://sesydney.communityhealthpathways.org/search?q=hypothyroidism",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -3987,7 +3987,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Hypothyroidism",
+            "name": "Australian Medicines Handbook (AMH) - Hypothyroidism",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=hypothyroidism",
             "description": "Search AMH for prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -4216,7 +4216,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Pneumonia",
+            "name": "HealthPathways - Pneumonia",
             "url": "https://sesydney.communityhealthpathways.org/search?q=pneumonia",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -4234,7 +4234,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Respiratory Infections",
+            "name": "Australian Medicines Handbook (AMH) - Pneumonia",
             "url": "https://amhonline.amh.net.au/chapters/anti-infectives/tables/respiratory-infections-table",
             "description": "Search AMH for prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -4442,7 +4442,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Acne",
+            "name": "HealthPathways - Acne",
             "url": "https://sesydney.communityhealthpathways.org/search?q=acne",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -4452,7 +4452,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Acne",
+            "name": "Australian Medicines Handbook (AMH) - Acne",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=acne",
             "description": "Search AMH for acne prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -4634,7 +4634,7 @@
             ]
           },
           {
-            "name": "HealthPathways – ADHD",
+            "name": "HealthPathways - ADHD",
             "url": "https://sesydney.communityhealthpathways.org/search?q=adhd",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -4652,7 +4652,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Attention deficit hyperactivity disorder",
+            "name": "Australian Medicines Handbook (AMH) - ADHD",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=attention%20deficit%20hyperactivity%20disorder",
             "description": "Search AMH for attention deficit hyperactivity disorder prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -4770,7 +4770,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Bronchiolitis",
+            "name": "HealthPathways - Bronchiolitis",
             "url": "https://sesydney.communityhealthpathways.org/search?q=bronchiolitis",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -4788,7 +4788,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Respiratory Infections",
+            "name": "Australian Medicines Handbook (AMH) - Bronchiolitis",
             "url": "https://amhonline.amh.net.au/chapters/anti-infectives/tables/respiratory-infections-table",
             "description": "Search AMH for prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -5032,7 +5032,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Cellulitis",
+            "name": "HealthPathways - Cellulitis",
             "url": "https://sesydney.communityhealthpathways.org/search?q=cellulitis",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -5050,7 +5050,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Skin and Soft Tissue Infections",
+            "name": "Australian Medicines Handbook (AMH) - Cellulitis",
             "url": "https://amhonline.amh.net.au/chapters/anti-infectives/tables/skin-soft-tissue-infections-table",
             "description": "Search AMH for cellulitis prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -5152,7 +5152,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Chest Pain",
+            "name": "HealthPathways - Chest Pain",
             "url": "https://sesydney.communityhealthpathways.org/search?q=chest%20pain",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -5162,7 +5162,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Acute coronary syndromes",
+            "name": "Australian Medicines Handbook (AMH) - Chest Pain",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=acute%20coronary%20syndromes",
             "description": "Prescribing reference for suspected acute coronary syndromes; medication use depends on diagnosis and emergency assessment.",
             "regions": [
@@ -5561,7 +5561,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Chronic Kidney Disease",
+            "name": "HealthPathways - Chronic Kidney Disease",
             "url": "https://sesydney.communityhealthpathways.org/search?q=chronic%20kidney%20disease",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -5579,7 +5579,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Renal impairment",
+            "name": "Australian Medicines Handbook (AMH) - Chronic Kidney Disease",
             "url": "https://amhonline.amh.net.au/search?t=other&q=renal%20impairment",
             "description": "Search AMH for renal impairment prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -5762,7 +5762,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Constipation",
+            "name": "HealthPathways - Constipation",
             "url": "https://sesydney.communityhealthpathways.org/search?q=constipation",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -5780,7 +5780,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Laxatives",
+            "name": "Australian Medicines Handbook (AMH) - Constipation",
             "url": "https://amhonline.amh.net.au/search?t=class&q=laxatives",
             "description": "Search AMH for laxatives prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -6055,7 +6055,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Depression",
+            "name": "HealthPathways - Depression",
             "url": "https://sesydney.communityhealthpathways.org/search?q=depression",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -6065,7 +6065,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Depression",
+            "name": "Australian Medicines Handbook (AMH) - Depression",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=depression",
             "description": "Search AMH for depression prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -6193,7 +6193,7 @@
             ]
           },
           {
-            "name": "HealthPathways – GORD",
+            "name": "HealthPathways - GORD",
             "url": "https://sesydney.communityhealthpathways.org/search?q=gord",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -6203,7 +6203,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Proton pump inhibitors",
+            "name": "Australian Medicines Handbook (AMH) - GORD",
             "url": "https://amhonline.amh.net.au/search?t=class&q=proton%20pump%20inhibitors",
             "description": "Search AMH for proton pump inhibitors prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -6467,7 +6467,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Gout",
+            "name": "HealthPathways - Gout",
             "url": "https://sesydney.communityhealthpathways.org/search?q=gout",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -6477,7 +6477,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Gout",
+            "name": "Australian Medicines Handbook (AMH) - Gout",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=gout",
             "description": "Search AMH for gout prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -6617,7 +6617,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Headache",
+            "name": "HealthPathways - Headache",
             "url": "https://sesydney.communityhealthpathways.org/search?q=headache",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -6635,7 +6635,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Analgesics",
+            "name": "Australian Medicines Handbook (AMH) - Headache",
             "url": "https://amhonline.amh.net.au/search?t=class&q=analgesics",
             "description": "Search AMH for analgesics prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -6801,7 +6801,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Heart Failure",
+            "name": "HealthPathways - Heart Failure",
             "url": "https://sesydney.communityhealthpathways.org/search?q=heart%20failure",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -6811,7 +6811,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Heart failure",
+            "name": "Australian Medicines Handbook (AMH) - Heart Failure",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=heart%20failure",
             "description": "Search AMH for heart failure prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -7219,7 +7219,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Iron Deficiency",
+            "name": "HealthPathways - Iron Deficiency",
             "url": "https://sesydney.communityhealthpathways.org/search?q=iron%20deficiency",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -7229,7 +7229,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Iron",
+            "name": "Australian Medicines Handbook (AMH) - Iron Deficiency",
             "url": "https://amhonline.amh.net.au/search?t=class&q=iron",
             "description": "Search AMH for iron prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -7369,7 +7369,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Low Back Pain",
+            "name": "HealthPathways - Low Back Pain",
             "url": "https://sesydney.communityhealthpathways.org/search?q=low%20back%20pain",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -7379,7 +7379,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Analgesics",
+            "name": "Australian Medicines Handbook (AMH) - Low Back Pain",
             "url": "https://amhonline.amh.net.au/search?t=class&q=analgesics",
             "description": "Search AMH for analgesics prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -7509,7 +7509,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Migraine",
+            "name": "HealthPathways - Migraine",
             "url": "https://sesydney.communityhealthpathways.org/search?q=migraine",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -7519,7 +7519,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Migraine",
+            "name": "Australian Medicines Handbook (AMH) - Migraine",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=migraine",
             "description": "Search AMH for migraine prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -7685,7 +7685,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Osteoarthritis",
+            "name": "HealthPathways - Osteoarthritis",
             "url": "https://sesydney.communityhealthpathways.org/search?q=osteoarthritis",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -7695,7 +7695,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Osteoarthritis",
+            "name": "Australian Medicines Handbook (AMH) - Osteoarthritis",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=osteoarthritis",
             "description": "Search AMH for osteoarthritis prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -7868,7 +7868,7 @@
             ]
           },
           {
-            "name": "HealthPathways – Osteoporosis",
+            "name": "HealthPathways - Osteoporosis",
             "url": "https://sesydney.communityhealthpathways.org/search?q=osteoporosis",
             "description": "Local investigation, management, and referral pathways; requires regional access.",
             "regions": [
@@ -7886,7 +7886,7 @@
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Osteoporosis",
+            "name": "Australian Medicines Handbook (AMH) - Osteoporosis",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=osteoporosis",
             "description": "Search AMH for osteoporosis prescribing, dosing, contraindications, and interactions.",
             "regions": [
@@ -7986,6 +7986,24 @@
       "sections": {
         "guidelines": [
           {
+            "name": "Therapeutic Guidelines (eTG) – Chlamydia",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=chlamydia",
+            "description": "Search Therapeutic Guidelines for clinical management and prescribing.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "HealthPathways - Chlamydia",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=chlamydia",
+            "description": "Search local HealthPathways for assessment and referral pathways.",
+            "regions": [
+              "sutherland_shire",
+              "st_george",
+              "eastern_suburbs"
+            ]
+          },
+          {
             "name": "Australian STI Guidelines – Chlamydia",
             "url": "https://sti.guidelines.org.au/sexually-transmissible-infections/chlamydia/",
             "description": "Australian primary care guidance on testing, management, follow-up and partner notification.",
@@ -8000,29 +8018,11 @@
             "regions": [
               "nsw"
             ]
-          },
-          {
-            "name": "Therapeutic Guidelines (eTG) – Chlamydia",
-            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=chlamydia",
-            "description": "Search Therapeutic Guidelines for clinical management and prescribing.",
-            "regions": [
-              "national"
-            ]
-          },
-          {
-            "name": "South Eastern Sydney HealthPathways – Chlamydia",
-            "url": "https://sesydney.communityhealthpathways.org/search?q=chlamydia",
-            "description": "Search local HealthPathways for assessment and referral pathways.",
-            "regions": [
-              "sutherland_shire",
-              "st_george",
-              "eastern_suburbs"
-            ]
           }
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Chlamydia",
+            "name": "Australian Medicines Handbook (AMH) - Chlamydia",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=chlamydia",
             "description": "Search AMH for therapeutic and prescribing information.",
             "regions": [
@@ -8145,6 +8145,24 @@
       "sections": {
         "guidelines": [
           {
+            "name": "Therapeutic Guidelines (eTG) – Gonorrhoea",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=gonorrhoea",
+            "description": "Search Therapeutic Guidelines for clinical management and prescribing.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "HealthPathways - Gonorrhoea",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=gonorrhoea",
+            "description": "Search local HealthPathways for assessment and referral pathways.",
+            "regions": [
+              "sutherland_shire",
+              "st_george",
+              "eastern_suburbs"
+            ]
+          },
+          {
             "name": "Australian STI Guidelines – Gonorrhoea",
             "url": "https://sti.guidelines.org.au/sexually-transmissible-infections/gonorrhoea/",
             "description": "Australian primary care guidance on testing, management, follow-up and partner notification.",
@@ -8159,29 +8177,11 @@
             "regions": [
               "nsw"
             ]
-          },
-          {
-            "name": "Therapeutic Guidelines (eTG) – Gonorrhoea",
-            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=gonorrhoea",
-            "description": "Search Therapeutic Guidelines for clinical management and prescribing.",
-            "regions": [
-              "national"
-            ]
-          },
-          {
-            "name": "South Eastern Sydney HealthPathways – Gonorrhoea",
-            "url": "https://sesydney.communityhealthpathways.org/search?q=gonorrhoea",
-            "description": "Search local HealthPathways for assessment and referral pathways.",
-            "regions": [
-              "sutherland_shire",
-              "st_george",
-              "eastern_suburbs"
-            ]
           }
         ],
         "medications": [
           {
-            "name": "Australian Medicines Handbook (AMH) – Gonorrhoea",
+            "name": "Australian Medicines Handbook (AMH) - Gonorrhoea",
             "url": "https://amhonline.amh.net.au/search?t=therapeutic&q=gonorrhoea",
             "description": "Search AMH for therapeutic and prescribing information.",
             "regions": [
