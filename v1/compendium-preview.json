@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "9053abfff437",
-  "updatedAt": "2026-11-23T11:34:40Z",
+  "version": "21f557907e9c",
+  "updatedAt": "2026-11-24T07:50:13Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -7254,6 +7254,15 @@
           "name": "Gastroenterology Associates Miranda",
           "details": "Assessment of gastrointestinal causes of unexplained/recurrent iron deficiency; endoscopic investigation where indicated.",
           "url": "https://www.gastroenterologyassociatesmiranda.com.au/service/iron-deficiency/",
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Shire Doctors & Dentists",
+          "details": "GP clinic offering iron infusions at 6/416 Kingsway, Caringbah. Call (02) 9063 8650 for appointments.",
+          "url": "https://www.shiredoctorsanddentists.com.au/medical/iron-infusion-clinic/",
           "sponsored": false,
           "regions": [
             "sutherland_shire"
