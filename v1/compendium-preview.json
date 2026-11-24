@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "32e967332bf1",
-  "updatedAt": "2026-11-24T07:55:45Z",
+  "version": "74abdf1f0b29",
+  "updatedAt": "2026-11-24T23:09:11Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -8739,6 +8739,87 @@
           "sponsored": false,
           "regions": [
             "st_george"
+          ]
+        }
+      ],
+      "cpd": [],
+      "events": [],
+      "pharma": []
+    },
+    {
+      "id": "periorbital_cellulitis",
+      "name": "Periorbital cellulitis",
+      "speciality": "Paediatrics",
+      "keywords": [
+        "preseptal cellulitis",
+        "pre-septal cellulitis"
+      ],
+      "sections": {
+        "guidelines": [
+          {
+            "name": "Therapeutic Guidelines (eTG) – Periorbital cellulitis",
+            "url": "https://app.tg.org.au/searchAction/?appendedinputbuttons=periorbital%20cellulitis",
+            "description": "Search eTG for assessment and antimicrobial management.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "HealthPathways - Periorbital cellulitis",
+            "url": "https://sesydney.communityhealthpathways.org/search?q=periorbital%20cellulitis",
+            "description": "Search South Eastern Sydney HealthPathways for local management and referral guidance.",
+            "regions": [
+              "national"
+            ]
+          },
+          {
+            "name": "RCH Clinical Practice Guideline – Periorbital and orbital cellulitis",
+            "url": "https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_Orbital_Cellulitis/",
+            "description": "Paediatric assessment, distinguishing orbital cellulitis, antibiotic therapy and escalation.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "medications": [
+          {
+            "name": "Australian Medicines Handbook (AMH) - Periorbital cellulitis",
+            "url": "https://amhonline.amh.net.au/chapters/anti-infectives/tables/skin-soft-tissue-infections-table",
+            "description": "Prescribing reference for antibiotics used in skin and soft tissue infections.",
+            "regions": [
+              "national"
+            ]
+          }
+        ],
+        "tools": [],
+        "factsheets": []
+      },
+      "specialists": [
+        {
+          "name": "Southside Paediatrics — Miranda",
+          "details": "General paediatric outpatient follow-up for selected recurrent or complex cases after acute assessment.",
+          "url": "https://southsidepaediatrics.com.au/",
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
+        },
+        {
+          "name": "The Sutherland Hospital — Paediatric Outpatient Clinic",
+          "details": "General paediatric outpatient follow-up after acute assessment. Check referral criteria and catchment.",
+          "url": "https://www.seslhd.health.nsw.gov.au/sutherland-hospital/paediatric-outpatient-clinic",
+          "sponsored": false,
+          "regions": [
+            "sutherland_shire"
+          ]
+        },
+        {
+          "name": "Sydney Children’s Hospital — Infectious Diseases and Microbiology, Randwick",
+          "details": "Paediatric infectious diseases outpatient review for selected recurrent or complicated infections after acute assessment. GP or specialist referral required.",
+          "url": "https://www.schn.health.nsw.gov.au/infectious-diseases-and-microbiology-sydney-childrens-hospital-randwick",
+          "sponsored": false,
+          "regions": [
+            "eastern_suburbs"
           ]
         }
       ],
