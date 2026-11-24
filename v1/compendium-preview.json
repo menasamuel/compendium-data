@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "21f557907e9c",
-  "updatedAt": "2026-11-24T07:50:13Z",
+  "version": "32e967332bf1",
+  "updatedAt": "2026-11-24T07:55:45Z",
   "topics": [
     {
       "id": "atrial_fibrillation",
@@ -7263,7 +7263,7 @@
           "name": "Shire Doctors & Dentists",
           "details": "GP clinic offering iron infusions at 6/416 Kingsway, Caringbah. Call (02) 9063 8650 for appointments.",
           "url": "https://www.shiredoctorsanddentists.com.au/medical/iron-infusion-clinic/",
-          "sponsored": false,
+          "sponsored": true,
           "regions": [
             "sutherland_shire"
           ]
